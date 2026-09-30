@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Alcorn Sports Schedule Sync
  * Description: Imports Alcorn County boys and girls varsity schedules into The Events Calendar and displays a filterable schedule.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Requires PHP: 8.0
  * Requires Plugins: the-events-calendar
  * Author: Alcorn County Sports
@@ -63,7 +63,10 @@ function acs_sync() {
                 $id = $found ? (int) $found[0] : 0;
             }
             $hash = hash('sha256', wp_json_encode(array($event['date'], $event['time'], $event['status'], $event['title'], $event['location'], $event['sourceUrl'], $event['schools'], $event['sport'], $event['gender'])));
-            if (!$id || get_post_meta($id, '_acs_hash', true) !== $hash || get_post_status($id) !== 'publish') {
+            $start = new DateTimeImmutable($event['date'] . ' ' . ($event['time'] ?? '00:00'), new DateTimeZone('America/Chicago'));
+            $all_day = is_null($event['time']);
+            $end = $all_day ? $start->setTime(23, 59, 59) : $start->modify('+2 hours');
+            if (!$id || get_post_meta($id, '_acs_hash', true) !== $hash || get_post_status($id) !== 'publish' || get_post_meta($id, '_EventStartDate', true) !== $start->format('Y-m-d H:i:s') || get_post_meta($id, '_EventEndDate', true) !== $end->format('Y-m-d H:i:s')) {
                 // Keep requests short on shared hosting. Completed rows are idempotent,
                 // and the next batch resumes from the saved index without duplicating events.
                 if ($changed >= 30 || ($changed && microtime(true) > $deadline)) {
@@ -71,8 +74,6 @@ function acs_sync() {
                     if (!wp_next_scheduled('acs_continue_sync')) { wp_schedule_single_event(time() + 5, 'acs_continue_sync'); }
                     return false;
                 }
-                $start = new DateTimeImmutable($event['date'] . ' ' . ($event['time'] ?? '00:00'), new DateTimeZone('America/Chicago'));
-                $all_day = is_null($event['time']);
                 $title = ($event['status'] === 'scheduled' ? '' : strtoupper($event['status']) . ': ') . $event['gender'] . ' ' . $event['sport'] . ': ' . $event['title'] . ($all_day ? ' (time TBD)' : '');
                 $content = '<p>Boys and girls varsity sports for Alcorn County. All times Central.</p><p>' . esc_html($event['location']) . '</p>';
                 $content .= '<p>' . ($all_day ? 'Start time has not been announced.' : 'Start time: ' . esc_html($start->format('g:i a T')) . '. End time is an estimate for calendar display.') . '</p>';
@@ -80,12 +81,15 @@ function acs_sync() {
                 $content .= '<p>' . esc_html($event['note'] ?? '') . '</p>';
                 $content .= '<p>Schedule subject to change. <a href="' . esc_url($event['sourceUrl']) . '">View the source schedule</a>.</p>';
                 $args = array('post_title' => sanitize_text_field($title), 'post_content' => $content, 'post_status' => 'publish', 'post_type' => 'tribe_events', 'comment_status' => 'closed',
-                    'EventStartDate' => $start->format('Y-m-d H:i:s'), 'EventEndDate' => ($all_day ? $start->setTime(23, 59, 59) : $start->modify('+2 hours'))->format('Y-m-d H:i:s'),
+                    // TEC requires separate time fields for timed events, even when a datetime is supplied.
+                    'EventStartDate' => $start->format('Y-m-d'), 'EventStartTime' => $start->format('H:i:s'),
+                    'EventEndDate' => $end->format('Y-m-d'), 'EventEndTime' => $end->format('H:i:s'),
                     'EventTimezone' => 'America/Chicago', 'EventAllDay' => $all_day, 'EventShowMap' => false, 'EventShowMapLink' => false, 'EventURL' => esc_url_raw($event['sourceUrl']),
                     'meta_input' => array('_acs_key' => $key));
                 $result = $id ? tribe_update_event($id, $args) : tribe_create_event($args);
                 if (is_wp_error($result) || !$result) { throw new RuntimeException('Could not save an event; import will retry.'); }
                 $id = (int) $result;
+                if (get_post_meta($id, '_EventStartDate', true) !== $start->format('Y-m-d H:i:s') || get_post_meta($id, '_EventEndDate', true) !== $end->format('Y-m-d H:i:s')) { throw new RuntimeException('Calendar did not save the expected game dates; import will retry.'); }
                 update_post_meta($id, '_acs_key', $key); update_post_meta($id, '_acs_hash', $hash);
                 update_post_meta($id, '_acs_source_status', $event['status']);
                 $terms = array_merge(array('Alcorn County Varsity', $event['gender'], $event['sport']), $event['schools']);
@@ -95,6 +99,7 @@ function acs_sync() {
                 $changed++;
             }
             $event['eventUrl'] = get_permalink($id);
+            $event['eventId'] = $id;
         }
         unset($event);
         // Only retire this importer's missing FUTURE events; retain historical and manual events.

@@ -27,7 +27,13 @@ function tribe_create_event($args) { $GLOBALS['creates']++; return tribe_update_
 function tribe_update_event($id, $args) {
     $meta = $GLOBALS['posts'][$id]['meta'] ?? array();
     $GLOBALS['posts'][$id] = $args; $GLOBALS['posts'][$id]['meta'] = array_merge($meta, $args['meta_input']);
-    update_post_meta($id, '_EventStartDate', $args['EventStartDate']); return $id;
+    // Match TEC's separate date/time contract; datetime-only arguments lose timed dates.
+    $has_dates = $args['EventAllDay'] || (isset($args['EventStartTime'], $args['EventEndTime']));
+    if ($has_dates) {
+        update_post_meta($id, '_EventStartDate', $args['EventStartDate'] . ' ' . ($args['EventAllDay'] ? '00:00:00' : $args['EventStartTime']));
+        update_post_meta($id, '_EventEndDate', $args['EventEndDate'] . ' ' . ($args['EventAllDay'] ? '23:59:59' : $args['EventEndTime']));
+    }
+    return $id;
 }
 function wp_set_object_terms(...$args) {}
 function wp_update_post($args) { $GLOBALS['posts'][$args['ID']] = array_merge($GLOBALS['posts'][$args['ID']], $args); return $args['ID']; }
@@ -38,10 +44,12 @@ $event = array('id' => 'game1', 'date' => '2030-10-02', 'time' => '19:00', 'gend
 $feed = array('timezone' => 'America/Chicago', 'lastChecked' => '2030-09-30T10:00:00Z', 'schools' => array_map(function ($name) { return array('name' => $name); }, ACS_SCHOOLS), 'events' => array($event), 'coverage' => array());
 check(acs_sync() === true && $creates === 1, 'creates a native WordPress event');
 $id = 101;
-check($posts[$id]['EventAllDay'] === false && $posts[$id]['EventTimezone'] === 'America/Chicago', 'timed games remain timed in Central timezone');
+check($posts[$id]['EventAllDay'] === false && $posts[$id]['EventTimezone'] === 'America/Chicago' && get_post_meta($id, '_EventStartDate', true) === '2030-10-02 19:00:00', 'timed games save a real start date in Central timezone');
 check(acs_sync() === true && $creates === 1, 'repeated import is idempotent');
 $feed['events'][0]['time'] = '18:00';
-check(acs_sync() === true && $creates === 1 && $posts[$id]['EventStartDate'] === '2030-10-02 18:00:00', 'rescheduling updates the same event');
+check(acs_sync() === true && $creates === 1 && get_post_meta($id, '_EventStartDate', true) === '2030-10-02 18:00:00', 'rescheduling updates the same event');
+update_post_meta($id, '_EventStartDate', '');
+check(acs_sync() === true && $creates === 1 && get_post_meta($id, '_EventStartDate', true) === '2030-10-02 18:00:00', 'repairs missing native dates even when the source is unchanged');
 $feed['events'][0]['status'] = 'cancelled';
 check(acs_sync() === true && str_starts_with($posts[$id]['post_title'], 'CANCELLED:'), 'cancellations are visible');
 $feed['events'][0]['time'] = null;
