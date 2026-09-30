@@ -68,8 +68,8 @@
         const stamp = new Intl.DateTimeFormat('en-US', { timeZone: 'America/Chicago', month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' }).format(new Date(data.lastChecked));
         status.textContent = `Last source check: ${stamp}`;
         const stale = Date.now() - Date.parse(data.lastChecked) > 6 * 3600000;
-        warning.hidden = !(stale || data.issues.length || data.syncError);
-        warning.textContent = stale ? 'Schedule updates are delayed. Showing the last available schedule; check the source for recent changes.' : 'Some source schedules could not be refreshed. Their last available games are retained; see coverage below.';
+        warning.hidden = !(stale || data.issues.length || data.syncError || data.importPending);
+        warning.textContent = stale ? 'Schedule updates are delayed. Showing the last available schedule; check the source for recent changes.' : data.importPending ? 'The full schedule is available below. The month calendar is completing its first import.' : 'Some source schedules could not be refreshed. Their last available games are retained; see coverage below.';
         coverageBody.replaceChildren();
         data.schools.forEach(school => {
           const rows = data.coverage.filter(s => s.school === school.name);

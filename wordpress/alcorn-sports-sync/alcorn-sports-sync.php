@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Alcorn Sports Schedule Sync
  * Description: Imports Alcorn County boys and girls varsity schedules into The Events Calendar and displays a filterable schedule.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Requires PHP: 8.0
  * Requires Plugins: the-events-calendar
  * Author: Alcorn County Sports
@@ -126,6 +126,14 @@ add_action('rest_api_init', function () {
         $interval = get_option('acs_import_pending') ? 15 : 300;
         if ((int) get_option('acs_last_attempt', 0) < time() - $interval) { acs_sync(); }
         $data = get_option('acs_schedule', array());
+        // A first import must not leave the public list empty while native events are batched.
+        // The pending feed has already passed the same school/varsity/source validation.
+        if (!$data && get_option('acs_import_pending')) {
+            $data = get_option('acs_import_pending');
+            $data['importPending'] = true;
+            foreach ($data['events'] as &$event) { unset($event['eventUrl'], $event['eventId']); }
+            unset($event);
+        }
         if (!$data) { return new WP_Error('acs_unavailable', 'Schedule is updating. Please try again shortly.', array('status' => 503)); }
         $data['wordpressSyncedAt'] = gmdate('c', (int) get_option('acs_last_success', 0));
         $data['syncError'] = get_option('acs_sync_error', '');
@@ -134,8 +142,8 @@ add_action('rest_api_init', function () {
 });
 
 add_shortcode('alcorn_sports_schedule', function () {
-    wp_enqueue_style('alcorn-sports-schedule', plugins_url('calendar.css', __FILE__), array(), '1.0.0');
-    wp_enqueue_script('alcorn-sports-schedule', plugins_url('calendar.js', __FILE__), array(), '1.0.0', true);
+    wp_enqueue_style('alcorn-sports-schedule', plugins_url('calendar.css', __FILE__), array(), '1.0.2');
+    wp_enqueue_script('alcorn-sports-schedule', plugins_url('calendar.js', __FILE__), array(), '1.0.2', true);
     return '<div class="acs-calendar" data-feed="' . esc_url(rest_url('alcorn-sports/v1/schedule')) . '" data-month-url="' . esc_url(home_url('/events/month/')) . '"><p role="status">Loading Alcorn County varsity schedules…</p></div><noscript><p><a href="' . esc_url(home_url('/events/')) . '">View the sports calendar</a></p></noscript>';
 });
 

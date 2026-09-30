@@ -12,6 +12,7 @@ for (let attempt = 0; attempt < 40; attempt++) {
     if (!response.ok) throw new Error(`WordPress HTTP ${response.status}`);
     const data = await response.json();
     if (data.syncError) throw new Error(data.syncError);
+    if (data.importPending) { console.log('Source schedule available; native WordPress events are still importing.'); continue; }
     if (data.lastChecked >= expected.lastChecked && data.events.every(e => e.eventUrl?.startsWith('https://alcornsportsms.com/'))) {
       const samples = [data.events.find(e => e.time), data.events.find(e => !e.time)].filter(Boolean);
       for (const event of samples) {
