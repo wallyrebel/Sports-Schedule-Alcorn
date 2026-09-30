@@ -1,0 +1,4609 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Alcorn County Sports//Varsity Schedule//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Alcorn County Varsity Sports
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4b7a33202deefa14a149d31f5864d469@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260917T180000
+SUMMARY:Girls Volleyball: Biggersville at Pine Grove
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/biggersville-corinth-vs
+ -pine-grove-ripley/9-17-2026/?c=1a2be510-f21c-4bf9-8876-f1ba84fcc517
+LOCATION:Pine Grove\, Ripley\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/biggersville-corinth-vs-
+ pine-grove-ripley/9-17-2026/?c=1a2be510-f21c-4bf9-8876-f1ba84fcc517
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c16d6b60ce7fdbf321b363ca6b800fa9@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260917T183000
+SUMMARY:Girls Volleyball: South Pontotoc at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/corinth-vs-south-pontot
+ oc/9-17-2026/?c=e2428df7-8574-4385-ac4f-260f50830994
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/corinth-vs-south-pontoto
+ c/9-17-2026/?c=e2428df7-8574-4385-ac4f-260f50830994
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5a1ee38ac214ba047053cf9d47fe0958@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260917T190000
+SUMMARY:Girls Volleyball: Alcorn Central at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/alcorn-central-glen-vs-
+ kossuth/9-17-2026/?c=adfd1c5b-b2e8-4509-9876-b7af0383a3de
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/alcorn-central-glen-vs-k
+ ossuth/9-17-2026/?c=adfd1c5b-b2e8-4509-9876-b7af0383a3de
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9683d21c77a9e4b04aa85b6591c041df@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260918T190000
+SUMMARY:Boys Football: Biggersville at Booneville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-bo
+ oneville/9-18-2026/?c=3dceccb7-85ea-4447-8b23-9335aab27b3e
+LOCATION:Booneville\, Booneville\, MS
+URL:https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-boo
+ neville/9-18-2026/?c=3dceccb7-85ea-4447-8b23-9335aab27b3e
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5accbc5b4d465d463fc7c9bde068265b@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260918T190000
+SUMMARY:Boys Football: Nettleton at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/kossuth-vs-nettleton/9-18-
+ 2026/?c=9d03865e-afcb-4390-8fc2-9ddd46bf28e1
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/football/game/kossuth-vs-nettleton/9-18-2
+ 026/?c=9d03865e-afcb-4390-8fc2-9ddd46bf28e1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f9f4ae19726435162c3192f5b9d96b6d@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260918T190000
+SUMMARY:Boys Football: Pontotoc at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/corinth-vs-pontotoc/9-18-2
+ 026/?c=be718937-2116-4e1e-bcd2-3c6cbac503fe
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/football/game/corinth-vs-pontotoc/9-18-20
+ 26/?c=be718937-2116-4e1e-bcd2-3c6cbac503fe
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:50ed3a8e13a6216eb785ce1a7cb5e6f6@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260918T190000
+SUMMARY:Boys Football: Walnut at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-wal
+ nut/9-18-2026/?c=bfe86600-e63f-41f5-9a6a-ea25040a0cf0
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-waln
+ ut/9-18-2026/?c=bfe86600-e63f-41f5-9a6a-ea25040a0cf0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:85d0698e90fba02147f9ca24f31c20e0@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260919
+SUMMARY:Boys & Girls Cross Country: Saltillo Cross Country Invitational (
+ time TBD)
+DESCRIPTION:Varsity. All times Central. School-listed varsity meet. Boys/
+ girls race assignments and start times: see meet information. Middle-sch
+ ool-only and JV-only meets excluded. Time TBD — check source. Schedule
+  subject to change. Source: https://ms.milesplit.com/meets/739717-saltil
+ lo-cross-country-invitational-2026/info
+LOCATION:Saltillo High School Campus\, Saltillo\, MS
+URL:https://ms.milesplit.com/meets/739717-saltillo-cross-country-invitati
+ onal-2026/info
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ba686fdf141737892138b9ab38fb89c7@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260921T183000
+SUMMARY:Girls Volleyball: Falkner at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/biggersville-corinth-vs
+ -falkner/9-21-2026/?c=37a5fb05-e9de-42db-a732-9f51b803dd46
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/biggersville-corinth-vs-
+ falkner/9-21-2026/?c=37a5fb05-e9de-42db-a732-9f51b803dd46
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f475f8f0e05153556e71cf3c377e86ee@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260922T180000
+SUMMARY:Girls Volleyball: Biggersville at Jumpertown
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/biggersville-corinth-vs
+ -jumpertown-booneville/9-22-2026/?c=deeabfaf-244b-49ed-aa4c-77aff02c0a3e
+LOCATION:Jumpertown\, Booneville\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/biggersville-corinth-vs-
+ jumpertown-booneville/9-22-2026/?c=deeabfaf-244b-49ed-aa4c-77aff02c0a3e
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:069be2efed149ad31f803a214af415f0@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260922T183000
+SUMMARY:Girls Volleyball: Kossuth at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/alcorn-central-glen-vs-
+ kossuth/9-22-2026/?c=53d229fd-5948-432e-b6a7-8c76b5ed0e71
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/alcorn-central-glen-vs-k
+ ossuth/9-22-2026/?c=53d229fd-5948-432e-b6a7-8c76b5ed0e71
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9829aed7009f9f479847ee353fec344d@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260922T183000
+SUMMARY:Girls Volleyball: North Pontotoc at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/corinth-vs-north-pontot
+ oc-ecru/9-22-2026/?c=336d7985-1eb4-4d54-8fea-f8bffda88ba5
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/corinth-vs-north-pontoto
+ c-ecru/9-22-2026/?c=336d7985-1eb4-4d54-8fea-f8bffda88ba5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1fed2cacebf25e0e0034a938f83ce012@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260924T173000
+SUMMARY:Girls Volleyball: Pine Grove at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/biggersville-corinth-vs
+ -pine-grove-ripley/9-24-2026/?c=0e2d4499-76c2-497c-91dd-dac9a22f7d76
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/biggersville-corinth-vs-
+ pine-grove-ripley/9-24-2026/?c=0e2d4499-76c2-497c-91dd-dac9a22f7d76
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:187caff97a91a4006a577d1c813bcc1b@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260924T183000
+SUMMARY:Girls Volleyball: Alcorn Central at Belmont
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/alcorn-central-glen-vs-
+ belmont/9-24-2026/?c=c455d1af-7e95-4c4b-a1ea-ddd18910404e
+LOCATION:Belmont\, Belmont\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/alcorn-central-glen-vs-b
+ elmont/9-24-2026/?c=c455d1af-7e95-4c4b-a1ea-ddd18910404e
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:167f9255c3783eca588f1f370bb46a99@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260924T183000
+SUMMARY:Girls Volleyball: Kossuth at Mantachie
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/kossuth-vs-mantachie/9-
+ 24-2026/?c=d64c12dc-fc6b-41e8-8c28-2b50a00b47fe
+LOCATION:Mantachie\, Mantachie\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/kossuth-vs-mantachie/9-2
+ 4-2026/?c=d64c12dc-fc6b-41e8-8c28-2b50a00b47fe
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a7a37991ad40221baa75f664279d3e88@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260924
+SUMMARY:Boys & Girls Cross Country: Topper Trails High School Classic-FUL
+ L (time TBD)
+DESCRIPTION:Varsity. All times Central. School-listed varsity meet. Boys/
+ girls race assignments and start times: see meet information. Middle-sch
+ ool-only and JV-only meets excluded. Time TBD — check source. Schedule
+  subject to change. Source: https://ms.milesplit.com/meets/767691-topper
+ -trails-high-school-classic-full-2026/info
+LOCATION:Blue Mountain College\, Blue Mountain\, MS
+URL:https://ms.milesplit.com/meets/767691-topper-trails-high-school-class
+ ic-full-2026/info
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3976f1420346097f9b13a9b19a7e90ae@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260925T190000
+SUMMARY:Boys Football: Alcorn Central at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-big
+ gersville-corinth/9-25-2026/?c=153b7c1c-7d8a-464f-a860-ee27797c51e5
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-bigg
+ ersville-corinth/9-25-2026/?c=153b7c1c-7d8a-464f-a860-ee27797c51e5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c99ae4fd0e819d09e21430299baaad77@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260925T190000
+SUMMARY:Boys Football: Kossuth at North Pontotoc
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/kossuth-vs-north-pontotoc-
+ ecru/9-25-2026/?c=ff130028-4fcf-4e5c-aa58-5787472ebc5d
+LOCATION:North Pontotoc\, Ecru\, MS
+URL:https://www.maxpreps.com/ms/football/game/kossuth-vs-north-pontotoc-e
+ cru/9-25-2026/?c=ff130028-4fcf-4e5c-aa58-5787472ebc5d
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0e24b8ca1928a830d503969044fd7a38@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260926
+SUMMARY:Boys & Girls Cross Country: South Pontotoc Invitational (time TBD
+ )
+DESCRIPTION:Varsity. All times Central. School-listed varsity meet. Boys/
+ girls race assignments and start times: see meet information. Middle-sch
+ ool-only and JV-only meets excluded. Time TBD — check source. Schedule
+  subject to change. Source: https://ms.milesplit.com/meets/758658-south-
+ pontotoc-invitational-2026/info
+LOCATION:South Pontotoc High School \,  Pontotoc\, MS
+URL:https://ms.milesplit.com/meets/758658-south-pontotoc-invitational-202
+ 6/info
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:806943cedd76ead0ad624f0332ac24d8@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260928T180000
+SUMMARY:Girls Volleyball: Biggersville at Thrasher
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/biggersville-corinth-vs
+ -thrasher-booneville/9-28-2026/?c=975a2f97-4e18-48f9-ad13-ec64b54bb7e9
+LOCATION:Thrasher\, Booneville\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/biggersville-corinth-vs-
+ thrasher-booneville/9-28-2026/?c=975a2f97-4e18-48f9-ad13-ec64b54bb7e9
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1a968d18cf12ade086bf081841c0c644@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260928T183000
+SUMMARY:Girls Volleyball: Corinth at New Albany
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/corinth-vs-new-albany/9
+ -28-2026/?c=26744fda-6e39-4b2d-8720-4223cb297062
+LOCATION:New Albany\, New Albany\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/corinth-vs-new-albany/9-
+ 28-2026/?c=26744fda-6e39-4b2d-8720-4223cb297062
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e5e78d92fd5e4c3041efc38b03f596e1@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260929T180000
+SUMMARY:Girls Volleyball: Biggersville at Wheeler
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/biggersville-corinth-vs
+ -wheeler/9-29-2026/?c=837e6d59-6291-4379-b7fa-d65eeb154d6a
+LOCATION:Wheeler\, Wheeler\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/biggersville-corinth-vs-
+ wheeler/9-29-2026/?c=837e6d59-6291-4379-b7fa-d65eeb154d6a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:94c53027fdfaf70a109b4de61dfa806b@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260929T183000
+SUMMARY:Girls Volleyball: Kossuth at Belmont
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/belmont-vs-kossuth/9-29
+ -2026/?c=459391f5-9c43-4151-a10c-b6b2da4214c2
+LOCATION:Belmont\, Belmont\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/belmont-vs-kossuth/9-29-
+ 2026/?c=459391f5-9c43-4151-a10c-b6b2da4214c2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:68cdc3d1564baa99591f45479ea98297@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20260929T183000
+SUMMARY:Girls Volleyball: Mantachie at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/alcorn-central-glen-vs-
+ mantachie/9-29-2026/?c=da9fca55-6fcc-4823-8b66-b66214cb5f32
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/alcorn-central-glen-vs-m
+ antachie/9-29-2026/?c=da9fca55-6fcc-4823-8b66-b66214cb5f32
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e421c511e4a4316b4b24aa1b822773b6@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261001T180000
+SUMMARY:Girls Volleyball: Alcorn Central at Lake Cormorant
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/alcorn-central-glen-vs-
+ lake-cormorant/10-1-2026/?c=100a4aba-8a69-408b-b19f-d90b1b29d64b
+LOCATION:Lake Cormorant\, Lake Cormorant\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/alcorn-central-glen-vs-l
+ ake-cormorant/10-1-2026/?c=100a4aba-8a69-408b-b19f-d90b1b29d64b
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9a9f88fa4d49c5e136023bb9a69e7897@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261001T180000
+SUMMARY:Girls Volleyball: Biggersville at Falkner
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/biggersville-corinth-vs
+ -falkner/10-1-2026/?c=403d0507-60ee-4329-a6db-11a6bca31ecf
+LOCATION:Falkner\, Falkner\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/biggersville-corinth-vs-
+ falkner/10-1-2026/?c=403d0507-60ee-4329-a6db-11a6bca31ecf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e683c7b2238ddf0fad975e91e56a8063@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261001T180000
+SUMMARY:Girls Volleyball: Booneville at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/booneville-vs-kossuth/1
+ 0-1-2026/?c=879a7480-3937-459c-954c-9498015fabb3
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/booneville-vs-kossuth/10
+ -1-2026/?c=879a7480-3937-459c-954c-9498015fabb3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:48f0a5cd9c0197b8b8b687c8f6b35f9e@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261002T190000
+SUMMARY:Boys Football: Alcorn Central at Belmont
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-bel
+ mont/10-2-2026/?c=c3bd9264-459f-4f71-ab61-92b6a10cbcac
+LOCATION:Belmont\, Belmont\, MS
+URL:https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-belm
+ ont/10-2-2026/?c=c3bd9264-459f-4f71-ab61-92b6a10cbcac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bbca82d6f79019541178a6823c667730@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261002T190000
+SUMMARY:Boys Football: Baldwyn at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/baldwyn-vs-biggersville-co
+ rinth/10-2-2026/?c=f22252c8-a091-430b-a486-0c7e10358cbc
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/football/game/baldwyn-vs-biggersville-cor
+ inth/10-2-2026/?c=f22252c8-a091-430b-a486-0c7e10358cbc
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c812c4739d20f1e2fe2d4c7adf263feb@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261002T190000
+SUMMARY:Boys Football: Booneville at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/booneville-vs-kossuth/10-2
+ -2026/?c=6169681f-0681-4111-b2d6-b1e430907e71
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/football/game/booneville-vs-kossuth/10-2-
+ 2026/?c=6169681f-0681-4111-b2d6-b1e430907e71
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:39c48be132910566f1c14e26c9a354a5@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261002T190000
+SUMMARY:Boys Football: South Pontotoc at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/corinth-vs-south-pontotoc/
+ 10-2-2026/?c=e7cff5bf-1b41-4341-8f4a-95b98ae31578
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/football/game/corinth-vs-south-pontotoc/1
+ 0-2-2026/?c=e7cff5bf-1b41-4341-8f4a-95b98ae31578
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:da67179fb0857d10978d8a20c360b32a@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261002
+SUMMARY:Boys & Girls Cross Country: Pontotoc XC Invitational (Friday Oct2
+ ) (time TBD)
+DESCRIPTION:Varsity. All times Central. School-listed varsity meet. Boys/
+ girls race assignments and start times: see meet information. Middle-sch
+ ool-only and JV-only meets excluded. Time TBD — check source. Schedule
+  subject to change. Source: https://ms.milesplit.com/meets/764733-pontot
+ oc-xc-invitational-friday-oct2-2026/info
+LOCATION:Cherry Creek Orchard\, Pontotoc\, MS
+URL:https://ms.milesplit.com/meets/764733-pontotoc-xc-invitational-friday
+ -oct2-2026/info
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4443b47eaa97bc90ea1c4bc0a3a624ea@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261003T090000
+SUMMARY:Girls Volleyball: Biggersville at Ingomar
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/volleyball/match/biggersville-corinth-vs
+ -ingomar-new-albany/10-3-2026/?c=2e7c0852-ec7b-4a8b-8f9e-db01740fd492
+LOCATION:Ingomar\, New Albany\, MS
+URL:https://www.maxpreps.com/ms/volleyball/match/biggersville-corinth-vs-
+ ingomar-new-albany/10-3-2026/?c=2e7c0852-ec7b-4a8b-8f9e-db01740fd492
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2c788c4cbbe51e65bef7f1609c56c06d@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261003
+SUMMARY:Boys & Girls Cross Country: Gatorade XC Classic @ Oakville Alabam
+ a (time TBD)
+DESCRIPTION:Varsity. All times Central. School-listed varsity meet. Boys/
+ girls race assignments and start times: see meet information. Middle-sch
+ ool-only and JV-only meets excluded. Time TBD — check source. Schedule
+  subject to change. Source: https://al.milesplit.com/meets/720537-gatora
+ de-xc-classic-oakville-alabama-2026/info
+LOCATION:Oakville Indian Mounds Park\, Moulton\, AL
+URL:https://al.milesplit.com/meets/720537-gatorade-xc-classic-oakville-al
+ abama-2026/info
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6f0d845625380b41965bf118c6170512@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261009T190000
+SUMMARY:Boys Football: Biggersville at Walnut
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-wa
+ lnut/10-9-2026/?c=492ff063-2fe3-4b42-990c-d7e0794c4fa5
+LOCATION:Walnut\, Walnut\, MS
+URL:https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-wal
+ nut/10-9-2026/?c=492ff063-2fe3-4b42-990c-d7e0794c4fa5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e02da6a0f148ea717a07c1ec41b74e0b@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261009T190000
+SUMMARY:Boys Football: Corinth at North Pontotoc
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/corinth-vs-north-pontotoc-
+ ecru/10-9-2026/?c=1e1f08b6-73d3-4156-86f6-c94db3c65bb1
+LOCATION:North Pontotoc\, Ecru\, MS
+URL:https://www.maxpreps.com/ms/football/game/corinth-vs-north-pontotoc-e
+ cru/10-9-2026/?c=1e1f08b6-73d3-4156-86f6-c94db3c65bb1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ef10593dfca0a4ca0cdff82b07b8509b@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261009T190000
+SUMMARY:Boys Football: Mantachie at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-man
+ tachie/10-9-2026/?c=3b75a763-08f9-469d-b493-934b92f679c9
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-mant
+ achie/10-9-2026/?c=3b75a763-08f9-469d-b493-934b92f679c9
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f58e25a4235260aadecc66b433da0ee3@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261013
+SUMMARY:Boys & Girls Cross Country: Oct. 13- Hardin County-Horse Creek In
+ vitational (time TBD)
+DESCRIPTION:Varsity. All times Central. School-listed varsity meet. Boys/
+ girls race assignments and start times: see meet information. Middle-sch
+ ool-only and JV-only meets excluded. Time TBD — check source. Schedule
+  subject to change. Source: https://tn.milesplit.com/meets/756454-oct-13
+ -hardin-county-horse-creek-invitational-2026/info
+LOCATION:Unknown\, Unknown TN\, TN
+URL:https://tn.milesplit.com/meets/756454-oct-13-hardin-county-horse-cree
+ k-invitational-2026/info
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8531e75f7fbe3811533e2feaf378355e@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261016T190000
+SUMMARY:Boys Football: Kossuth at Belmont
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/belmont-vs-kossuth/10-16-2
+ 026/?c=90031d0d-3bd8-485d-8ad7-c05f5ca0f026
+LOCATION:Belmont\, Belmont\, MS
+URL:https://www.maxpreps.com/ms/football/game/belmont-vs-kossuth/10-16-20
+ 26/?c=90031d0d-3bd8-485d-8ad7-c05f5ca0f026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:044da34bd33a894e55e25ff403da68c6@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261016T190000
+SUMMARY:Boys Football: Mooreville at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-moo
+ reville/10-16-2026/?c=c2a21201-bcfa-42b5-bd83-391c2fd94fb4
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-moor
+ eville/10-16-2026/?c=c2a21201-bcfa-42b5-bd83-391c2fd94fb4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:96bd91d914bd39d9e225563e6e641bf4@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261016T190000
+SUMMARY:Boys Football: Tishomingo County at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/corinth-vs-tishomingo-coun
+ ty-iuka/10-16-2026/?c=a7ba82d7-e200-40f1-bf09-ecbd5f3a6409
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/football/game/corinth-vs-tishomingo-count
+ y-iuka/10-16-2026/?c=a7ba82d7-e200-40f1-bf09-ecbd5f3a6409
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9b4777f4f7655aed2165256fc865eb07@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261016T190000
+SUMMARY:Boys Football: Tupelo Christian Prep at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-tu
+ pelo-christian-prep-belden/10-16-2026/?c=9c3c0986-4be0-4f64-aabc-f296fc5
+ 7e645
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-tup
+ elo-christian-prep-belden/10-16-2026/?c=9c3c0986-4be0-4f64-aabc-f296fc57
+ e645
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea992d33474cf3c008d5f5edc33ef3b8@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261022
+SUMMARY:Boys & Girls Cross Country: MHSAA Region 1-1A\, 3-1A\, 1-2A\, 2-2
+ A\, 1-3A\, 1-4A\, 1-6A (time TBD)
+DESCRIPTION:Varsity. All times Central. School-listed varsity meet. Boys/
+ girls race assignments and start times: see meet information. Middle-sch
+ ool-only and JV-only meets excluded. Time TBD — check source. Schedule
+  subject to change. Source: https://ms.milesplit.com/meets/768160-mhsaa-
+ region-1-1a-3-1a-1-2a-2-2a-1-3a-1-4a-1-6a-2026/info
+LOCATION:New Albany Sportsplex\, New Albany\, MS
+URL:https://ms.milesplit.com/meets/768160-mhsaa-region-1-1a-3-1a-1-2a-2-2
+ a-1-3a-1-4a-1-6a-2026/info
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a004af0a425bff0e3924b1e446160f84@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261023T190000
+SUMMARY:Boys Football: Alcorn Central at Booneville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-boo
+ neville/10-23-2026/?c=f7f4f6ea-4ffd-4848-8e68-6eb01dcbc654
+LOCATION:Booneville\, Booneville\, MS
+URL:https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-boon
+ eville/10-23-2026/?c=f7f4f6ea-4ffd-4848-8e68-6eb01dcbc654
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e187337cbf10ec243c05cedd254a0a6c@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261023T190000
+SUMMARY:Boys Football: Biggersville at Smithville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-sm
+ ithville/10-23-2026/?c=f714d599-9720-4852-92b1-1075510392cb
+LOCATION:Smithville\, Smithville\, MS
+URL:https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-smi
+ thville/10-23-2026/?c=f714d599-9720-4852-92b1-1075510392cb
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6255a7c94e40750c23bfb9c0d649a3e3@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261023T190000
+SUMMARY:Boys Football: Corinth at Amory
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/amory-vs-corinth/10-23-202
+ 6/?c=4b1ffce6-f2da-4dc1-9619-e4d1fcefe9d9
+LOCATION:Amory\, Amory\, MS
+URL:https://www.maxpreps.com/ms/football/game/amory-vs-corinth/10-23-2026
+ /?c=4b1ffce6-f2da-4dc1-9619-e4d1fcefe9d9
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f40c66fba09b315ad09e26c68d6be81b@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261023T190000
+SUMMARY:Boys Football: Mantachie at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/kossuth-vs-mantachie/10-23
+ -2026/?c=74dbca65-92b1-43a6-94c6-39f6e47a416d
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/football/game/kossuth-vs-mantachie/10-23-
+ 2026/?c=74dbca65-92b1-43a6-94c6-39f6e47a416d
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2a891047ae132156f31a8d05aa89d519@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261029T190000
+SUMMARY:Boys Football: Corinth at New Albany
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/corinth-vs-new-albany/10-2
+ 9-2026/?c=b4d719f1-bf17-42c6-bbd2-4ee22ce9faa5
+LOCATION:New Albany\, New Albany\, MS
+URL:https://www.maxpreps.com/ms/football/game/corinth-vs-new-albany/10-29
+ -2026/?c=b4d719f1-bf17-42c6-bbd2-4ee22ce9faa5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:debba110eda09d720583ff2aebdc74a4@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261029T190000
+SUMMARY:Boys Football: Kossuth at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-kos
+ suth/10-29-2026/?c=0754dc66-6204-4f93-b8c5-0b6f81dc3321
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-koss
+ uth/10-29-2026/?c=0754dc66-6204-4f93-b8c5-0b6f81dc3321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6007047b26cc8301196f6977c18f0b81@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261029
+SUMMARY:Boys & Girls Cross Country: MHSAA 1A-2A-3A State Cross Country Ch
+ ampionships (time TBD)
+DESCRIPTION:Varsity. All times Central. School-listed varsity meet. Boys/
+ girls race assignments and start times: see meet information. Middle-sch
+ ool-only and JV-only meets excluded. Time TBD — check source. Schedule
+  subject to change. Source: https://ms.milesplit.com/meets/772499-mhsaa-
+ 1a-2a-3a-state-cross-country-championships-2026/info
+LOCATION:Choctaw Trails MC\, Jackson\, MS
+URL:https://ms.milesplit.com/meets/772499-mhsaa-1a-2a-3a-state-cross-coun
+ try-championships-2026/info
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5f5708026914dcaa989d7099b714e120@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261031T094500
+SUMMARY:Girls Basketball: Biggersville vs. Thrasher
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-thrasher-booneville/10-31-2026/?c=2aae99fa-6940-491d-91bb-4a3a6209
+ 7582
+LOCATION:Neutral site — see source
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-thrasher-booneville/10-31-2026/?c=2aae99fa-6940-491d-91bb-4a3a62097
+ 582
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ff48bc2adbac010c56197b2ab2df679e@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261031T111500
+SUMMARY:Girls Basketball: Wheeler at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-wheeler/10-31-2026/?c=c8a5012b-8b11-484b-9936-010784291495
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-wheeler/10-31-2026/?c=c8a5012b-8b11-484b-9936-010784291495
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:249a2e9ad1f36a7905b9f867197df2d7@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261103T170000
+SUMMARY:Girls Soccer: Corinth at DeSoto Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-desoto-cen
+ tral-southaven/11-3-2026/?c=200ed429-07f3-44a3-84e5-a6a980786724
+LOCATION:DeSoto Central\, Southaven\, MS
+URL:https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-desoto-cent
+ ral-southaven/11-3-2026/?c=200ed429-07f3-44a3-84e5-a6a980786724
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e9a332d890367421aac5ef33638c5aa7@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261103T180000
+SUMMARY:Girls Basketball: Biggersville at Tremont
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-tremont/11-3-2026/?c=fe7be401-c30d-4dcf-86c7-aa578e76945c
+LOCATION:Tremont\, Tremont\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-tremont/11-3-2026/?c=fe7be401-c30d-4dcf-86c7-aa578e76945c
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:74d04dc39bab2d6f3638886708c59109@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261103T180000
+SUMMARY:Girls Basketball: Kossuth at Hatley
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/hatley-amory-vs-ko
+ ssuth/11-3-2026/?c=3308f55c-37f0-483a-ad56-06d7d30b6e74
+LOCATION:Hatley\, Amory\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/hatley-amory-vs-kos
+ suth/11-3-2026/?c=3308f55c-37f0-483a-ad56-06d7d30b6e74
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b085651bd529990b2a45a3d3e26bff7c@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261103T190000
+SUMMARY:Boys Soccer: Corinth at DeSoto Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/corinth-vs-desoto-central-s
+ outhaven/11-3-2026/?c=090bdcda-ef03-4632-bce9-c24d7d1cb72c
+LOCATION:DeSoto Central\, Southaven\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/corinth-vs-desoto-central-so
+ uthaven/11-3-2026/?c=090bdcda-ef03-4632-bce9-c24d7d1cb72c
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5b447f9c6c7b8569602039d8ae3f0cc6@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261105T170000
+SUMMARY:Girls Soccer: Corinth at New Hope
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-new-hope-c
+ olumbus/11-5-2026/?c=9092d3f1-6853-4b28-a785-d4af9b9b01b9
+LOCATION:New Hope\, Columbus\, MS
+URL:https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-new-hope-co
+ lumbus/11-5-2026/?c=9092d3f1-6853-4b28-a785-d4af9b9b01b9
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c4774ed02e1f699f39797f84c6ddadb8@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261105T180000
+SUMMARY:Boys Soccer: Corinth at New Hope
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/corinth-vs-new-hope-columbu
+ s/11-5-2026/?c=91ec17df-fa59-40eb-a22d-194c394ce73e
+LOCATION:New Hope\, Columbus\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/corinth-vs-new-hope-columbus
+ /11-5-2026/?c=91ec17df-fa59-40eb-a22d-194c394ce73e
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:89b0d4189d8a133d371eb06116c5b4af@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261106T180000
+SUMMARY:Girls Basketball: Alcorn Central at Thrasher
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-thrasher-booneville/11-6-2026/?c=c60faf29-3703-460d-b163-9807bb29e8
+ d0
+LOCATION:Thrasher\, Booneville\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-thrasher-booneville/11-6-2026/?c=c60faf29-3703-460d-b163-9807bb29e8d
+ 0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b8859e868a03b09ebee7fc5381e8e8ab@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261106T193000
+SUMMARY:Boys Basketball: Alcorn Central at Thrasher
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-t
+ hrasher-booneville/11-6-2026/?c=ec917180-38cc-4862-9f62-b26c61422127
+LOCATION:Thrasher\, Booneville\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-th
+ rasher-booneville/11-6-2026/?c=ec917180-38cc-4862-9f62-b26c61422127
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:88d054e2af2400645a8668fdaba41994@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261107T120000
+SUMMARY:Boys Soccer: Amory at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/amory-vs-corinth/11-7-2026/
+ ?c=2f98c819-7156-4579-b9ba-02a6fa020c60
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/amory-vs-corinth/11-7-2026/?
+ c=2f98c819-7156-4579-b9ba-02a6fa020c60
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cf4ce1291edd9da2c45244b7071d1e60@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261107T140000
+SUMMARY:Boys Soccer: Amory at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/amory-vs-corinth/11-7-2026/
+ ?c=59bca6c4-2ed8-4440-ac90-a0a2872301e5
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/amory-vs-corinth/11-7-2026/?
+ c=59bca6c4-2ed8-4440-ac90-a0a2872301e5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1bf38f36fc7bb3a9f3ea9f1ba6a607b0@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Girls Basketball: Corinth vs. Itawamba Agricultural (time TBD)
+DESCRIPTION:Varsity. All times Central.  Time TBD — check source. Sched
+ ule subject to change. Source: https://www.maxpreps.com/ms/basketball/gi
+ rls/game/corinth-vs-itawamba-agricultural-fulton/11-7-2026/?c=865b3480-0
+ 861-49c1-a609-507f77c2ef96
+LOCATION:Neutral site — see source
+URL:https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-itawamba
+ -agricultural-fulton/11-7-2026/?c=865b3480-0861-49c1-a609-507f77c2ef96
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d5729b68fb13689851dce79fb177bb0b@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261110T170000
+SUMMARY:Girls Soccer: Olive Branch at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-olive-bran
+ ch/11-10-2026/?c=8ccf9442-06d2-46fd-b67f-b6dcbc4e2bf6
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-olive-branc
+ h/11-10-2026/?c=8ccf9442-06d2-46fd-b67f-b6dcbc4e2bf6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fc41188018f647350fceb14a02e9f057@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261110T180000
+SUMMARY:Girls Basketball: Alcorn Central at New Site
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-new-site/11-10-2026/?c=25946a75-8034-4987-9a2f-a1e0ee76a684
+LOCATION:New Site\, New Site\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-new-site/11-10-2026/?c=25946a75-8034-4987-9a2f-a1e0ee76a684
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7b1b579b25343fe0aff784710917fc01@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261110T180000
+SUMMARY:Girls Basketball: Baldwyn at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/baldwyn-vs-biggers
+ ville-corinth/11-10-2026/?c=763dc461-9ede-492b-b273-f52eb123c03a
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/baldwyn-vs-biggersv
+ ille-corinth/11-10-2026/?c=763dc461-9ede-492b-b273-f52eb123c03a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c51cf25b49290be233c29ad11c97a844@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261110T180000
+SUMMARY:Girls Basketball: Oxford at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-oxford/
+ 11-10-2026/?c=6dbf56fa-6ced-41aa-a6e5-2b7bc0b1adde
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-oxford/1
+ 1-10-2026/?c=6dbf56fa-6ced-41aa-a6e5-2b7bc0b1adde
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:055055c4ff9dbe377003178e460435ac@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261110T180000
+SUMMARY:Girls Basketball: Tishomingo County at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-tishomi
+ ngo-county-iuka/11-10-2026/?c=54944519-131a-4b8f-a08c-1f063a9edff0
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-tishomin
+ go-county-iuka/11-10-2026/?c=54944519-131a-4b8f-a08c-1f063a9edff0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9905b2fcdcf339e229315c5393a95313@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261110T190000
+SUMMARY:Boys Soccer: Olive Branch at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/corinth-vs-olive-branch/11-
+ 10-2026/?c=a7692f7d-50e7-4685-b6ca-ab1aeadc4a34
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/corinth-vs-olive-branch/11-1
+ 0-2026/?c=a7692f7d-50e7-4685-b6ca-ab1aeadc4a34
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:59cd214088a44c2feef57404d14110e0@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261110T193000
+SUMMARY:Boys Basketball: Alcorn Central at New Site
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-n
+ ew-site/11-10-2026/?c=36bb2b97-914c-4eb9-9453-dc1968c18039
+LOCATION:New Site\, New Site\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-ne
+ w-site/11-10-2026/?c=36bb2b97-914c-4eb9-9453-dc1968c18039
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4e6b172ea9ecbc86899e3bfe349ee9f2@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261110T193000
+SUMMARY:Boys Basketball: Tishomingo County at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/kossuth-vs-tishomingo-co
+ unty-iuka/11-10-2026/?c=17d40b19-d4f2-4afb-9150-dcf46595edee
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/kossuth-vs-tishomingo-cou
+ nty-iuka/11-10-2026/?c=17d40b19-d4f2-4afb-9150-dcf46595edee
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:956ab4b5ca793783bd24448f4758e81e@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261112T180000
+SUMMARY:Girls Basketball: Corinth at Walnut
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-walnut/
+ 11-12-2026/?c=8842981d-5da2-435a-bfaa-1ef5694af8ac
+LOCATION:Walnut\, Walnut\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-walnut/1
+ 1-12-2026/?c=8842981d-5da2-435a-bfaa-1ef5694af8ac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:91242c9e60bd6867cdd6a21b2e001ef8@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261112T180000
+SUMMARY:Girls Basketball: Kossuth at Ripley
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-ripley/
+ 11-12-2026/?c=4a568a25-f685-46cf-ac6a-1d069126a33e
+LOCATION:Ripley\, Ripley\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-ripley/1
+ 1-12-2026/?c=4a568a25-f685-46cf-ac6a-1d069126a33e
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:722efe4d7bd0fe1c915e7bc9cc78db7d@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261112T190000
+SUMMARY:Boys Soccer: Horn Lake at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/corinth-vs-horn-lake/11-12-
+ 2026/?c=dd353715-0194-43e1-8e10-1b60a55c6bd4
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/corinth-vs-horn-lake/11-12-2
+ 026/?c=dd353715-0194-43e1-8e10-1b60a55c6bd4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:01b8b3a0a4f17cfaef253cabaadd2562@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261112T190000
+SUMMARY:Boys Basketball: Kossuth at Ripley
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/kossuth-vs-ripley/11-12-
+ 2026/?c=c3261476-3344-4c60-88f9-f2d36f29f7aa
+LOCATION:Ripley\, Ripley\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/kossuth-vs-ripley/11-12-2
+ 026/?c=c3261476-3344-4c60-88f9-f2d36f29f7aa
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4b96f12d6c8c36cc8844ef3a713c0869@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261113T180000
+SUMMARY:Girls Basketball: Alcorn Central at Myrtle
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-myrtle/11-13-2026/?c=7e3309ca-90fd-40ed-88b2-0a7f5955665e
+LOCATION:Myrtle\, Myrtle\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-myrtle/11-13-2026/?c=7e3309ca-90fd-40ed-88b2-0a7f5955665e
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e4d2d6258d3d1296444cf3a2504a0667@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261113T190000
+SUMMARY:Boys Basketball: Alcorn Central at Myrtle
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-m
+ yrtle/11-13-2026/?c=cc80d3b1-f60b-4706-9ace-174394984482
+LOCATION:Myrtle\, Myrtle\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-my
+ rtle/11-13-2026/?c=cc80d3b1-f60b-4706-9ace-174394984482
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cb253218dae3be0e506d2a7d50efa98a@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261114T104500
+SUMMARY:Girls Basketball: Itawamba Agricultural at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-itawamba-agricultural-fulton/11-14-2026/?c=ed807fc9-2c8e-4f13-862d
+ -bab7f4d2f7ba
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-itawamba-agricultural-fulton/11-14-2026/?c=ed807fc9-2c8e-4f13-862d-
+ bab7f4d2f7ba
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2e0363aca240aef67d2119bfc4a9c93c@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261114T120000
+SUMMARY:Girls Soccer: Corinth at Mooreville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-mooreville
+ /11-14-2026/?c=c0f87e63-d7de-48e8-8307-a2f6af11d801
+LOCATION:Mooreville\, Mooreville\, MS
+URL:https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-mooreville/
+ 11-14-2026/?c=c0f87e63-d7de-48e8-8307-a2f6af11d801
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:09a75927d5eb7acb7cb26de14f4362c0@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261114T120000
+SUMMARY:Girls Basketball: Simmons at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-simmons
+ -hollandale/11-14-2026/?c=86d0fcba-9112-4c6d-b4ab-4bb7241d59a0
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-simmons-
+ hollandale/11-14-2026/?c=86d0fcba-9112-4c6d-b4ab-4bb7241d59a0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e30f91c79be11f8cb73afec9bdfdbf34@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261114T170000
+SUMMARY:Girls Basketball: Corinth at Wheeler
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-wheeler
+ /11-14-2026/?c=4a89e881-e946-47b1-b106-70642c77d01d
+LOCATION:Wheeler\, Wheeler\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-wheeler/
+ 11-14-2026/?c=4a89e881-e946-47b1-b106-70642c77d01d
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7ab1d22dfc1fa217f899e3a30124e62f@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261114T190000
+SUMMARY:Boys Soccer: Corinth at Mooreville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/corinth-vs-mooreville/11-14
+ -2026/?c=0e3e34f9-1529-4557-b66c-c36b414fa3c3
+LOCATION:Mooreville\, Mooreville\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/corinth-vs-mooreville/11-14-
+ 2026/?c=0e3e34f9-1529-4557-b66c-c36b414fa3c3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9b3d0e4fa1db784a762d711b28783021@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261117T180000
+SUMMARY:Girls Basketball: Corinth at Red Bay
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/inter-state/basketball/girls/game/corinth-m
+ s-vs-red-bay-al/11-17-2026/?c=6fd404fa-3eaa-487a-94e1-42647e733477
+LOCATION:Red Bay\, Red Bay\, AL
+URL:https://www.maxpreps.com/inter-state/basketball/girls/game/corinth-ms
+ -vs-red-bay-al/11-17-2026/?c=6fd404fa-3eaa-487a-94e1-42647e733477
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9e3a400415a5557bd22334e60fe63d68@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261117T180000
+SUMMARY:Girls Basketball: Marshall Academy at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-marshal
+ l-academy-holly-springs/11-17-2026/?c=91267cda-6ac0-46e2-976d-295c61c8b8
+ ff
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-marshall
+ -academy-holly-springs/11-17-2026/?c=91267cda-6ac0-46e2-976d-295c61c8b8f
+ f
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:408f0cfd879f263380b1c2365c6e4b4a@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261117T180000
+SUMMARY:Boys Basketball: North Pontotoc at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-n
+ orth-pontotoc-ecru/11-17-2026/?c=585c13af-aea2-4243-9263-560edc3847b1
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-no
+ rth-pontotoc-ecru/11-17-2026/?c=585c13af-aea2-4243-9263-560edc3847b1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cc968ae3c3ac2f322d60f57e7eaf41d1@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261117T180000
+SUMMARY:Girls Basketball: Tishomingo County at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-tishomingo-county-iuka/11-17-2026/?c=d60a8897-2bd7-4554-a322-d88ac
+ 3ac12a7
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-tishomingo-county-iuka/11-17-2026/?c=d60a8897-2bd7-4554-a322-d88ac3
+ ac12a7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c4aa9e86f117de89beabcfdfd5da5816@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261117T193000
+SUMMARY:Boys Basketball: North Pontotoc at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-n
+ orth-pontotoc-ecru/11-17-2026/?c=41f34b5a-c7e6-4ea9-8e00-c314e1205c02
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-no
+ rth-pontotoc-ecru/11-17-2026/?c=41f34b5a-c7e6-4ea9-8e00-c314e1205c02
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f68f6873d9100e8c4fda46b8bb87f468@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261117T193000
+SUMMARY:Boys Basketball: Tishomingo County at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ tishomingo-county-iuka/11-17-2026/?c=3b1aa6bf-6682-4550-b703-08bda13b9d4
+ e
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-t
+ ishomingo-county-iuka/11-17-2026/?c=3b1aa6bf-6682-4550-b703-08bda13b9d4e
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:579ee52a91896b91a31774999b253dfc@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261119T190000
+SUMMARY:Boys Soccer: Corinth at Caledonia
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/caledonia-vs-corinth/11-19-
+ 2026/?c=876e1d62-8c6e-4fef-8a99-a0e7083c0718
+LOCATION:Caledonia\, Caledonia\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/caledonia-vs-corinth/11-19-2
+ 026/?c=876e1d62-8c6e-4fef-8a99-a0e7083c0718
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:12b6e7c3cffbe26a89736fdd16ca236e@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261120T180000
+SUMMARY:Girls Basketball: Biggersville at North Pontotoc
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-north-pontotoc-ecru/11-20-2026/?c=75f49b5d-dcd4-4801-bc44-050543a6
+ b5d7
+LOCATION:North Pontotoc\, Ecru\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-north-pontotoc-ecru/11-20-2026/?c=75f49b5d-dcd4-4801-bc44-050543a6b
+ 5d7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2aef23da46dee0f1b7d753dec6d2fcc9@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261120T180000
+SUMMARY:Girls Basketball: Wheeler at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-wheeler/11-20-2026/?c=4f0daf77-83b0-498d-87b6-08b323390e14
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-wheeler/11-20-2026/?c=4f0daf77-83b0-498d-87b6-08b323390e14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bfd3b8e747f974a639c67d58632059d9@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261120T193000
+SUMMARY:Boys Basketball: Biggersville at North Pontotoc
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ north-pontotoc-ecru/11-20-2026/?c=3d27894f-aa43-46b6-b5eb-f3346595ee27
+LOCATION:North Pontotoc\, Ecru\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-n
+ orth-pontotoc-ecru/11-20-2026/?c=3d27894f-aa43-46b6-b5eb-f3346595ee27
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2a62af644a968c914689402f7fc33fe4@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261120T193000
+SUMMARY:Boys Basketball: Wheeler at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-w
+ heeler/11-20-2026/?c=8b2a8807-8fab-4e62-98be-7c19061570c2
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-wh
+ eeler/11-20-2026/?c=8b2a8807-8fab-4e62-98be-7c19061570c2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f819676aae03dd27376c9519cea28434@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261123T101500
+SUMMARY:Girls Basketball: West Union at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-west-union-myrtle/11-23-2026/?c=e7b5ddde-cce7-4838-8b0f-eeaada5eeb1
+ a
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-west-union-myrtle/11-23-2026/?c=e7b5ddde-cce7-4838-8b0f-eeaada5eeb1a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a0b3b30df159cfbb91006c7a25ab88e2@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Girls Basketball: Corinth vs. Bayou Academy (time TBD)
+DESCRIPTION:Varsity. All times Central.  Time TBD — check source. Sched
+ ule subject to change. Source: https://www.maxpreps.com/ms/basketball/gi
+ rls/game/bayou-academy-cleveland-vs-corinth/11-23-2026/?c=9b7e4982-4e4e-
+ 4191-bafa-d47f6e507d01
+LOCATION:Neutral site — see source
+URL:https://www.maxpreps.com/ms/basketball/girls/game/bayou-academy-cleve
+ land-vs-corinth/11-23-2026/?c=9b7e4982-4e4e-4191-bafa-d47f6e507d01
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:06ec3fe1fd11f58a12a539a4b237bda9@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261124T124500
+SUMMARY:Girls Basketball: Alcorn Central at Lewisburg
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-lewisburg-olive-branch/11-24-2026/?c=e383899a-f212-4adc-a2ee-09b509
+ ecd5d8
+LOCATION:Lewisburg\, Olive Branch\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-lewisburg-olive-branch/11-24-2026/?c=e383899a-f212-4adc-a2ee-09b509e
+ cd5d8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:40d59461d3ac0973d555b40c8b5824a3@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261124T153000
+SUMMARY:Girls Basketball: Corinth at Hickory Flat
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-hickory
+ -flat/11-24-2026/?c=251a0646-b46f-470b-b59b-6d36b2df1a75
+LOCATION:Hickory Flat\, Hickory Flat\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-hickory-
+ flat/11-24-2026/?c=251a0646-b46f-470b-b59b-6d36b2df1a75
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6b5696734b61403390cbd49ebf4238ac@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261124T180000
+SUMMARY:Girls Basketball: McNairy Central at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/inter-state/basketball/girls/game/kossuth-m
+ s-vs-mcnairy-central-selmer-tn/11-24-2026/?c=631edbee-0c27-424a-8e0e-be4
+ 54da80d81
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/inter-state/basketball/girls/game/kossuth-ms
+ -vs-mcnairy-central-selmer-tn/11-24-2026/?c=631edbee-0c27-424a-8e0e-be45
+ 4da80d81
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:03e859903e125a156ff23e840465dde7@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261127T200000
+SUMMARY:Boys Basketball: Florence at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/inter-state/basketball/game/corinth-ms-vs-f
+ lorence-al/11-27-2026/?c=c653d8f8-7372-4594-b7d7-c4d1674ec9f1
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/inter-state/basketball/game/corinth-ms-vs-fl
+ orence-al/11-27-2026/?c=c653d8f8-7372-4594-b7d7-c4d1674ec9f1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:49177b07a4ea56dd8ad6840d46f76b76@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Boys Basketball: Holly Springs at Corinth (time TBD)
+DESCRIPTION:Varsity. All times Central.  Time TBD — check source. Sched
+ ule subject to change. Source: https://www.maxpreps.com/ms/basketball/ga
+ me/corinth-vs-holly-springs/11-27-2026/?c=9c7964c1-4a4a-4171-a504-07ea58
+ 85a450
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/corinth-vs-holly-springs/
+ 11-27-2026/?c=9c7964c1-4a4a-4171-a504-07ea5885a450
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:176c5d89171ebe71ed2439ed71328d46@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261128T200000
+SUMMARY:Boys Basketball: Clay-Chalkville at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/inter-state/basketball/game/clay-chalkville
+ -pinson-al-vs-corinth-ms/11-28-2026/?c=bc3a2746-1afa-4e09-b14e-dbdc3ddc8
+ ac7
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/inter-state/basketball/game/clay-chalkville-
+ pinson-al-vs-corinth-ms/11-28-2026/?c=bc3a2746-1afa-4e09-b14e-dbdc3ddc8a
+ c7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7eebebebb867269fc4801eef42c618@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261201T173000
+SUMMARY:Girls Soccer: Oxford at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-oxford/12-
+ 1-2026/?c=2f737e5f-4132-459b-9293-65b15826ced4
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-oxford/12-1
+ -2026/?c=2f737e5f-4132-459b-9293-65b15826ced4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0bba088e6ca181c1b02c09d6782d8a77@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261201T180000
+SUMMARY:Girls Basketball: Alcorn Central at Walnut
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-walnut/12-1-2026/?c=db37f351-ba1f-468c-b018-81501d237fd8
+LOCATION:Walnut\, Walnut\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-walnut/12-1-2026/?c=db37f351-ba1f-468c-b018-81501d237fd8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ccf82cf0b45d6ff85871e1b461023683@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261201T180000
+SUMMARY:Girls Basketball: Biggersville at Jumpertown
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-jumpertown-booneville/12-1-2026/?c=5926030b-1720-452c-b0a5-8624072
+ 495cb
+LOCATION:Jumpertown\, Booneville\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-jumpertown-booneville/12-1-2026/?c=5926030b-1720-452c-b0a5-86240724
+ 95cb
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:899f10e28d60d4c7f87f2c6bd43e53e1@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261201T180000
+SUMMARY:Girls Basketball: Kossuth at New Site
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-new-sit
+ e/12-1-2026/?c=c59ddde6-dc0c-462b-a4e7-3c778e239970
+LOCATION:New Site\, New Site\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-new-site
+ /12-1-2026/?c=c59ddde6-dc0c-462b-a4e7-3c778e239970
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3f838f7313fd49a9ad65ec9e5e3d5948@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261201T190000
+SUMMARY:Boys Soccer: Oxford at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/corinth-vs-oxford/12-1-2026
+ /?c=a756ea2b-1ffc-4b64-8c27-aa62eadcff6f
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/corinth-vs-oxford/12-1-2026/
+ ?c=a756ea2b-1ffc-4b64-8c27-aa62eadcff6f
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1623f189178c75e4df44a550e04cc7@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261201T193000
+SUMMARY:Boys Basketball: Alcorn Central at Walnut
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-w
+ alnut/12-1-2026/?c=762fd98e-d64e-41d2-9605-92273a44e544
+LOCATION:Walnut\, Walnut\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-wa
+ lnut/12-1-2026/?c=762fd98e-d64e-41d2-9605-92273a44e544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:234e149a3703ef2458c5b0f0c7fc7934@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261201T193000
+SUMMARY:Boys Basketball: Biggersville at Jumpertown
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ jumpertown-booneville/12-1-2026/?c=85d6067d-37f6-4526-8b1a-3399a807e0e8
+LOCATION:Jumpertown\, Booneville\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-j
+ umpertown-booneville/12-1-2026/?c=85d6067d-37f6-4526-8b1a-3399a807e0e8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8b9ca2a26a4d6f396417b9f4411621c4@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261201T193000
+SUMMARY:Boys Basketball: Kossuth at New Site
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/kossuth-vs-new-site/12-1
+ -2026/?c=f0a892c2-81c9-418c-8387-c59d5c0be36a
+LOCATION:New Site\, New Site\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/kossuth-vs-new-site/12-1-
+ 2026/?c=f0a892c2-81c9-418c-8387-c59d5c0be36a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:77b827bf3684870a3d0eeafcd963a32f@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261203T170000
+SUMMARY:Girls Soccer: Tishomingo County at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-tishomingo
+ -county-iuka/12-3-2026/?c=c670999f-5241-477f-b8dd-7074c6f88c68
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-tishomingo-
+ county-iuka/12-3-2026/?c=c670999f-5241-477f-b8dd-7074c6f88c68
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0ee6ff001a15c8192ac14574166e75e4@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261203T190000
+SUMMARY:Boys Soccer: Tishomingo County at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/corinth-vs-tishomingo-count
+ y-iuka/12-3-2026/?c=2eb2d642-8418-47a7-9511-e123f9fa698e
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/corinth-vs-tishomingo-county
+ -iuka/12-3-2026/?c=2eb2d642-8418-47a7-9511-e123f9fa698e
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2fccf1af220db9d42859458db20b6a10@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261204T180000
+SUMMARY:Girls Basketball: Alcorn Central at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-corinth/12-4-2026/?c=7e85a62f-b972-418e-b62d-cd23e9971b98
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-corinth/12-4-2026/?c=7e85a62f-b972-418e-b62d-cd23e9971b98
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:53bab930fbef3f7bd318167bf59c75ff@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261204T180000
+SUMMARY:Girls Basketball: Falkner at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-falkner/12-4-2026/?c=55ad68b4-f6ca-4757-9b7f-e5cb082708fa
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-falkner/12-4-2026/?c=55ad68b4-f6ca-4757-9b7f-e5cb082708fa
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e8968ce8c235ebd422d99951efe50149@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261204T180000
+SUMMARY:Girls Basketball: Ripley at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-ripley/
+ 12-4-2026/?c=4bbf8d97-2d55-455e-afa3-210612f51ccf
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-ripley/1
+ 2-4-2026/?c=4bbf8d97-2d55-455e-afa3-210612f51ccf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:daea8beb0492f4cdd2bfc7a53ca28226@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261204T190000
+SUMMARY:Boys Basketball: Alcorn Central at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-c
+ orinth/12-4-2026/?c=645f802a-2657-4f42-85f2-a545606e543c
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-co
+ rinth/12-4-2026/?c=645f802a-2657-4f42-85f2-a545606e543c
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:38be64201e2d95e4fe3df176d4a044c4@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261204T190000
+SUMMARY:Boys Basketball: Ripley at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/kossuth-vs-ripley/12-4-2
+ 026/?c=265d069b-43b8-47d2-ac8a-3dbb71926665
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/kossuth-vs-ripley/12-4-20
+ 26/?c=265d069b-43b8-47d2-ac8a-3dbb71926665
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b81c0764d365d3272400e452c38c6e50@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261204T193000
+SUMMARY:Boys Basketball: Falkner at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ falkner/12-4-2026/?c=de6a384f-0212-4adc-8fa8-e47a7afab2f1
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-f
+ alkner/12-4-2026/?c=de6a384f-0212-4adc-8fa8-e47a7afab2f1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a4a795d985ab51bb78f1b630e569b9d5@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261205T104500
+SUMMARY:Boys Basketball: Amory at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/amory-vs-kossuth/12-5-20
+ 26/?c=5cfa546a-abb3-4607-ae2d-9cb8117927a4
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/amory-vs-kossuth/12-5-202
+ 6/?c=5cfa546a-abb3-4607-ae2d-9cb8117927a4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:32be9839bea1d9643d4ed3281d639ece@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261205T120000
+SUMMARY:Boys Basketball: Corinth at West Union
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/corinth-vs-west-union-my
+ rtle/12-5-2026/?c=c33e8303-1d77-408e-8932-47e4e4de3e7c
+LOCATION:West Union\, Myrtle\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/corinth-vs-west-union-myr
+ tle/12-5-2026/?c=c33e8303-1d77-408e-8932-47e4e4de3e7c
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:afc86333ddaa9debed3da7e1696dd863@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261205T131500
+SUMMARY:Girls Basketball: Amory at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/amory-vs-biggersvi
+ lle-corinth/12-5-2026/?c=01942cff-9bc7-450f-a947-9531ccc0db6f
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/amory-vs-biggersvil
+ le-corinth/12-5-2026/?c=01942cff-9bc7-450f-a947-9531ccc0db6f
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:46efbbee08a161fde207c68f979bd3f1@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261205T143000
+SUMMARY:Boys Basketball: Walnut at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ walnut/12-5-2026/?c=3b2a88f0-fc77-47e0-b6be-b4fd05ddef2a
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-w
+ alnut/12-5-2026/?c=3b2a88f0-fc77-47e0-b6be-b4fd05ddef2a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3ae0702623db3bc3c0d5bb85198ee228@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261207T190000
+SUMMARY:Boys Soccer: Pontotoc at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/corinth-vs-pontotoc/12-7-20
+ 26/?c=3f3b62d1-112d-433e-8857-f1e3eb62345d
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/corinth-vs-pontotoc/12-7-202
+ 6/?c=3f3b62d1-112d-433e-8857-f1e3eb62345d
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1df684b762674dbb69b3aa60c8fc6457@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261208T180000
+SUMMARY:Girls Basketball: Hardin County at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/inter-state/basketball/girls/game/corinth-m
+ s-vs-hardin-county-savannah-tn/12-8-2026/?c=2fe0045a-05bf-4c6d-9906-e978
+ 12c8f939
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/inter-state/basketball/girls/game/corinth-ms
+ -vs-hardin-county-savannah-tn/12-8-2026/?c=2fe0045a-05bf-4c6d-9906-e9781
+ 2c8f939
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:86679d0ab4b24e5a4cf1abb33a308d33@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261208T180000
+SUMMARY:Girls Basketball: Kossuth at Mooreville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-moorevi
+ lle/12-8-2026/?c=44db67a5-1f93-4b1e-84af-61a800578c32
+LOCATION:Mooreville\, Mooreville\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-moorevil
+ le/12-8-2026/?c=44db67a5-1f93-4b1e-84af-61a800578c32
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6faeecb632ad1f5dcaefc8f715e6facf@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261208T180000
+SUMMARY:Girls Basketball: Mantachie at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-mantachie/12-8-2026/?c=886d0dce-268a-45b1-a855-6aa00537a3b4
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-mantachie/12-8-2026/?c=886d0dce-268a-45b1-a855-6aa00537a3b4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4dd4bbf5e0d67d69d417ba4e6aa17899@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261208T180000
+SUMMARY:Girls Basketball: Thrasher at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-thrasher-booneville/12-8-2026/?c=ce82daa9-4760-431d-8360-be20859ce
+ 9d1
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-thrasher-booneville/12-8-2026/?c=ce82daa9-4760-431d-8360-be20859ce9
+ d1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b261224de46a8856fcb0ca7cf5e874cb@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261208T190000
+SUMMARY:Boys Basketball: Kossuth at Mooreville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/kossuth-vs-mooreville/12
+ -8-2026/?c=fc9e30d0-0d9e-4030-a927-26aaf5b382ca
+LOCATION:Mooreville\, Mooreville\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/kossuth-vs-mooreville/12-
+ 8-2026/?c=fc9e30d0-0d9e-4030-a927-26aaf5b382ca
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:60a3005bf6088c928c1ddff4e4c10813@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261208T193000
+SUMMARY:Boys Basketball: Hardin County at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/inter-state/basketball/game/corinth-ms-vs-h
+ ardin-county-savannah-tn/12-8-2026/?c=b7f463f3-f96b-47a0-9273-ed500e34cb
+ bf
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/inter-state/basketball/game/corinth-ms-vs-ha
+ rdin-county-savannah-tn/12-8-2026/?c=b7f463f3-f96b-47a0-9273-ed500e34cbb
+ f
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4c3e901c3777865b570909fe34a8dd57@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261208T193000
+SUMMARY:Boys Basketball: Mantachie at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-m
+ antachie/12-8-2026/?c=f46c5568-42e4-4ebd-a5de-f54bf63f4397
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-ma
+ ntachie/12-8-2026/?c=f46c5568-42e4-4ebd-a5de-f54bf63f4397
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1d0196c4e43a49d9f96b2b616d94f3da@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261208T193000
+SUMMARY:Boys Basketball: Thrasher at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ thrasher-booneville/12-8-2026/?c=3bd7d6e4-ed25-4217-b694-a2667538bc1f
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-t
+ hrasher-booneville/12-8-2026/?c=3bd7d6e4-ed25-4217-b694-a2667538bc1f
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5f98af1ba4906fda4f0253bf049da616@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261210T180000
+SUMMARY:Girls Basketball: Belmont at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/belmont-vs-kossuth
+ /12-10-2026/?c=f2de12ab-b8e4-4859-a151-2ed757df4c62
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/belmont-vs-kossuth/
+ 12-10-2026/?c=f2de12ab-b8e4-4859-a151-2ed757df4c62
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d793a6107cbceef62e579b3d4979f8f2@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261210T193000
+SUMMARY:Boys Basketball: Belmont at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/belmont-vs-kossuth/12-10
+ -2026/?c=6a53da0e-36ec-4a9e-aa4f-e78eccaa5609
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/belmont-vs-kossuth/12-10-
+ 2026/?c=6a53da0e-36ec-4a9e-aa4f-e78eccaa5609
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ce2654adb35fc83afa8612461dc4bd65@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261211T170000
+SUMMARY:Boys Basketball: Kossuth at Tishomingo County
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/kossuth-vs-tishomingo-co
+ unty-iuka/12-11-2026/?c=2f6c8a3d-33dc-4f2d-a2ff-f92b834ff81c
+LOCATION:Tishomingo County\, Iuka\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/kossuth-vs-tishomingo-cou
+ nty-iuka/12-11-2026/?c=2f6c8a3d-33dc-4f2d-a2ff-f92b834ff81c
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8fc303fdeb2382577d8a8b151cea5be8@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261211T180000
+SUMMARY:Girls Basketball: Biggersville at Pine Grove
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-pine-grove-ripley/12-11-2026/?c=16960384-874f-4b88-b0c8-55854dbfc0
+ fb
+LOCATION:Pine Grove\, Ripley\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-pine-grove-ripley/12-11-2026/?c=16960384-874f-4b88-b0c8-55854dbfc0f
+ b
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:51a61dd770ace66d0abe6e024b550b95@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261211T180000
+SUMMARY:Girls Basketball: Booneville at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-booneville/12-11-2026/?c=08ce96f8-70bc-404b-8699-cd44e0cca3ad
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-booneville/12-11-2026/?c=08ce96f8-70bc-404b-8699-cd44e0cca3ad
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f4d274c0eeb544360786d8d429c4f046@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261211T180000
+SUMMARY:Girls Basketball: North Pontotoc at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-north-p
+ ontotoc-ecru/12-11-2026/?c=169895ee-fbf6-4ba6-9a4d-8d0e3b79f920
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-north-po
+ ntotoc-ecru/12-11-2026/?c=169895ee-fbf6-4ba6-9a4d-8d0e3b79f920
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ce981fe8e445da56fc201638a93a0bfb@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261211T193000
+SUMMARY:Boys Basketball: Biggersville at Pine Grove
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ pine-grove-ripley/12-11-2026/?c=91c62a1f-0fba-45ec-bb62-bc3de1419078
+LOCATION:Pine Grove\, Ripley\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-p
+ ine-grove-ripley/12-11-2026/?c=91c62a1f-0fba-45ec-bb62-bc3de1419078
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ff4e95c93b98d815dda98d40e088802f@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261211T193000
+SUMMARY:Boys Basketball: Booneville at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-b
+ ooneville/12-11-2026/?c=34525642-265c-4c0d-aa2b-c1696698c46b
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-bo
+ oneville/12-11-2026/?c=34525642-265c-4c0d-aa2b-c1696698c46b
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2c55e71c209d29f65e23c9e06760cd32@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261211T193000
+SUMMARY:Boys Basketball: North Pontotoc at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/corinth-vs-north-pontoto
+ c-ecru/12-11-2026/?c=c37fd30b-3aa2-49f6-8b70-d9e14329c078
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/corinth-vs-north-pontotoc
+ -ecru/12-11-2026/?c=c37fd30b-3aa2-49f6-8b70-d9e14329c078
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:823cfe28295a8f529e9fd11ef1b4cbfb@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261212T163000
+SUMMARY:Boys Basketball: Corinth at Florence
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/inter-state/basketball/game/corinth-ms-vs-f
+ lorence-al/12-12-2026/?c=2af8fef3-bfe4-44ed-957d-898b2868f70a
+LOCATION:Florence\, Florence\, AL
+URL:https://www.maxpreps.com/inter-state/basketball/game/corinth-ms-vs-fl
+ orence-al/12-12-2026/?c=2af8fef3-bfe4-44ed-957d-898b2868f70a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b0df2df97fb28a4c797a0271cd9c894e@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261215T170000
+SUMMARY:Girls Soccer: Corinth at New Albany
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-new-albany
+ /12-15-2026/?c=b3f10a0e-93a2-4602-9e10-0af32933360a
+LOCATION:New Albany\, New Albany\, MS
+URL:https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-new-albany/
+ 12-15-2026/?c=b3f10a0e-93a2-4602-9e10-0af32933360a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:07185c08207fb57cc7c599e7c80d969b@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261215T180000
+SUMMARY:Girls Basketball: Biggersville at Wheeler
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-wheeler/12-15-2026/?c=bcd33f08-6db3-4240-acdd-7005eb6f946f
+LOCATION:Wheeler\, Wheeler\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-wheeler/12-15-2026/?c=bcd33f08-6db3-4240-acdd-7005eb6f946f
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:71c8709155b8844850cf17f368dd94fe@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261215T180000
+SUMMARY:Girls Basketball: Corinth at Byhalia
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/byhalia-vs-corinth
+ /12-15-2026/?c=eec3e8b8-6d85-450c-ab11-2708557b87e7
+LOCATION:Byhalia\, Byhalia\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/byhalia-vs-corinth/
+ 12-15-2026/?c=eec3e8b8-6d85-450c-ab11-2708557b87e7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4bf5833257f0ace9a0496617b79a9cf7@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261215T180000
+SUMMARY:Girls Basketball: Hatley at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-hatley-amory/12-15-2026/?c=780d7de3-5b8e-4460-865e-e01dccaf39ba
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-hatley-amory/12-15-2026/?c=780d7de3-5b8e-4460-865e-e01dccaf39ba
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:96c07af0195559de3b295024d74add9d@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261215T180000
+SUMMARY:Boys Basketball: Kossuth at Booneville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/booneville-vs-kossuth/12
+ -15-2026/?c=080990bf-d146-4c2d-aaaa-1eaa16691ed5
+LOCATION:Booneville\, Booneville\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/booneville-vs-kossuth/12-
+ 15-2026/?c=080990bf-d146-4c2d-aaaa-1eaa16691ed5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8bce4b4cc0599892bd16f184c4575adb@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261215T190000
+SUMMARY:Boys Basketball: Biggersville at Wheeler
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ wheeler/12-15-2026/?c=1b47779e-36a8-4e0d-a64a-3d32fbc27430
+LOCATION:Wheeler\, Wheeler\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-w
+ heeler/12-15-2026/?c=1b47779e-36a8-4e0d-a64a-3d32fbc27430
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3dc955aea6d403faf26e65b477b1f05b@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261215T190000
+SUMMARY:Boys Soccer: Corinth at New Albany
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/corinth-vs-new-albany/12-15
+ -2026/?c=6b762369-aa12-4b5a-835e-6481ad08bcd0
+LOCATION:New Albany\, New Albany\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/corinth-vs-new-albany/12-15-
+ 2026/?c=6b762369-aa12-4b5a-835e-6481ad08bcd0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d5b337abe6366db777d90943c8a27a57@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261215T193000
+SUMMARY:Boys Basketball: Corinth at Byhalia
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/byhalia-vs-corinth/12-15
+ -2026/?c=263aacc9-eda9-4d98-b984-ea29051771c1
+LOCATION:Byhalia\, Byhalia\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/byhalia-vs-corinth/12-15-
+ 2026/?c=263aacc9-eda9-4d98-b984-ea29051771c1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b95a9a56c357f71b20652a7f8694efa8@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261215T193000
+SUMMARY:Boys Basketball: Hatley at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-h
+ atley-amory/12-15-2026/?c=6ab3e8f9-01fb-4886-8e2b-b8427ffc9908
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-ha
+ tley-amory/12-15-2026/?c=6ab3e8f9-01fb-4886-8e2b-b8427ffc9908
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee9361c9c5fe3ed499be3f1e72ef9fd@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261215T193000
+SUMMARY:Boys Basketball: Kossuth at Booneville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/booneville-vs-kossuth/12
+ -15-2026/?c=9cad2a2b-433f-4096-9f05-c1138f19bba8
+LOCATION:Booneville\, Booneville\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/booneville-vs-kossuth/12-
+ 15-2026/?c=9cad2a2b-433f-4096-9f05-c1138f19bba8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:49ac0a4601276c0e75163367e05524d5@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261217T180000
+SUMMARY:Girls Basketball: Corinth at New Albany
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-new-alb
+ any/12-17-2026/?c=199703c1-d6ab-4887-93ab-aec489d3b5aa
+LOCATION:New Albany\, New Albany\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-new-alba
+ ny/12-17-2026/?c=199703c1-d6ab-4887-93ab-aec489d3b5aa
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5e2429f07def52a863b9ccb4c87bd152@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261217T180000
+SUMMARY:Girls Basketball: Kossuth at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-kossuth/12-17-2026/?c=8554300d-fb09-407f-8a62-32a759a713f7
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-kossuth/12-17-2026/?c=8554300d-fb09-407f-8a62-32a759a713f7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2e05bf43cc77d58f95a754cae1e8b374@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261217T190000
+SUMMARY:Boys Soccer: Ripley at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/corinth-vs-ripley/12-17-202
+ 6/?c=d002f29b-78d7-4477-876a-bd718b759470
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/corinth-vs-ripley/12-17-2026
+ /?c=d002f29b-78d7-4477-876a-bd718b759470
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ae4b5cbca31eaef981c23feb52c0ba09@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261217T193000
+SUMMARY:Boys Basketball: Corinth at New Albany
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/corinth-vs-new-albany/12
+ -17-2026/?c=f3b0598e-4b78-473b-97d1-9f961867a51a
+LOCATION:New Albany\, New Albany\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/corinth-vs-new-albany/12-
+ 17-2026/?c=f3b0598e-4b78-473b-97d1-9f961867a51a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8c1b5fd65539f6c59d42ec40cf7814de@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261217T193000
+SUMMARY:Boys Basketball: Kossuth at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-k
+ ossuth/12-17-2026/?c=75adbb7e-7f4b-4dd8-84dc-36e056b34aaa
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-ko
+ ssuth/12-17-2026/?c=75adbb7e-7f4b-4dd8-84dc-36e056b34aaa
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:259b94b3580d45f712666db0a043d085@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261218T180000
+SUMMARY:Girls Basketball: Jumpertown at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-jumpertown-booneville/12-18-2026/?c=269645b5-289e-4ae2-afb1-b38024
+ 50cbd6
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-jumpertown-booneville/12-18-2026/?c=269645b5-289e-4ae2-afb1-b380245
+ 0cbd6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:872a9d4b347cbe6ef0732797f8755628@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261218T190000
+SUMMARY:Boys Basketball: Nettleton vs. Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/corinth-vs-nettleton/12-
+ 18-2026/?c=1f0cba0c-62b6-4ca3-b614-5a7c8362f8ec
+LOCATION:Neutral site — see source
+URL:https://www.maxpreps.com/ms/basketball/game/corinth-vs-nettleton/12-1
+ 8-2026/?c=1f0cba0c-62b6-4ca3-b614-5a7c8362f8ec
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b89317e74967494bd93a099b9bdc7cd7@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261218T193000
+SUMMARY:Boys Basketball: Jumpertown at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ jumpertown-booneville/12-18-2026/?c=4c766443-7c8d-4f92-a642-d3289a471e87
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-j
+ umpertown-booneville/12-18-2026/?c=4c766443-7c8d-4f92-a642-d3289a471e87
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a776a04a23a7a2e2ef8a425d7140a6f@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261218
+SUMMARY:Boys Basketball: Corinth vs. Opponent TBD (time TBD)
+DESCRIPTION:Varsity. All times Central.  Time TBD — check source. Sched
+ ule subject to change. Source: https://www.maxpreps.com/ms/corinth/corin
+ th-warriors/basketball/schedule/
+LOCATION:Neutral site — see source
+URL:https://www.maxpreps.com/ms/corinth/corinth-warriors/basketball/sched
+ ule/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d4c204ce684670c1399a2ae070926da7@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261222T150000
+SUMMARY:Girls Basketball: Ripley at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-ripley/
+ 12-22-2026/?c=f0ad7e95-5513-4251-b050-2fc1fec4016c
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-ripley/1
+ 2-22-2026/?c=f0ad7e95-5513-4251-b050-2fc1fec4016c
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0c222a76863e2b5e5622ba39cd627511@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261222T173000
+SUMMARY:Boys Basketball: Ripley at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/corinth-vs-ripley/12-22-
+ 2026/?c=1c7268ab-dd78-4637-99b3-21fc33276514
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/corinth-vs-ripley/12-22-2
+ 026/?c=1c7268ab-dd78-4637-99b3-21fc33276514
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:41317ba033df67846c68a51d7ce43c71@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261229
+SUMMARY:Boys Basketball: Corinth vs. Opponent TBD (time TBD)
+DESCRIPTION:Varsity. All times Central.  Time TBD — check source. Sched
+ ule subject to change. Source: https://www.maxpreps.com/ms/corinth/corin
+ th-warriors/basketball/schedule/
+LOCATION:Neutral site — see source
+URL:https://www.maxpreps.com/ms/corinth/corinth-warriors/basketball/sched
+ ule/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2d03864149e070431f7c3b4d026b0578@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261229
+SUMMARY:Girls Basketball: Corinth vs. Opponent TBD (time TBD)
+DESCRIPTION:Varsity. All times Central.  Time TBD — check source. Sched
+ ule subject to change. Source: https://www.maxpreps.com/ms/corinth/corin
+ th-warriors/basketball/girls/schedule/
+LOCATION:Neutral site — see source
+URL:https://www.maxpreps.com/ms/corinth/corinth-warriors/basketball/girls
+ /schedule/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:13670ab552070750de3e2815620efbc8@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261229
+SUMMARY:Boys Basketball: Holly Springs at Alcorn Central (time TBD)
+DESCRIPTION:Varsity. All times Central.  Time TBD — check source. Sched
+ ule subject to change. Source: https://www.maxpreps.com/ms/basketball/ga
+ me/alcorn-central-glen-vs-holly-springs/12-29-2026/?c=1ce3c14f-2cd9-45e1
+ -8bd2-605db4a01251
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-ho
+ lly-springs/12-29-2026/?c=1ce3c14f-2cd9-45e1-8bd2-605db4a01251
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1fbec0925ffad343bf49ce060014cbb1@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261229
+SUMMARY:Girls Basketball: Kossuth vs. Opponent TBD (time TBD)
+DESCRIPTION:Varsity. All times Central.  Time TBD — check source. Sched
+ ule subject to change. Source: https://www.maxpreps.com/ms/kossuth/kossu
+ th-aggies/basketball/girls/schedule/
+LOCATION:Neutral site — see source
+URL:https://www.maxpreps.com/ms/kossuth/kossuth-aggies/basketball/girls/s
+ chedule/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:34a78f834933fda8141f8a4469a22dea@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+SUMMARY:Boys Basketball: Corinth vs. Opponent TBD (time TBD)
+DESCRIPTION:Varsity. All times Central.  Time TBD — check source. Sched
+ ule subject to change. Source: https://www.maxpreps.com/ms/corinth/corin
+ th-warriors/basketball/schedule/
+LOCATION:Neutral site — see source
+URL:https://www.maxpreps.com/ms/corinth/corinth-warriors/basketball/sched
+ ule/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:01fff4615a5088570ff693e7fa16770c@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+SUMMARY:Girls Basketball: Corinth vs. Opponent TBD (time TBD)
+DESCRIPTION:Varsity. All times Central.  Time TBD — check source. Sched
+ ule subject to change. Source: https://www.maxpreps.com/ms/corinth/corin
+ th-warriors/basketball/girls/schedule/
+LOCATION:Neutral site — see source
+URL:https://www.maxpreps.com/ms/corinth/corinth-warriors/basketball/girls
+ /schedule/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8ed0104880ff3b832dcb4ef13a068318@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+SUMMARY:Boys Basketball: Holly Springs at Alcorn Central (time TBD)
+DESCRIPTION:Varsity. All times Central.  Time TBD — check source. Sched
+ ule subject to change. Source: https://www.maxpreps.com/ms/basketball/ga
+ me/alcorn-central-glen-vs-holly-springs/12-30-2026/?c=beba80fa-cfc2-49c9
+ -803c-4a8731e3973a
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-ho
+ lly-springs/12-30-2026/?c=beba80fa-cfc2-49c9-803c-4a8731e3973a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:53f9d23d9abac1bc569ecd571dae412c@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+SUMMARY:Girls Basketball: Opponent TBD at Kossuth (time TBD)
+DESCRIPTION:Varsity. All times Central.  Time TBD — check source. Sched
+ ule subject to change. Source: https://www.maxpreps.com/ms/kossuth/kossu
+ th-aggies/basketball/girls/schedule/
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/kossuth/kossuth-aggies/basketball/girls/s
+ chedule/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ce5b6b08c0fd183d1d93d005f634aa7@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270102T150000
+SUMMARY:Girls Basketball: Center Hill at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/center-hill-olive-
+ branch-vs-corinth/1-2-2027/?c=84a5cfa2-0d20-4259-974c-4162c267c919
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/center-hill-olive-b
+ ranch-vs-corinth/1-2-2027/?c=84a5cfa2-0d20-4259-974c-4162c267c919
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:83380b7656304d132028bc7f61a4bc3d@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270102T193000
+SUMMARY:Boys Basketball: Center Hill at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/center-hill-olive-branch
+ -vs-corinth/1-2-2027/?c=6b6cc5ee-e478-4a0e-a56c-65a468fbfa1f
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/center-hill-olive-branch-
+ vs-corinth/1-2-2027/?c=6b6cc5ee-e478-4a0e-a56c-65a468fbfa1f
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f9dd1afe0a6faefb7a6620f8d51cab44@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270105T180000
+SUMMARY:Girls Basketball: Alcorn Central at Pine Grove
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-pine-grove-ripley/1-5-2027/?c=b9ce4031-45e4-4a68-80a2-01b8ef668f30
+LOCATION:Pine Grove\, Ripley\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-pine-grove-ripley/1-5-2027/?c=b9ce4031-45e4-4a68-80a2-01b8ef668f30
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1aab38aef5a92bd3fdf8b2f41b2ce0b8@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270105T180000
+SUMMARY:Girls Basketball: Kossuth at Marshall Academy
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-marshal
+ l-academy-holly-springs/1-5-2027/?c=e97ee2ea-7f9e-4e8d-a195-a04790fc07f6
+LOCATION:Marshall Academy\, Holly Springs\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-marshall
+ -academy-holly-springs/1-5-2027/?c=e97ee2ea-7f9e-4e8d-a195-a04790fc07f6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bd0b1285b2664c8c4d9cedc301be05b4@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270105T180000
+SUMMARY:Girls Basketball: Tishomingo County at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-tishomi
+ ngo-county-iuka/1-5-2027/?c=6fa16be4-01e0-4f7c-bc76-d4d9d4770ba6
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-tishomin
+ go-county-iuka/1-5-2027/?c=6fa16be4-01e0-4f7c-bc76-d4d9d4770ba6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2faf829f7276096f16837558088816c7@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270105T193000
+SUMMARY:Boys Basketball: Alcorn Central at Pine Grove
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-p
+ ine-grove-ripley/1-5-2027/?c=60b143b9-00c5-44a9-8f36-5a34767d9f98
+LOCATION:Pine Grove\, Ripley\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-pi
+ ne-grove-ripley/1-5-2027/?c=60b143b9-00c5-44a9-8f36-5a34767d9f98
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ac838b5ce48c2b353b56b403d48ce2f1@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270105T193000
+SUMMARY:Boys Basketball: Middleton at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/inter-state/basketball/game/biggersville-co
+ rinth-ms-vs-middleton-tn/1-5-2027/?c=e8af6cc8-f27e-4cf5-870d-b2653a50290
+ 0
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/inter-state/basketball/game/biggersville-cor
+ inth-ms-vs-middleton-tn/1-5-2027/?c=e8af6cc8-f27e-4cf5-870d-b2653a502900
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c534131eb0653302ced888ce8ffecda2@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270105T193000
+SUMMARY:Boys Basketball: Tishomingo County at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/corinth-vs-tishomingo-co
+ unty-iuka/1-5-2027/?c=3bbdc313-06a1-4272-a113-107bf0769bbb
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/corinth-vs-tishomingo-cou
+ nty-iuka/1-5-2027/?c=3bbdc313-06a1-4272-a113-107bf0769bbb
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1c929a01f138db96a2e6aef089f506f4@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270107T170000
+SUMMARY:Girls Soccer: Corinth at Tishomingo County
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-tishomingo
+ -county-iuka/1-7-2027/?c=3e15c599-e556-4e08-bc22-5e021a9b1c02
+LOCATION:Tishomingo County\, Iuka\, MS
+URL:https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-tishomingo-
+ county-iuka/1-7-2027/?c=3e15c599-e556-4e08-bc22-5e021a9b1c02
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f0ffb67c2db64cae10b37b78d7c9a766@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270107T190000
+SUMMARY:Boys Soccer: Corinth at Tishomingo County
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/corinth-vs-tishomingo-count
+ y-iuka/1-7-2027/?c=b435387f-6844-47ac-ba87-d4de6223a1dc
+LOCATION:Tishomingo County\, Iuka\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/corinth-vs-tishomingo-county
+ -iuka/1-7-2027/?c=b435387f-6844-47ac-ba87-d4de6223a1dc
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c1c00065dbe69706ddb43a1c51162146@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270107
+SUMMARY:Boys Basketball: Corinth vs. Opponent TBD (time TBD)
+DESCRIPTION:Varsity. All times Central.  Time TBD — check source. Sched
+ ule subject to change. Source: https://www.maxpreps.com/ms/corinth/corin
+ th-warriors/basketball/schedule/
+LOCATION:Neutral site — see source
+URL:https://www.maxpreps.com/ms/corinth/corinth-warriors/basketball/sched
+ ule/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7e8c0cfc6d19ce4cdf453cef6f8ca8b3@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270109T120000
+SUMMARY:Boys Soccer: Starkville at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/corinth-vs-starkville/1-9-2
+ 027/?c=7e3aa8c9-3a5c-4d81-8040-ca5c1d090565
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/corinth-vs-starkville/1-9-20
+ 27/?c=7e3aa8c9-3a5c-4d81-8040-ca5c1d090565
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1185b62a5fc933322da40c2e8ba695a0@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270109T140000
+SUMMARY:Boys Soccer: Starkville at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/corinth-vs-starkville/1-9-2
+ 027/?c=17bfb61e-ba8a-4c2b-8499-7a0ec54d7643
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/corinth-vs-starkville/1-9-20
+ 27/?c=17bfb61e-ba8a-4c2b-8499-7a0ec54d7643
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e36e4e2551e07ea38139865cc2af661a@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270112T180000
+SUMMARY:Girls Basketball: Alcorn Central at Belmont
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-belmont/1-12-2027/?c=596fa1f1-8f8c-4404-b37a-53c2f38c6f84
+LOCATION:Belmont\, Belmont\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-belmont/1-12-2027/?c=596fa1f1-8f8c-4404-b37a-53c2f38c6f84
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4660dd5bc71792e127d1f5b99003b139@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270112T180000
+SUMMARY:Girls Basketball: Biggersville at Falkner
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-falkner/1-12-2027/?c=f47abf86-1db8-4f14-9e26-2fc7b33f38ea
+LOCATION:Falkner\, Falkner\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-falkner/1-12-2027/?c=f47abf86-1db8-4f14-9e26-2fc7b33f38ea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3dab498c8e144fbff88367aaf0122ee0@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270112T180000
+SUMMARY:Girls Basketball: Booneville at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/booneville-vs-cori
+ nth/1-12-2027/?c=fdeacffa-981d-437f-bb33-98697ad620a1
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/booneville-vs-corin
+ th/1-12-2027/?c=fdeacffa-981d-437f-bb33-98697ad620a1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a7cd05d94415e850aef0726f6c660910@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270112T180000
+SUMMARY:Girls Basketball: Mantachie at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-mantach
+ ie/1-12-2027/?c=2015ca40-3925-46a0-9b21-9824417eff0c
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-mantachi
+ e/1-12-2027/?c=2015ca40-3925-46a0-9b21-9824417eff0c
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3da25c11f9fe64f84037cd3bb3683e@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270112T190000
+SUMMARY:Boys Soccer: North Pontotoc at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/corinth-vs-north-pontotoc-e
+ cru/1-12-2027/?c=1066ec89-791d-4fee-ad65-88284e130261
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/corinth-vs-north-pontotoc-ec
+ ru/1-12-2027/?c=1066ec89-791d-4fee-ad65-88284e130261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:94c0746ca067591eadb61feccdf07d47@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270112T193000
+SUMMARY:Boys Basketball: Alcorn Central at Belmont
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-b
+ elmont/1-12-2027/?c=b2cbd7c7-042a-48d4-a58c-b0e89d13ee7f
+LOCATION:Belmont\, Belmont\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-be
+ lmont/1-12-2027/?c=b2cbd7c7-042a-48d4-a58c-b0e89d13ee7f
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:54cbbd2a0119388a9456d2cdae62d784@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270112T193000
+SUMMARY:Boys Basketball: Biggersville at Falkner
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ falkner/1-12-2027/?c=6602d3ba-1f47-4de3-b217-f7c2681f7db9
+LOCATION:Falkner\, Falkner\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-f
+ alkner/1-12-2027/?c=6602d3ba-1f47-4de3-b217-f7c2681f7db9
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c2f1e920440db6bb583b87fe057e194d@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270112T193000
+SUMMARY:Boys Basketball: Booneville at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/booneville-vs-corinth/1-
+ 12-2027/?c=c598a216-3eea-4366-96b6-dad916be80b4
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/booneville-vs-corinth/1-1
+ 2-2027/?c=c598a216-3eea-4366-96b6-dad916be80b4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd516c0da39f74785c104bd0f95abc4@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270112T193000
+SUMMARY:Boys Basketball: Mantachie at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/kossuth-vs-mantachie/1-1
+ 2-2027/?c=a9467fee-64ed-4440-95c9-479ef2f11398
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/kossuth-vs-mantachie/1-12
+ -2027/?c=a9467fee-64ed-4440-95c9-479ef2f11398
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fca157e68545c13e36c2a3f2e8a53b4e@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270114T180000
+SUMMARY:Girls Basketball: Adamsville at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/inter-state/basketball/girls/game/adamsvill
+ e-tn-vs-kossuth-ms/1-14-2027/?c=c8e9ab89-813f-4757-baee-afb5ae175e3c
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/inter-state/basketball/girls/game/adamsville
+ -tn-vs-kossuth-ms/1-14-2027/?c=c8e9ab89-813f-4757-baee-afb5ae175e3c
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:950ed4986e9a2fee63a167f23dd700aa@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270114T180000
+SUMMARY:Girls Basketball: Myrtle at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-myrtle/1-14-2027/?c=f2609367-d20c-4462-b8f6-39a9928722b7
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-myrtle/1-14-2027/?c=f2609367-d20c-4462-b8f6-39a9928722b7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f9ffc504f11755d4e5d3e36fbd7a4eaa@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270114T193000
+SUMMARY:Boys Basketball: Myrtle at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ myrtle/1-14-2027/?c=c24a6b81-71b6-4c8b-b4ef-5556ed1bf2df
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-m
+ yrtle/1-14-2027/?c=c24a6b81-71b6-4c8b-b4ef-5556ed1bf2df
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:29647cc5d3099abde3eb5a237289573d@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270115T170000
+SUMMARY:Girls Soccer: Corinth at Tupelo
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-tupelo/1-1
+ 5-2027/?c=0a68b59a-6ce8-4497-9189-73002b554fcb
+LOCATION:Tupelo\, Tupelo\, MS
+URL:https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-tupelo/1-15
+ -2027/?c=0a68b59a-6ce8-4497-9189-73002b554fcb
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa72a94f2d7629302ede4c1edd6220@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270115T180000
+SUMMARY:Girls Basketball: Alcorn Central at Mantachie
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-mantachie/1-15-2027/?c=8436a3e1-b9e3-48b3-b95e-525b8b982390
+LOCATION:Mantachie\, Mantachie\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-mantachie/1-15-2027/?c=8436a3e1-b9e3-48b3-b95e-525b8b982390
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:937f4f99b21f19febd9558176a7904c2@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270115T180000
+SUMMARY:Girls Basketball: Biggersville at Thrasher
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-thrasher-booneville/1-15-2027/?c=304aa30e-794b-48ee-85a4-df0f0dbc8
+ 07b
+LOCATION:Thrasher\, Booneville\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-thrasher-booneville/1-15-2027/?c=304aa30e-794b-48ee-85a4-df0f0dbc80
+ 7b
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:19fb581a246163dffc178d3da5c5cce2@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270115T180000
+SUMMARY:Girls Basketball: Corinth at South Pontotoc
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-south-p
+ ontotoc/1-15-2027/?c=681a1f5b-4d6c-4337-b105-313fef57b1da
+LOCATION:South Pontotoc\, Pontotoc\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-south-po
+ ntotoc/1-15-2027/?c=681a1f5b-4d6c-4337-b105-313fef57b1da
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:af85331236e2ad820f3fdb40700c6701@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270115T193000
+SUMMARY:Boys Basketball: Alcorn Central at Mantachie
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-m
+ antachie/1-15-2027/?c=b9a7021e-e67e-45b3-aad7-1c73c507ed7b
+LOCATION:Mantachie\, Mantachie\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-ma
+ ntachie/1-15-2027/?c=b9a7021e-e67e-45b3-aad7-1c73c507ed7b
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bb0f996a539040cad115952fbcbe07a4@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270115T193000
+SUMMARY:Boys Basketball: Biggersville at Thrasher
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ thrasher-booneville/1-15-2027/?c=3142cf92-d57d-4a9b-b259-f7db47286f92
+LOCATION:Thrasher\, Booneville\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-t
+ hrasher-booneville/1-15-2027/?c=3142cf92-d57d-4a9b-b259-f7db47286f92
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bc78b16f0e720b9b5a22023a28e03cb8@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270118T180000
+SUMMARY:Girls Basketball: Alcorn Central at Booneville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-booneville/1-18-2027/?c=acb19c6e-6d0c-4ea4-8cfa-1c03d53079bf
+LOCATION:Booneville\, Booneville\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-booneville/1-18-2027/?c=acb19c6e-6d0c-4ea4-8cfa-1c03d53079bf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ceb682d746c8fbc22611689995f92654@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270118T193000
+SUMMARY:Boys Basketball: Alcorn Central at Booneville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-b
+ ooneville/1-18-2027/?c=b1009717-f935-4aa0-9951-263330bd01d2
+LOCATION:Booneville\, Booneville\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-bo
+ oneville/1-18-2027/?c=b1009717-f935-4aa0-9951-263330bd01d2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:748552d2795007797cb316ade71f35eb@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270119T170000
+SUMMARY:Girls Soccer: New Albany at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-new-albany
+ /1-19-2027/?c=c6c2a890-3c96-490c-988d-8b1a1d2eab01
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/girls/match/corinth-vs-new-albany/
+ 1-19-2027/?c=c6c2a890-3c96-490c-988d-8b1a1d2eab01
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9c6d4c2e453c56cebc1e1f7fe437171c@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270119T180000
+SUMMARY:Girls Basketball: Kossuth at Belmont
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/belmont-vs-kossuth
+ /1-19-2027/?c=0340d594-28ff-4294-898d-8127d28dc902
+LOCATION:Belmont\, Belmont\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/belmont-vs-kossuth/
+ 1-19-2027/?c=0340d594-28ff-4294-898d-8127d28dc902
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0cfab205d7dee9fd5628c9dc706e4769@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270119T180000
+SUMMARY:Girls Basketball: New Albany at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-new-alb
+ any/1-19-2027/?c=d1b8339f-9915-417e-b9fc-fee2f643da76
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-new-alba
+ ny/1-19-2027/?c=d1b8339f-9915-417e-b9fc-fee2f643da76
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0cab715731292a263ede3883c95b12a3@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270119T180000
+SUMMARY:Girls Basketball: Pine Grove at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-pine-grove-ripley/1-19-2027/?c=53112dee-e55d-432c-b511-9ffd734b5fa
+ 4
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-pine-grove-ripley/1-19-2027/?c=53112dee-e55d-432c-b511-9ffd734b5fa4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0513318df86bafd5bbac1c5542005990@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270119T190000
+SUMMARY:Boys Soccer: New Albany at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/corinth-vs-new-albany/1-19-
+ 2027/?c=4548e5a0-793d-420a-a2b7-72511193a7f2
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/corinth-vs-new-albany/1-19-2
+ 027/?c=4548e5a0-793d-420a-a2b7-72511193a7f2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ccbc6185eb5e12604e71ee02e9dd139d@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270119T193000
+SUMMARY:Boys Basketball: Kossuth at Belmont
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/belmont-vs-kossuth/1-19-
+ 2027/?c=d4307b3a-73ff-499c-9740-488774f37f27
+LOCATION:Belmont\, Belmont\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/belmont-vs-kossuth/1-19-2
+ 027/?c=d4307b3a-73ff-499c-9740-488774f37f27
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:510dc684914c04be0a9715b8fe66102a@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270119T193000
+SUMMARY:Boys Basketball: New Albany at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/corinth-vs-new-albany/1-
+ 19-2027/?c=e87285ca-0024-4dc0-bc81-ffb2cd622071
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/corinth-vs-new-albany/1-1
+ 9-2027/?c=e87285ca-0024-4dc0-bc81-ffb2cd622071
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe8b10ad888e89c97d52a68829bcc68@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270119T193000
+SUMMARY:Boys Basketball: Pine Grove at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ pine-grove-ripley/1-19-2027/?c=66b4f943-ff81-4761-a8d3-9f2100982b24
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-p
+ ine-grove-ripley/1-19-2027/?c=66b4f943-ff81-4761-a8d3-9f2100982b24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:002f40bb1337e14658aa8a9d2d2b2af2@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270121T180000
+SUMMARY:Girls Basketball: Ripley at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-ripley/1-21-2027/?c=ba24640a-3b55-4ac2-81df-fccdef1aa7db
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-ripley/1-21-2027/?c=ba24640a-3b55-4ac2-81df-fccdef1aa7db
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3b37bb55774f131eda4e7a23349b6be2@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270121T190000
+SUMMARY:Boys Soccer: Center Hill at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs
+ -corinth/1-21-2027/?c=b8f152b9-8574-48dd-92a7-d56cf72b2b92
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-
+ corinth/1-21-2027/?c=b8f152b9-8574-48dd-92a7-d56cf72b2b92
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e6d8911564a7119d6d2f8548350f5a39@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270121T193000
+SUMMARY:Boys Basketball: Ripley at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-r
+ ipley/1-21-2027/?c=4a184ad5-acdd-4cdc-8435-4f4e76a9d051
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-ri
+ pley/1-21-2027/?c=4a184ad5-acdd-4cdc-8435-4f4e76a9d051
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:53f95a2b98b3c5ad870a3c862c3082fd@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270122T180000
+SUMMARY:Girls Basketball: Booneville at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/booneville-vs-koss
+ uth/1-22-2027/?c=cdbd5ec2-a8e2-4a2a-ac9f-eff0065183e2
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/booneville-vs-kossu
+ th/1-22-2027/?c=cdbd5ec2-a8e2-4a2a-ac9f-eff0065183e2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7f007f8469a8fedc8ab886c37dacfe80@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270122T180000
+SUMMARY:Girls Basketball: South Pontotoc at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-south-p
+ ontotoc/1-22-2027/?c=bcee76ff-587a-42f3-99a4-a98f68267d3a
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-south-po
+ ntotoc/1-22-2027/?c=bcee76ff-587a-42f3-99a4-a98f68267d3a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f8041bdd9bb8c72849122896f7d8f71f@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270122T180000
+SUMMARY:Girls Basketball: Wheeler at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-wheeler/1-22-2027/?c=bb5f7ea8-1c17-4ee8-9cba-e5e73cd56cb1
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-wheeler/1-22-2027/?c=bb5f7ea8-1c17-4ee8-9cba-e5e73cd56cb1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f1f6cf971c39b5cc7e8bbf904305ca17@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270122T190000
+SUMMARY:Boys Basketball: Corinth at South Pontotoc
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/corinth-vs-south-pontoto
+ c/1-22-2027/?c=add415af-b1a4-4710-aea0-3261774c8478
+LOCATION:South Pontotoc\, Pontotoc\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/corinth-vs-south-pontotoc
+ /1-22-2027/?c=add415af-b1a4-4710-aea0-3261774c8478
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:798b24a84b3c4fbe5b0c4650559fdeeb@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270122T193000
+SUMMARY:Boys Basketball: Booneville at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/booneville-vs-kossuth/1-
+ 22-2027/?c=2170d556-52c4-4577-9577-8cdcfda79395
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/booneville-vs-kossuth/1-2
+ 2-2027/?c=2170d556-52c4-4577-9577-8cdcfda79395
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5a697037c89cdef93095466e510daec7@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270122T193000
+SUMMARY:Girls Basketball: Wheeler at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-wheeler/1-22-2027/?c=18c460e8-a13f-4104-bdc7-3db67fa40a41
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-wheeler/1-22-2027/?c=18c460e8-a13f-4104-bdc7-3db67fa40a41
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:13f99160c86f550624d07e1129de6387@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270126T180000
+SUMMARY:Girls Basketball: Alcorn Central at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-kossuth/1-26-2027/?c=441ff64d-2dc1-4727-b994-8b5ca2864e22
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-kossuth/1-26-2027/?c=441ff64d-2dc1-4727-b994-8b5ca2864e22
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3ad0b12b3ea90b3728699606a85659@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270126T180000
+SUMMARY:Girls Basketball: Biggersville at Hatley
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-hatley-amory/1-26-2027/?c=d26cc1da-30a5-4842-885a-2ae57901fdc0
+LOCATION:Hatley\, Amory\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-hatley-amory/1-26-2027/?c=d26cc1da-30a5-4842-885a-2ae57901fdc0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b3443a5ba641131a35bb259c3b22a191@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270126T180000
+SUMMARY:Girls Basketball: Corinth at Tishomingo County
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-tishomi
+ ngo-county-iuka/1-26-2027/?c=80c65341-3a83-4b5e-8382-edd9400f5c36
+LOCATION:Tishomingo County\, Iuka\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-tishomin
+ go-county-iuka/1-26-2027/?c=80c65341-3a83-4b5e-8382-edd9400f5c36
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c63356fbdfc66c6a3156d5360d433107@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270126T190000
+SUMMARY:Boys Soccer: Corinth at Lake Cormorant
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/soccer/match/corinth-vs-lake-cormorant/1
+ -26-2027/?c=19687908-4c74-4cf1-be22-67912740e252
+LOCATION:Lake Cormorant\, Lake Cormorant\, MS
+URL:https://www.maxpreps.com/ms/soccer/match/corinth-vs-lake-cormorant/1-
+ 26-2027/?c=19687908-4c74-4cf1-be22-67912740e252
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:80774b9088a6512ec3597ef2dd801c5c@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270126T190000
+SUMMARY:Boys Basketball: Corinth at Tishomingo County
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/corinth-vs-tishomingo-co
+ unty-iuka/1-26-2027/?c=721d6e9e-fdf4-4ece-a7eb-28d7e0bd36f1
+LOCATION:Tishomingo County\, Iuka\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/corinth-vs-tishomingo-cou
+ nty-iuka/1-26-2027/?c=721d6e9e-fdf4-4ece-a7eb-28d7e0bd36f1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:72d0ea241888e87a2ae0db4fe57059d9@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270126T193000
+SUMMARY:Boys Basketball: Alcorn Central at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-k
+ ossuth/1-26-2027/?c=bb54ecac-03d5-438a-a8f0-a77df1b4c477
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-ko
+ ssuth/1-26-2027/?c=bb54ecac-03d5-438a-a8f0-a77df1b4c477
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:61408dca18ebe48dfa17dbb8b285334b@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270126T193000
+SUMMARY:Boys Basketball: Biggersville at Hatley
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ hatley-amory/1-26-2027/?c=c884c760-3bbf-4158-838f-fdfb323d6368
+LOCATION:Hatley\, Amory\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-h
+ atley-amory/1-26-2027/?c=c884c760-3bbf-4158-838f-fdfb323d6368
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1a3b7391d03f402d873bec85836df543@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270128T180000
+SUMMARY:Girls Basketball: Walnut at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corin
+ th-vs-walnut/1-28-2027/?c=e3270f0b-b11a-4a58-b188-237c4c721d79
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-walnut/1-28-2027/?c=e3270f0b-b11a-4a58-b188-237c4c721d79
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f567a019475995b297e88e7e6936b1ff@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270128T193000
+SUMMARY:Boys Basketball: Walnut at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ walnut/1-28-2027/?c=8a6ab300-11ff-428a-aa28-6b50fd127c51
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-w
+ alnut/1-28-2027/?c=8a6ab300-11ff-428a-aa28-6b50fd127c51
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb0381296f9252030cedd03528e1aad@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270129T180000
+SUMMARY:Girls Basketball: Belmont at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-belmont/1-29-2027/?c=dfc267b9-d496-4fef-a9a9-01e8a5c147ec
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-belmont/1-29-2027/?c=dfc267b9-d496-4fef-a9a9-01e8a5c147ec
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:52bdb7bace556a2b134897a70d4bd0ea@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270129T180000
+SUMMARY:Girls Basketball: Corinth at North Pontotoc
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-north-p
+ ontotoc-ecru/1-29-2027/?c=3fee63b5-68d9-4009-ab1a-d1a1454f6074
+LOCATION:North Pontotoc\, Ecru\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-north-po
+ ntotoc-ecru/1-29-2027/?c=3fee63b5-68d9-4009-ab1a-d1a1454f6074
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8a414f966b4c97cb2c2c785711489caf@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270129T180000
+SUMMARY:Girls Basketball: Kossuth at Mantachie
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-mantach
+ ie/1-29-2027/?c=63bc0404-ff0f-47e8-933a-7341d1c4c27b
+LOCATION:Mantachie\, Mantachie\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-mantachi
+ e/1-29-2027/?c=63bc0404-ff0f-47e8-933a-7341d1c4c27b
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4bf02d81e99f190471ac66e3ca784bcb@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270129T193000
+SUMMARY:Boys Basketball: Belmont at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-b
+ elmont/1-29-2027/?c=99bc3c81-220b-4185-a3bc-c0b83a9e6598
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-be
+ lmont/1-29-2027/?c=99bc3c81-220b-4185-a3bc-c0b83a9e6598
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:71fd0e97c161a34e109b351bd9db0976@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270129T193000
+SUMMARY:Boys Basketball: Corinth at North Pontotoc
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/corinth-vs-north-pontoto
+ c-ecru/1-29-2027/?c=e1873cd1-e3be-4ab5-9fe4-c5d87c89c1c2
+LOCATION:North Pontotoc\, Ecru\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/corinth-vs-north-pontotoc
+ -ecru/1-29-2027/?c=e1873cd1-e3be-4ab5-9fe4-c5d87c89c1c2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:71f96dc40c08dca1122ad997288508b9@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270129T193000
+SUMMARY:Boys Basketball: Kossuth at Mantachie
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/kossuth-vs-mantachie/1-2
+ 9-2027/?c=d2f255fb-812c-4955-937d-bb535e6cb0b0
+LOCATION:Mantachie\, Mantachie\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/kossuth-vs-mantachie/1-29
+ -2027/?c=d2f255fb-812c-4955-937d-bb535e6cb0b0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5f84fed6e3b8e21ce482e130b18b5f8c@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270202T180000
+SUMMARY:Boys Basketball: Biggersville at East Union
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ east-union-blue-springs/2-2-2027/?c=fecebbac-56c7-49b6-a68c-5f9b61e0578e
+LOCATION:East Union\, Blue Springs\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-e
+ ast-union-blue-springs/2-2-2027/?c=fecebbac-56c7-49b6-a68c-5f9b61e0578e
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:268fbbfcbda01e0a90daa99fac8ee56b@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270202T180000
+SUMMARY:Girls Basketball: Corinth at Saltillo
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-saltill
+ o/2-2-2027/?c=27d5f766-dccf-4774-b533-46c5069c265c
+LOCATION:Saltillo\, Saltillo\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-saltillo
+ /2-2-2027/?c=27d5f766-dccf-4774-b533-46c5069c265c
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4a21c050e740751967ca23bc28778782@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270202T180000
+SUMMARY:Girls Basketball: North Pontotoc at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-north-p
+ ontotoc-ecru/2-2-2027/?c=63c472f8-d2d8-444a-af5e-9b1f8c0314db
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/kossuth-vs-north-po
+ ntotoc-ecru/2-2-2027/?c=63c472f8-d2d8-444a-af5e-9b1f8c0314db
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac44afb4e72d1b5aa0b90be81d33290@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270202T193000
+SUMMARY:Boys Basketball: Biggersville at East Union
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-
+ east-union-blue-springs/2-2-2027/?c=38149196-fad3-42ee-8302-1fb0a2e88113
+LOCATION:East Union\, Blue Springs\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/biggersville-corinth-vs-e
+ ast-union-blue-springs/2-2-2027/?c=38149196-fad3-42ee-8302-1fb0a2e88113
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:28ae823a26918dda16c6c51be2492621@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270202T193000
+SUMMARY:Boys Basketball: Corinth at Saltillo
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/corinth-vs-saltillo/2-2-
+ 2027/?c=cb77dbc8-96d4-4366-a83f-4da5e04adbae
+LOCATION:Saltillo\, Saltillo\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/corinth-vs-saltillo/2-2-2
+ 027/?c=cb77dbc8-96d4-4366-a83f-4da5e04adbae
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b6e57d8574838c1eeee74f191059071a@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270202T193000
+SUMMARY:Boys Basketball: North Pontotoc at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/kossuth-vs-north-pontoto
+ c-ecru/2-2-2027/?c=25d6e52e-5db6-40a3-a702-024a284898e6
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/kossuth-vs-north-pontotoc
+ -ecru/2-2-2027/?c=25d6e52e-5db6-40a3-a702-024a284898e6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4e9aac441120e259de54af321b090c83@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270202
+SUMMARY:Girls Basketball: Biggersville at East Union (time TBD)
+DESCRIPTION:Varsity. All times Central.  Time TBD — check source. Sched
+ ule subject to change. Source: https://www.maxpreps.com/ms/basketball/gi
+ rls/game/biggersville-corinth-vs-east-union-blue-springs/2-2-2027/?c=196
+ 61446-8a3b-4a7a-bafc-ea64f3c192a4
+LOCATION:East Union\, Blue Springs\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/biggersville-corint
+ h-vs-east-union-blue-springs/2-2-2027/?c=19661446-8a3b-4a7a-bafc-ea64f3c
+ 192a4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f9041a7abe895bad17ae5633db5a7fa1@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270204T180000
+SUMMARY:Girls Basketball: Alcorn Central at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-gle
+ n-vs-biggersville-corinth/2-4-2027/?c=597ec8ea-dd9c-41a4-9a16-cbd63c6d81
+ 23
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen
+ -vs-biggersville-corinth/2-4-2027/?c=597ec8ea-dd9c-41a4-9a16-cbd63c6d812
+ 3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b70eb7aa1b2a066fd1b568a53797f90d@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270204T180000
+SUMMARY:Girls Basketball: Kossuth at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-kossuth
+ /2-4-2027/?c=0de52e89-0162-4c8d-8dba-31a97455ebe4
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-kossuth/
+ 2-4-2027/?c=0de52e89-0162-4c8d-8dba-31a97455ebe4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2f2bdc83cd00a6ecf4261cc0aa8bd240@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270204T193000
+SUMMARY:Boys Basketball: Alcorn Central at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-b
+ iggersville-corinth/2-4-2027/?c=7d1d19c1-e465-4d5b-870a-45ddd8eb8374
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-bi
+ ggersville-corinth/2-4-2027/?c=7d1d19c1-e465-4d5b-870a-45ddd8eb8374
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4f1a95e565e59f7ea6af3ff95a469048@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270204T193000
+SUMMARY:Boys Basketball: Kossuth at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/basketball/game/corinth-vs-kossuth/2-4-2
+ 027/?c=142d0f16-5ba5-4e58-b9f7-330a2745b54c
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/basketball/game/corinth-vs-kossuth/2-4-20
+ 27/?c=142d0f16-5ba5-4e58-b9f7-330a2745b54c
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a76641615980bd6007c40a64e8ffaea6@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270208T170000
+SUMMARY:Girls Softball: New Site at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/biggersville-corinth-vs-ne
+ w-site/2-8-2027/?c=9ab60b0a-b1a6-48e0-a3a2-9ea510e1731a
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/softball/game/biggersville-corinth-vs-new
+ -site/2-8-2027/?c=9ab60b0a-b1a6-48e0-a3a2-9ea510e1731a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:55dc78b99ad2908e364ad8b8da813f3e@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270208T173000
+SUMMARY:Girls Softball: Kossuth at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-kossuth/2-8-202
+ 7/?c=b1e62dcb-4c98-4e5c-b9f9-467c006c269c
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-kossuth/2-8-2027
+ /?c=b1e62dcb-4c98-4e5c-b9f9-467c006c269c
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2932346562057deac2344dde25bda578@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270209
+SUMMARY:Boys Basketball: Corinth vs. Opponent TBD (time TBD)
+DESCRIPTION:Varsity. All times Central.  Time TBD — check source. Sched
+ ule subject to change. Source: https://www.maxpreps.com/ms/corinth/corin
+ th-warriors/basketball/schedule/
+LOCATION:Neutral site — see source
+URL:https://www.maxpreps.com/ms/corinth/corinth-warriors/basketball/sched
+ ule/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:86283cc5f6a342b4b56624fd2f4b3f2f@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270211T173000
+SUMMARY:Girls Softball: Biggersville at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/biggersville-corinth-vs-co
+ rinth/2-11-2027/?c=587efa90-655e-45a1-82e1-974a02638e62
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/softball/game/biggersville-corinth-vs-cor
+ inth/2-11-2027/?c=587efa90-655e-45a1-82e1-974a02638e62
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f3aaa8f23a7baf779f423ee83f89e12d@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270212T173000
+SUMMARY:Girls Softball: Ripley at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-ripley/2-12-202
+ 7/?c=26fe42a4-52f7-41dd-acc0-a795b51678db
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-ripley/2-12-2027
+ /?c=26fe42a4-52f7-41dd-acc0-a795b51678db
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:29a9e0959050ca96dc9db6c5be7eded5@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270212T190000
+SUMMARY:Boys Baseball: Corinth at Center Hill
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/center-hill-olive-branch-v
+ s-corinth/2-12-2027/?c=0016ca9a-6496-4415-9bf4-5c98d0caa963
+LOCATION:Center Hill\, Olive Branch\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/center-hill-olive-branch-vs
+ -corinth/2-12-2027/?c=0016ca9a-6496-4415-9bf4-5c98d0caa963
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:479e0d53e013cc34b271d8016a98cc71@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270213T140000
+SUMMARY:Boys Baseball: Corinth at Pontotoc
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/corinth-vs-pontotoc/2-13-2
+ 027/?c=94541915-d130-48bb-8a01-a023347f3843
+LOCATION:Pontotoc\, Pontotoc\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/corinth-vs-pontotoc/2-13-20
+ 27/?c=94541915-d130-48bb-8a01-a023347f3843
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:34125abefddbf1f473b52dc413a4e222@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270215T190000
+SUMMARY:Boys Baseball: Corinth at Saltillo
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/corinth-vs-saltillo/2-15-2
+ 027/?c=c512485d-f74f-4e09-8151-ba7c7fe04a0a
+LOCATION:Saltillo\, Saltillo\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/corinth-vs-saltillo/2-15-20
+ 27/?c=c512485d-f74f-4e09-8151-ba7c7fe04a0a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b1c9d799aa84f8130c23f3cc1d7199bf@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270216T183000
+SUMMARY:Girls Softball: Corinth at Southaven
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-southaven/2-16-
+ 2027/?c=3bc33b60-2c2b-4dd2-a450-89a564b16859
+LOCATION:Southaven\, Southaven\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-southaven/2-16-2
+ 027/?c=3bc33b60-2c2b-4dd2-a450-89a564b16859
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c9e6c2242ddbdf92f3573de5b910f71a@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270216T183000
+SUMMARY:Girls Softball: Kossuth at Ripley
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/kossuth-vs-ripley/2-16-202
+ 7/?c=90447bef-fa5d-4775-ba67-c1e9ab5c14ee
+LOCATION:Ripley\, Ripley\, MS
+URL:https://www.maxpreps.com/ms/softball/game/kossuth-vs-ripley/2-16-2027
+ /?c=90447bef-fa5d-4775-ba67-c1e9ab5c14ee
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c69fc5bb896c85074a1b707f8cd0b3f5@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270218T183000
+SUMMARY:Girls Softball: Corinth at Booneville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/booneville-vs-corinth/2-18
+ -2027/?c=1d9f4471-ad0c-41ac-9128-9f78484c1f6f
+LOCATION:Booneville\, Booneville\, MS
+URL:https://www.maxpreps.com/ms/softball/game/booneville-vs-corinth/2-18-
+ 2027/?c=1d9f4471-ad0c-41ac-9128-9f78484c1f6f
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:847762469f5dd91f5dbcbe3e18b29f01@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270218T183000
+SUMMARY:Girls Softball: Ripley at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-rip
+ ley/2-18-2027/?c=806ab38f-b1a8-47e4-9adb-73a095c09145
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-ripl
+ ey/2-18-2027/?c=806ab38f-b1a8-47e4-9adb-73a095c09145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:59276af9ab4b4619c4f66fa42595c093@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270219T173000
+SUMMARY:Girls Softball: Alcorn Central at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-cor
+ inth/2-19-2027/?c=eb440377-ffc7-46dd-8e81-30e7c836f841
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-cori
+ nth/2-19-2027/?c=eb440377-ffc7-46dd-8e81-30e7c836f841
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f55cf30d176e0ec1affdacb7fa8921c1@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270219T183000
+SUMMARY:Girls Softball: Itawamba Agricultural at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/itawamba-agricultural-fult
+ on-vs-kossuth/2-19-2027/?c=1f64de35-e2c2-4585-9b79-1eff17cfa0a5
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/softball/game/itawamba-agricultural-fulto
+ n-vs-kossuth/2-19-2027/?c=1f64de35-e2c2-4585-9b79-1eff17cfa0a5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b1a3a9bb2cc464a2e5908dd5e2eebe48@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270223T183000
+SUMMARY:Girls Softball: Corinth at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/biggersville-corinth-vs-co
+ rinth/2-23-2027/?c=95993a40-ba7f-4b8a-8a80-28cb5d2e39a3
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/softball/game/biggersville-corinth-vs-cor
+ inth/2-23-2027/?c=95993a40-ba7f-4b8a-8a80-28cb5d2e39a3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e8f86fc0cd96098b8dd13852dbf75a6c@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270223T183000
+SUMMARY:Girls Softball: Falkner at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-fal
+ kner/2-23-2027/?c=d9f7019f-32e7-4698-b65d-98a3a31dab17
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-falk
+ ner/2-23-2027/?c=d9f7019f-32e7-4698-b65d-98a3a31dab17
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:47c0e4d1f9d45d5b87b21059d630b93c@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270223T190000
+SUMMARY:Boys Baseball: Biggersville at Mantachie
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-ma
+ ntachie/2-23-2027/?c=9b159fdd-e971-4fc0-952a-f87798e17f08
+LOCATION:Mantachie\, Mantachie\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-man
+ tachie/2-23-2027/?c=9b159fdd-e971-4fc0-952a-f87798e17f08
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0a979d64720d084fa69f12b653d7dc8c@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270223T190000
+SUMMARY:Boys Baseball: Kossuth at Mooreville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/kossuth-vs-mooreville/2-23
+ -2027/?c=5c05090d-3b8c-4afa-bc1f-5d4db714ed06
+LOCATION:Mooreville\, Mooreville\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/kossuth-vs-mooreville/2-23-
+ 2027/?c=5c05090d-3b8c-4afa-bc1f-5d4db714ed06
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:81988a8a7144ba05161fe1b78f354fc1@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270225T183000
+SUMMARY:Girls Softball: Corinth at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-cor
+ inth/2-25-2027/?c=fda74a78-0ae6-4470-9f16-9c8914a8b092
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-cori
+ nth/2-25-2027/?c=fda74a78-0ae6-4470-9f16-9c8914a8b092
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9e9643b4aa1d9359731dbb94dd0cdcb1@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270226T183000
+SUMMARY:Girls Softball: Corinth at Kossuth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-kossuth/2-26-20
+ 27/?c=e3e8d590-338c-4391-b31b-78820b17eea0
+LOCATION:Kossuth\, Kossuth\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-kossuth/2-26-202
+ 7/?c=e3e8d590-338c-4391-b31b-78820b17eea0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:eff1deb7b33300ec96c9ad966966c668@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270227T110000
+SUMMARY:Boys Baseball: New Albany at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-new
+ -albany/2-27-2027/?c=ac9e6bb1-4b13-4928-aea1-d1de448671b4
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-new-
+ albany/2-27-2027/?c=ac9e6bb1-4b13-4928-aea1-d1de448671b4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2c4820c7cf5ebe056531b7451da19aee@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270227T143000
+SUMMARY:Boys Baseball: Walnut at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-wa
+ lnut/2-27-2027/?c=5a88401d-090e-40c3-ae69-b31d65d13912
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-wal
+ nut/2-27-2027/?c=5a88401d-090e-40c3-ae69-b31d65d13912
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dcfadd3d6791c82b5ba90143a0a0effd@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270227T160000
+SUMMARY:Boys Baseball: Hamilton at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-ham
+ ilton/2-27-2027/?c=a0bc1bff-8fc4-41e8-bffc-806b5d4f57bb
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-hami
+ lton/2-27-2027/?c=a0bc1bff-8fc4-41e8-bffc-806b5d4f57bb
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d73b96d894d9cd1df765a7dc8fc4a7f0@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270302T173000
+SUMMARY:Girls Softball: South Pontotoc at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-south-pontotoc/
+ 3-2-2027/?c=16f922f5-d610-4aa1-af32-8e5440700974
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-south-pontotoc/3
+ -2-2027/?c=16f922f5-d610-4aa1-af32-8e5440700974
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:718d989fcf8d81d3641aefb14f85419b@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270302T183000
+SUMMARY:Girls Softball: Itawamba Agricultural at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-ita
+ wamba-agricultural-fulton/3-2-2027/?c=9ee23235-34ca-44a4-90b5-d4c512bca1
+ 0e
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-itaw
+ amba-agricultural-fulton/3-2-2027/?c=9ee23235-34ca-44a4-90b5-d4c512bca10
+ e
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5ee0aed4d9c6ea8064fa350efbe2c386@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270302T190000
+SUMMARY:Boys Baseball: Alcorn Central at Mantachie
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-man
+ tachie/3-2-2027/?c=fe31cbdc-977b-4b81-a043-aa70d6bc4f90
+LOCATION:Mantachie\, Mantachie\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-mant
+ achie/3-2-2027/?c=fe31cbdc-977b-4b81-a043-aa70d6bc4f90
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:181480cadc4feb4445f3cee4f7babcce@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270304T183000
+SUMMARY:Girls Softball: Corinth at South Pontotoc
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-south-pontotoc/
+ 3-4-2027/?c=b5ae9d95-5811-4143-b33f-d00056a945d8
+LOCATION:South Pontotoc\, Pontotoc\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-south-pontotoc/3
+ -4-2027/?c=b5ae9d95-5811-4143-b33f-d00056a945d8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:83998d012c82464351b467c85249e83a@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270305T173000
+SUMMARY:Girls Softball: Alcorn Central at Falkner
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-fal
+ kner/3-5-2027/?c=7ba390c4-1505-4418-9a3b-6d31b192f25c
+LOCATION:Falkner\, Falkner\, MS
+URL:https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-falk
+ ner/3-5-2027/?c=7ba390c4-1505-4418-9a3b-6d31b192f25c
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:66102f4824a22197d6474dd26c0cc4eb@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270305T173000
+SUMMARY:Girls Softball: Booneville at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/booneville-vs-corinth/3-5-
+ 2027/?c=7cdccdf2-bc85-4bd0-848e-fd10b700a167
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/softball/game/booneville-vs-corinth/3-5-2
+ 027/?c=7cdccdf2-bc85-4bd0-848e-fd10b700a167
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3dfdaafd0075b675543e62cb069f6a46@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270305T180000
+SUMMARY:Boys Baseball: Mantachie at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-man
+ tachie/3-5-2027/?c=5e8cca31-105e-49f0-b374-eb3b835a29b5
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-mant
+ achie/3-5-2027/?c=5e8cca31-105e-49f0-b374-eb3b835a29b5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dfd35bd73d95c50d4e93e1cf3490adad@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270305T190000
+SUMMARY:Boys Baseball: Falkner at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-fa
+ lkner/3-5-2027/?c=a37b1340-9a59-44b7-be1c-e04c12db5d3b
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-fal
+ kner/3-5-2027/?c=a37b1340-9a59-44b7-be1c-e04c12db5d3b
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:65bd77e999033a992ef2477a91133999@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270306T140000
+SUMMARY:Boys Baseball: Alcorn Central at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-big
+ gersville-corinth/3-6-2027/?c=578f8136-120b-4d6b-aac3-31a549edb01c
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-bigg
+ ersville-corinth/3-6-2027/?c=578f8136-120b-4d6b-aac3-31a549edb01c
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e2aef94f18468784922583c99b8e281b@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270308T170000
+SUMMARY:Girls Softball: Alcorn Central at Ripley
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-rip
+ ley/3-8-2027/?c=af03f39a-6d66-4a34-9f83-aa23b2debfca
+LOCATION:Ripley\, Ripley\, MS
+URL:https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-ripl
+ ey/3-8-2027/?c=af03f39a-6d66-4a34-9f83-aa23b2debfca
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5ada680ec5138f14400dc5c5426c2e70@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270308T183000
+SUMMARY:Girls Softball: Alcorn Central at Ripley
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-rip
+ ley/3-8-2027/?c=673c265e-eff3-47eb-a274-63ba7d8eb1f8
+LOCATION:Ripley\, Ripley\, MS
+URL:https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-ripl
+ ey/3-8-2027/?c=673c265e-eff3-47eb-a274-63ba7d8eb1f8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:93cdcbff8e2df78b5ed513f642877967@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270311T130000
+SUMMARY:Boys Baseball: Mooreville at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-mo
+ oreville/3-11-2027/?c=a90d8c09-f310-49e2-85aa-b2b9894cef3c
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-moo
+ reville/3-11-2027/?c=a90d8c09-f310-49e2-85aa-b2b9894cef3c
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:61049bfb6fa60cb8ee33262daa412c68@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270312T120000
+SUMMARY:Boys Baseball: Biggersville at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-big
+ gersville-corinth/3-12-2027/?c=0c853cd8-81bf-40d5-9e46-bae436e98bb4
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-bigg
+ ersville-corinth/3-12-2027/?c=0c853cd8-81bf-40d5-9e46-bae436e98bb4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:34aa316a85ce73b5ae5d6464e63c7f62@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270316T170000
+SUMMARY:Boys Baseball: Jumpertown at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-ju
+ mpertown-booneville/3-16-2027/?c=42f30a85-bf50-45f4-ab97-c4e38c472d0e
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-jum
+ pertown-booneville/3-16-2027/?c=42f30a85-bf50-45f4-ab97-c4e38c472d0e
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6b0b4a65de4a2d56d7d53d3d743e4820@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270316T180000
+SUMMARY:Boys Baseball: Belmont at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-bel
+ mont/3-16-2027/?c=cf1f4e35-2469-496a-b4bb-3c747f7e8ddd
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-belm
+ ont/3-16-2027/?c=cf1f4e35-2469-496a-b4bb-3c747f7e8ddd
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:68579cab407aee3fcfc4e97aced1fa29@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270316T183000
+SUMMARY:Girls Softball: Corinth at North Pontotoc
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-north-pontotoc-
+ ecru/3-16-2027/?c=4b1072e2-880d-4d77-96f7-49f13216b173
+LOCATION:North Pontotoc\, Ecru\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-north-pontotoc-e
+ cru/3-16-2027/?c=4b1072e2-880d-4d77-96f7-49f13216b173
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b97fcc62c6023af1e70d92ada6da8318@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270316T190000
+SUMMARY:Boys Baseball: Jumpertown at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-ju
+ mpertown-booneville/3-16-2027/?c=ec6ac4c5-28a8-4db8-b622-8bc82ab3d974
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-jum
+ pertown-booneville/3-16-2027/?c=ec6ac4c5-28a8-4db8-b622-8bc82ab3d974
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb275c6f4630c14163f89306bdfa0b9@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270318T173000
+SUMMARY:Girls Softball: Biggersville at Falkner
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/biggersville-corinth-vs-fa
+ lkner/3-18-2027/?c=bc96be49-7d83-45cd-8f43-3f97638ced1e
+LOCATION:Falkner\, Falkner\, MS
+URL:https://www.maxpreps.com/ms/softball/game/biggersville-corinth-vs-fal
+ kner/3-18-2027/?c=bc96be49-7d83-45cd-8f43-3f97638ced1e
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dc1d25ed4f74b6582f322ddda10dc470@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270318T173000
+SUMMARY:Girls Softball: North Pontotoc at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-north-pontotoc-
+ ecru/3-18-2027/?c=7887bf05-b5fa-4172-a6de-518fe267258e
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-north-pontotoc-e
+ cru/3-18-2027/?c=7887bf05-b5fa-4172-a6de-518fe267258e
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7f565cf66f9381fa118a7c92c1bed2ed@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270318T183000
+SUMMARY:Girls Softball: Kossuth at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-kos
+ suth/3-18-2027/?c=ac7a130e-1f72-48db-9dab-6c4359edb496
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-koss
+ uth/3-18-2027/?c=ac7a130e-1f72-48db-9dab-6c4359edb496
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7dbbd97a7523c683860e5f14bd4e52fd@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270319T173000
+SUMMARY:Girls Softball: Mooreville at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-mooreville/3-19
+ -2027/?c=29dc0438-18b2-4b81-b678-21c165acbde2
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-mooreville/3-19-
+ 2027/?c=29dc0438-18b2-4b81-b678-21c165acbde2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fb0e32f0a7e3dcbb3bef6891d0dece2b@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270320T110000
+SUMMARY:Boys Baseball: Walnut at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-wal
+ nut/3-20-2027/?c=d77f9dca-7fa2-4f3c-8863-dc9efd66e9f1
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-waln
+ ut/3-20-2027/?c=d77f9dca-7fa2-4f3c-8863-dc9efd66e9f1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:967ffc11517c5bad0391529654199587@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270320T160000
+SUMMARY:Boys Baseball: East Union at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-eas
+ t-union-blue-springs/3-20-2027/?c=f3bfdac9-837e-45cc-b420-6f1ea0cd8881
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-east
+ -union-blue-springs/3-20-2027/?c=f3bfdac9-837e-45cc-b420-6f1ea0cd8881
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c6b182a2b8141a956939eb0b2a6aaf38@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270322T183000
+SUMMARY:Girls Softball: Corinth at Pine Grove
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-pine-grove-ripl
+ ey/3-22-2027/?c=987cdfa5-9812-48f4-a09e-26fad09d0846
+LOCATION:Pine Grove\, Ripley\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-pine-grove-riple
+ y/3-22-2027/?c=987cdfa5-9812-48f4-a09e-26fad09d0846
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a757e9187ca02f246da4e9372701063c@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270322T190000
+SUMMARY:Boys Baseball: Wheeler at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-wh
+ eeler/3-22-2027/?c=43676191-9cfe-447a-90a1-0d6c16728c88
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-whe
+ eler/3-22-2027/?c=43676191-9cfe-447a-90a1-0d6c16728c88
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1d00b2ec27c10dc1fef2a9ca375937d9@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270323T170000
+SUMMARY:Boys Baseball: Biggersville at Wheeler
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-wh
+ eeler/3-23-2027/?c=f3d6cd08-6ed0-48bc-8981-da4fac96d45d
+LOCATION:Wheeler\, Wheeler\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-whe
+ eler/3-23-2027/?c=f3d6cd08-6ed0-48bc-8981-da4fac96d45d
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:50c9b366ea6aa271feb3a0efc430564e@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270323T183000
+SUMMARY:Girls Softball: Booneville at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-boo
+ neville/3-23-2027/?c=73ccc0ab-a496-4384-b718-70a884874129
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-boon
+ eville/3-23-2027/?c=73ccc0ab-a496-4384-b718-70a884874129
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d02bfd7667a688f32fdb87eebfb0c7d9@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270323T190000
+SUMMARY:Boys Baseball: Kossuth at Mantachie
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/kossuth-vs-mantachie/3-23-
+ 2027/?c=939580a0-0204-4c52-a9e9-22835cb8bdac
+LOCATION:Mantachie\, Mantachie\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/kossuth-vs-mantachie/3-23-2
+ 027/?c=939580a0-0204-4c52-a9e9-22835cb8bdac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:18cad119eddcbcdb8b2dcbb371bb27f9@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270325T180000
+SUMMARY:Boys Baseball: Mooreville at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-moo
+ reville/3-25-2027/?c=2c3d3e87-f83d-4a32-8d5f-1150bdfc3be9
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-moor
+ eville/3-25-2027/?c=2c3d3e87-f83d-4a32-8d5f-1150bdfc3be9
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f00ab733b6e566ac66a5d1a9276c0187@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270325T183000
+SUMMARY:Girls Softball: Alcorn Central at Itawamba Agricultural
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-ita
+ wamba-agricultural-fulton/3-25-2027/?c=f3531bd7-b635-4539-8a5d-8a44db330
+ e0a
+LOCATION:Itawamba Agricultural\, Fulton\, MS
+URL:https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-itaw
+ amba-agricultural-fulton/3-25-2027/?c=f3531bd7-b635-4539-8a5d-8a44db330e
+ 0a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4e8947193fd77fcea201063ebb99d610@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270325T183000
+SUMMARY:Girls Softball: Corinth at Baldwyn
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/baldwyn-vs-corinth/3-25-20
+ 27/?c=d68cb7ea-543d-45d0-89c1-24fb6308ac2e
+LOCATION:Baldwyn\, Baldwyn\, MS
+URL:https://www.maxpreps.com/ms/softball/game/baldwyn-vs-corinth/3-25-202
+ 7/?c=d68cb7ea-543d-45d0-89c1-24fb6308ac2e
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9fbbc64b8028d4649d028b5b8dc662de@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270327T130000
+SUMMARY:Boys Baseball: Tishomingo County at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-ti
+ shomingo-county-iuka/3-27-2027/?c=3fa4d13c-7e89-4aa4-a3da-4544a0720e29
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-tis
+ homingo-county-iuka/3-27-2027/?c=3fa4d13c-7e89-4aa4-a3da-4544a0720e29
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6464b47192dcfb2df784be8aa6a248ae@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270327T160000
+SUMMARY:Boys Baseball: Corinth at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-cor
+ inth/3-27-2027/?c=d37ac10e-7206-44d1-ac89-b74e1c355a65
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-cori
+ nth/3-27-2027/?c=d37ac10e-7206-44d1-ac89-b74e1c355a65
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:37c30e51f336c7d62d3b3a20bde241d6@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270329T183000
+SUMMARY:Girls Softball: New Albany at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-new
+ -albany/3-29-2027/?c=7ea20f35-dead-41f9-b223-c73f2ad2361a
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-new-
+ albany/3-29-2027/?c=7ea20f35-dead-41f9-b223-c73f2ad2361a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:682809dc7009efdc41ea80062c18c79d@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270330T170000
+SUMMARY:Girls Softball: Mantachie at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-man
+ tachie/3-30-2027/?c=d5cb469f-ebe8-455d-9822-68a522626c8d
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-mant
+ achie/3-30-2027/?c=d5cb469f-ebe8-455d-9822-68a522626c8d
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ceecb97f29ebf274e11a1d974c0edaf2@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270330T180000
+SUMMARY:Boys Baseball: Booneville at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-boo
+ neville/3-30-2027/?c=99075588-6258-490d-80ee-af0a09d2a282
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-boon
+ eville/3-30-2027/?c=99075588-6258-490d-80ee-af0a09d2a282
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:25eba3457e013483143a765b1bf69c26@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270330T183000
+SUMMARY:Girls Softball: Corinth at New Albany
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-new-albany/3-30
+ -2027/?c=f136ee45-effc-4a94-97b8-d3674d9cb196
+LOCATION:New Albany\, New Albany\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-new-albany/3-30-
+ 2027/?c=f136ee45-effc-4a94-97b8-d3674d9cb196
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:88384b8a9f81b2a5ab6a817a8bac5565@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270330T183000
+SUMMARY:Girls Softball: Mantachie at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-man
+ tachie/3-30-2027/?c=df460a95-0b34-41ae-80a9-41a44d4ad41a
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-mant
+ achie/3-30-2027/?c=df460a95-0b34-41ae-80a9-41a44d4ad41a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d8abb1f677726535d1afbf7e3be17d2f@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270330T190000
+SUMMARY:Boys Baseball: Thrasher at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-th
+ rasher-booneville/3-30-2027/?c=783049b7-d102-4313-b87c-b8f594e44683
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-thr
+ asher-booneville/3-30-2027/?c=783049b7-d102-4313-b87c-b8f594e44683
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:105554a90348e421a05bfa0888ca0d65@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270401T173000
+SUMMARY:Girls Softball: New Albany at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-new-albany/4-1-
+ 2027/?c=df5e0129-2faa-4a8c-9d56-8439a70cf55d
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-new-albany/4-1-2
+ 027/?c=df5e0129-2faa-4a8c-9d56-8439a70cf55d
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a915478b76e7bf420b745b339de618b5@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270402T173000
+SUMMARY:Girls Softball: Corinth at Walnut
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-walnut/4-2-2027
+ /?c=d229271e-5ac7-42a6-903e-04a1449e83e5
+LOCATION:Walnut\, Walnut\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-walnut/4-2-2027/
+ ?c=d229271e-5ac7-42a6-903e-04a1449e83e5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0e7a83ba8ad1ccab6f5280be4d101dd7@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270402T183000
+SUMMARY:Girls Softball: Wheeler at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-whe
+ eler/4-2-2027/?c=6449286e-e400-4cad-8cec-5f01d5d7a83c
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-whee
+ ler/4-2-2027/?c=6449286e-e400-4cad-8cec-5f01d5d7a83c
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e276f1bc274c2df29c5dcd03e1743490@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270403T130000
+SUMMARY:Boys Baseball: Mantachie at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-ma
+ ntachie/4-3-2027/?c=89857738-5ee2-4564-8b60-9c75786a4154
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-man
+ tachie/4-3-2027/?c=89857738-5ee2-4564-8b60-9c75786a4154
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:de2a27ed177f6f499d72e6c70f58062a@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270406T173000
+SUMMARY:Girls Softball: Pine Grove at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-pine-grove-ripl
+ ey/4-6-2027/?c=9600c8b7-761d-463c-ae5f-b378c390fe54
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-pine-grove-riple
+ y/4-6-2027/?c=9600c8b7-761d-463c-ae5f-b378c390fe54
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1561457b5b635dc7422957990debfb67@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270406T180000
+SUMMARY:Boys Baseball: Kossuth at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-kos
+ suth/4-6-2027/?c=8bfed6b3-2b86-43f1-b156-c43459966af9
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-koss
+ uth/4-6-2027/?c=8bfed6b3-2b86-43f1-b156-c43459966af9
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a634ef023dfe3b7f4a56ecd5b3d57d1a@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270408T173000
+SUMMARY:Girls Softball: Tishomingo County at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-tishomingo-coun
+ ty-iuka/4-8-2027/?c=d35221c3-48b2-4d20-a700-a66187665dc4
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-tishomingo-count
+ y-iuka/4-8-2027/?c=d35221c3-48b2-4d20-a700-a66187665dc4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e6f9fd77fd4b6e5e3b3732c2fb7d6b96@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270408T183000
+SUMMARY:Girls Softball: Belmont at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-bel
+ mont/4-8-2027/?c=a20bc80e-0dbc-4983-abef-438c92228cb6
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/softball/game/alcorn-central-glen-vs-belm
+ ont/4-8-2027/?c=a20bc80e-0dbc-4983-abef-438c92228cb6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f1819419ec28f58cb9adb5da1222889b@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270409T173000
+SUMMARY:Girls Softball: Walnut at Corinth
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-walnut/4-9-2027
+ /?c=e3d2ad02-626c-4f72-a81b-f7ac11a7d520
+LOCATION:Corinth\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-walnut/4-9-2027/
+ ?c=e3d2ad02-626c-4f72-a81b-f7ac11a7d520
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:53c5425dc542f645e6c54726f992196c@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270409T190000
+SUMMARY:Boys Baseball: Pine Grove at Biggersville
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-pi
+ ne-grove-ripley/4-9-2027/?c=069a2e33-8cda-4b55-8842-eb64132564e4
+LOCATION:Biggersville\, Corinth\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/biggersville-corinth-vs-pin
+ e-grove-ripley/4-9-2027/?c=069a2e33-8cda-4b55-8842-eb64132564e4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:be27b717fa9da27e728f35bd46c33b3d@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270410T140000
+SUMMARY:Boys Baseball: DeSoto Central at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-des
+ oto-central-southaven/4-10-2027/?c=7fd82279-82a4-44bd-abda-d1ae42b932fa
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-deso
+ to-central-southaven/4-10-2027/?c=7fd82279-82a4-44bd-abda-d1ae42b932fa
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5525d3eb99f229393402d4a9b3eb40d8@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270412T170000
+SUMMARY:Girls Softball: Corinth at Tishomingo County
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/corinth-vs-tishomingo-coun
+ ty-iuka/4-12-2027/?c=ef021376-84e2-4d03-ba6f-e07f3d242e6e
+LOCATION:Tishomingo County\, Iuka\, MS
+URL:https://www.maxpreps.com/ms/softball/game/corinth-vs-tishomingo-count
+ y-iuka/4-12-2027/?c=ef021376-84e2-4d03-ba6f-e07f3d242e6e
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3722599a9aaecc95c67c1fe886855f2f@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270412T173000
+SUMMARY:Girls Softball: Biggersville at New Site
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/softball/game/biggersville-corinth-vs-ne
+ w-site/4-12-2027/?c=f4c327d0-2113-43c9-b071-4452b040934f
+LOCATION:New Site\, New Site\, MS
+URL:https://www.maxpreps.com/ms/softball/game/biggersville-corinth-vs-new
+ -site/4-12-2027/?c=f4c327d0-2113-43c9-b071-4452b040934f
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8823b137918b2660fda5a86eca13f259@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270412T180000
+SUMMARY:Boys Baseball: Baldwyn at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-bal
+ dwyn/4-12-2027/?c=cd5eb1bd-c0c6-401f-a79c-97ae48780c4c
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-bald
+ wyn/4-12-2027/?c=cd5eb1bd-c0c6-401f-a79c-97ae48780c4c
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7bd5f211d498f8f2bd0a76154ed933b2@alcornsportsms.com
+DTSTAMP:20260930T140734Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20270413T180000
+SUMMARY:Boys Baseball: Pine Grove at Alcorn Central
+DESCRIPTION:Varsity. All times Central.  Schedule subject to change. Sour
+ ce: https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-pin
+ e-grove-ripley/4-13-2027/?c=acee8d13-1847-4a7b-ad26-0f0af148cf43
+LOCATION:Alcorn Central\, Glen\, MS
+URL:https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-pine
+ -grove-ripley/4-13-2027/?c=acee8d13-1847-4a7b-ad26-0f0af148cf43
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

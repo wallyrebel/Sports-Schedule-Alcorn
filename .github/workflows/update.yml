@@ -1,0 +1,57 @@
+name: Update Alcorn varsity schedules
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - 'test/**'
+      - 'config.json'
+      - 'package.json'
+      - 'wordpress/**'
+      - '.github/workflows/update.yml'
+permissions:
+  contents: write
+concurrency:
+  group: alcorn-sports-calendar
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Test parser and calendar
+        run: npm test
+      - name: Validate WordPress importer
+        run: |
+          php -l wordpress/alcorn-sports-sync/alcorn-sports-sync.php
+          php test/wordpress-sync.php
+      - name: Fetch current schedules
+        id: scrape
+        continue-on-error: true
+        run: npm run update
+      - name: Build display files
+        run: npm run build
+      - name: Publish updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh Alcorn varsity schedules"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Refresh WordPress and verify freshness
+        run: node src/check-wordpress.mjs
+      - name: Report incomplete source checks
+        if: steps.scrape.outcome == 'failure'
+        run: |
+          echo "One or more sources failed. Previously collected games were retained; review the scrape log."
+          exit 1

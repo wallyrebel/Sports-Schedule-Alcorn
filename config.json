@@ -1,0 +1,12 @@
+{
+  "name": "Alcorn County Varsity Sports",
+  "timezone": "America/Chicago",
+  "publicUrl": "https://alcornsportsms.com/schedule/",
+  "feedBase": "https://raw.githubusercontent.com/wallyrebel/Sports-Schedule-Alcorn/main/docs",
+  "schools": [
+    { "name": "Corinth", "mascot": "Warriors", "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/", "milesplitId": "7669", "color": "#a91f32" },
+    { "name": "Kossuth", "mascot": "Aggies", "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/", "milesplitId": "8518", "color": "#872434" },
+    { "name": "Biggersville", "mascot": "Lions", "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/", "milesplitId": "8517", "color": "#6b2439" },
+    { "name": "Alcorn Central", "mascot": "Golden Bears", "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/", "milesplitId": "8516", "color": "#65409a" }
+  ]
+}

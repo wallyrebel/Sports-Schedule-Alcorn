@@ -1,0 +1,13 @@
+{
+  "name": "alcorn-sports-schedule",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Automatically updated Alcorn County varsity sports calendar",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "update": "node src/update.mjs",
+    "build": "node src/build.mjs"
+  }
+}
