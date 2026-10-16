@@ -1,7 +1,7 @@
 {
   "name": "Alcorn County Varsity Sports",
   "timezone": "America/Chicago",
-  "lastChecked": "2026-10-16T00:55:09.682Z",
+  "lastChecked": "2026-10-16T01:34:26.794Z",
   "lastCompleteUpdate": "2026-10-16T00:55:09.682Z",
   "schools": [
     {
@@ -11612,7 +11612,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/baseball/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 15
     },
     {
@@ -11625,7 +11625,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/golf/spring/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11638,7 +11638,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/tennis/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11651,7 +11651,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/golf/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11664,7 +11664,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/softball/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 24
     },
     {
@@ -11677,7 +11677,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/tennis/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11690,7 +11690,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/basketball/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 26
     },
     {
@@ -11703,7 +11703,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/winter/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11716,7 +11716,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/soccer/winter/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 22
     },
     {
@@ -11729,7 +11729,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/basketball/girls/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 25
     },
     {
@@ -11742,7 +11742,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/girls/winter/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11755,7 +11755,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/soccer/girls/winter/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 14
     },
     {
@@ -11768,7 +11768,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/cross-country/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11781,7 +11781,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/football/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 3
     },
     {
@@ -11794,7 +11794,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/golf/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11807,7 +11807,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/golf/girls/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11820,7 +11820,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/volleyball/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11833,7 +11833,7 @@
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/baseball/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 5
     },
     {
@@ -11846,7 +11846,7 @@
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/spring/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11859,7 +11859,7 @@
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/tennis/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11872,7 +11872,7 @@
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11885,7 +11885,7 @@
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/golf/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11898,7 +11898,7 @@
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/softball/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 13
     },
     {
@@ -11911,7 +11911,7 @@
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/tennis/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11924,7 +11924,7 @@
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/basketball/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 18
     },
     {
@@ -11937,7 +11937,7 @@
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/basketball/girls/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 23
     },
     {
@@ -11950,7 +11950,7 @@
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/winter/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11963,7 +11963,7 @@
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/cross-country/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -11976,7 +11976,7 @@
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/football/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 3
     },
     {
@@ -11989,7 +11989,7 @@
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/golf/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12002,7 +12002,7 @@
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/cross-country/girls/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12015,7 +12015,7 @@
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/golf/girls/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12028,7 +12028,7 @@
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/volleyball/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 1
     },
     {
@@ -12041,7 +12041,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/baseball/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 14
     },
     {
@@ -12054,7 +12054,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/tennis/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12067,7 +12067,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/weight-lifting/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12080,7 +12080,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/softball/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 14
     },
     {
@@ -12093,7 +12093,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/tennis/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12106,7 +12106,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/basketball/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 19
     },
     {
@@ -12119,7 +12119,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12132,7 +12132,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/basketball/girls/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 31
     },
     {
@@ -12145,7 +12145,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/cross-country/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12158,7 +12158,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/football/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 2
     },
     {
@@ -12171,7 +12171,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/golf/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12184,7 +12184,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/cross-country/girls/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12197,7 +12197,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/golf/girls/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12210,7 +12210,7 @@
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/volleyball/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12223,7 +12223,7 @@
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/baseball/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 18
     },
     {
@@ -12236,7 +12236,7 @@
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/tennis/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12249,7 +12249,7 @@
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/softball/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 17
     },
     {
@@ -12262,7 +12262,7 @@
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/tennis/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12275,7 +12275,7 @@
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/weight-lifting/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12288,7 +12288,7 @@
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/basketball/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 24
     },
     {
@@ -12301,7 +12301,7 @@
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12314,7 +12314,7 @@
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/soccer/winter/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12327,7 +12327,7 @@
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/basketball/girls/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 21
     },
     {
@@ -12340,7 +12340,7 @@
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/cross-country/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12353,7 +12353,7 @@
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/football/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 3
     },
     {
@@ -12366,7 +12366,7 @@
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/golf/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12379,7 +12379,7 @@
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/cross-country/girls/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12392,7 +12392,7 @@
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/golf/girls/schedule/",
       "note": "No schedule published on MaxPreps",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12405,7 +12405,7 @@
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/volleyball/schedule/",
       "note": "",
       "lastSuccess": "2026-10-16T00:55:09.682Z",
-      "error": null,
+      "error": "Source returned HTTP 403",
       "upcoming": 0
     },
     {
@@ -12418,7 +12418,7 @@
       "provider": "MileSplit",
       "key": "milesplit:7669:cc:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/7669/schedules?season=cc&year=2026",
-      "lastSuccess": "2026-10-16T00:55:09.682Z",
+      "lastSuccess": "2026-10-16T01:34:26.794Z",
       "error": null,
       "note": "",
       "upcoming": 1
@@ -12433,7 +12433,7 @@
       "provider": "MileSplit",
       "key": "milesplit:7669:indoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/7669/schedules?season=indoor&year=2026",
-      "lastSuccess": "2026-10-16T00:55:09.682Z",
+      "lastSuccess": "2026-10-16T01:34:26.794Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12448,7 +12448,7 @@
       "provider": "MileSplit",
       "key": "milesplit:7669:outdoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/7669/schedules?season=outdoor&year=2026",
-      "lastSuccess": "2026-10-16T00:55:09.682Z",
+      "lastSuccess": "2026-10-16T01:34:26.794Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12463,7 +12463,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8518:cc:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8518/schedules?season=cc&year=2026",
-      "lastSuccess": "2026-10-16T00:55:09.682Z",
+      "lastSuccess": "2026-10-16T01:34:26.794Z",
       "error": null,
       "note": "",
       "upcoming": 1
@@ -12478,7 +12478,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8518:indoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8518/schedules?season=indoor&year=2026",
-      "lastSuccess": "2026-10-16T00:55:09.682Z",
+      "lastSuccess": "2026-10-16T01:34:26.794Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12493,7 +12493,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8518:outdoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8518/schedules?season=outdoor&year=2026",
-      "lastSuccess": "2026-10-16T00:55:09.682Z",
+      "lastSuccess": "2026-10-16T01:34:26.794Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12508,7 +12508,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8517:cc:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8517/schedules?season=cc&year=2026",
-      "lastSuccess": "2026-10-16T00:55:09.682Z",
+      "lastSuccess": "2026-10-16T01:34:26.794Z",
       "error": null,
       "note": "",
       "upcoming": 2
@@ -12523,7 +12523,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8517:indoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8517/schedules?season=indoor&year=2026",
-      "lastSuccess": "2026-10-16T00:55:09.682Z",
+      "lastSuccess": "2026-10-16T01:34:26.794Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12538,7 +12538,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8517:outdoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8517/schedules?season=outdoor&year=2026",
-      "lastSuccess": "2026-10-16T00:55:09.682Z",
+      "lastSuccess": "2026-10-16T01:34:26.794Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12553,7 +12553,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8516:cc:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8516/schedules?season=cc&year=2026",
-      "lastSuccess": "2026-10-16T00:55:09.682Z",
+      "lastSuccess": "2026-10-16T01:34:26.794Z",
       "error": null,
       "note": "",
       "upcoming": 1
@@ -12568,7 +12568,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8516:indoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8516/schedules?season=indoor&year=2026",
-      "lastSuccess": "2026-10-16T00:55:09.682Z",
+      "lastSuccess": "2026-10-16T01:34:26.794Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12583,11 +12583,16 @@
       "provider": "MileSplit",
       "key": "milesplit:8516:outdoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8516/schedules?season=outdoor&year=2026",
-      "lastSuccess": "2026-10-16T00:55:09.682Z",
+      "lastSuccess": "2026-10-16T01:34:26.794Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
     }
   ],
-  "issues": []
+  "issues": [
+    "Corinth: Source returned HTTP 403",
+    "Kossuth: Source returned HTTP 403",
+    "Biggersville: Source returned HTTP 403",
+    "Alcorn Central: Source returned HTTP 403"
+  ]
 }
