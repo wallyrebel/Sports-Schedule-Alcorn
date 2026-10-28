@@ -1,7 +1,7 @@
 {
   "name": "Alcorn County Varsity Sports",
   "timezone": "America/Chicago",
-  "lastChecked": "2026-10-28T17:20:51.707Z",
+  "lastChecked": "2026-10-28T18:25:50.320Z",
   "lastCompleteUpdate": "2026-10-21T13:28:30.012Z",
   "schools": [
     {
@@ -8542,6 +8542,39 @@
       "sequence": 0
     },
     {
+      "id": "Boys:Baseball:fd6d6958-55f8-4e9a-bd0d-4e875f979366",
+      "contestId": "fd6d6958-55f8-4e9a-bd0d-4e875f979366",
+      "updated": "2026-10-28T10:41:15",
+      "date": "2027-02-19",
+      "time": "19:00",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "bd637b55-96a9-4c46-9f90-a1b9601f1e5d",
+          "name": "Tishomingo County",
+          "mascot": "Braves"
+        },
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        }
+      ],
+      "title": "Tishomingo County at Kossuth",
+      "location": "Kossuth, Kossuth, MS",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/baseball/game/kossuth-vs-tishomingo-county-iuka/2-19-2027/?c=fd6d6958-55f8-4e9a-bd0d-4e875f979366",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "sequence": 0
+    },
+    {
       "id": "Boys:Baseball:7b08ec7e-1ba3-4d4c-a399-784872fdbac6",
       "contestId": "7b08ec7e-1ba3-4d4c-a399-784872fdbac6",
       "updated": "2026-10-09T10:16:55",
@@ -8571,6 +8604,39 @@
       ],
       "schools": [
         "Corinth"
+      ],
+      "sequence": 0
+    },
+    {
+      "id": "Boys:Baseball:dc5d2fc7-e95c-4ef9-b5e2-0d1bdfc1d091",
+      "contestId": "dc5d2fc7-e95c-4ef9-b5e2-0d1bdfc1d091",
+      "updated": "2026-10-28T10:41:39",
+      "date": "2027-02-20",
+      "time": "14:00",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        },
+        {
+          "id": "58737735-dec5-4d2f-8c60-02797c90d4eb",
+          "name": "Walnut",
+          "mascot": "Wildcats"
+        }
+      ],
+      "title": "Kossuth at Walnut",
+      "location": "Walnut, Walnut, MS",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/baseball/game/kossuth-vs-walnut/2-20-2027/?c=dc5d2fc7-e95c-4ef9-b5e2-0d1bdfc1d091",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
       ],
       "sequence": 0
     },
@@ -8845,6 +8911,39 @@
       "sequence": 0
     },
     {
+      "id": "Boys:Baseball:6167bc56-6359-469b-b70f-5055d8e3d7e5",
+      "contestId": "6167bc56-6359-469b-b70f-5055d8e3d7e5",
+      "updated": "2026-10-28T10:42:50",
+      "date": "2027-02-27",
+      "time": "13:00",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "c3a47683-dbc5-46db-b872-bfcc5deafb4e",
+          "name": "Mooreville",
+          "mascot": "Troopers"
+        },
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        }
+      ],
+      "title": "Mooreville at Kossuth",
+      "location": "Kossuth, Kossuth, MS",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/baseball/game/kossuth-vs-mooreville/2-27-2027/?c=6167bc56-6359-469b-b70f-5055d8e3d7e5",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "sequence": 0
+    },
+    {
       "id": "Boys:Baseball:1920ffdd-0ea0-4f99-bb28-be3a18b722bc",
       "contestId": "1920ffdd-0ea0-4f99-bb28-be3a18b722bc",
       "updated": "2026-10-09T11:18:30",
@@ -9076,6 +9175,72 @@
       "sequence": 0
     },
     {
+      "id": "Boys:Baseball:ac2854bf-5894-4f85-b894-2702a7f1524a",
+      "contestId": "ac2854bf-5894-4f85-b894-2702a7f1524a",
+      "updated": "2026-10-28T10:43:20",
+      "date": "2027-03-02",
+      "time": "19:00",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "1ee95b1a-ce4b-4a89-8d1c-f6478cda0cfa",
+          "name": "Belmont",
+          "mascot": "Cardinals"
+        },
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        }
+      ],
+      "title": "Belmont at Kossuth",
+      "location": "Kossuth, Kossuth, MS",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/baseball/game/belmont-vs-kossuth/3-2-2027/?c=ac2854bf-5894-4f85-b894-2702a7f1524a",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "sequence": 0
+    },
+    {
+      "id": "Boys:Baseball:b505049a-e178-4c15-ad8b-66eac5c4fb41",
+      "contestId": "b505049a-e178-4c15-ad8b-66eac5c4fb41",
+      "updated": "2026-10-28T10:44:17",
+      "date": "2027-03-04",
+      "time": "18:00",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        },
+        {
+          "id": "5587cdcd-824f-4ddd-a744-540eed15242a",
+          "name": "West Union",
+          "mascot": "Eagles"
+        }
+      ],
+      "title": "Kossuth at West Union",
+      "location": "West Union, Myrtle, MS",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/baseball/game/kossuth-vs-west-union-myrtle/3-4-2027/?c=b505049a-e178-4c15-ad8b-66eac5c4fb41",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "sequence": 0
+    },
+    {
       "id": "Girls:Softball:b5ae9d95-5811-4143-b33f-d00056a945d8",
       "contestId": "b5ae9d95-5811-4143-b33f-d00056a945d8",
       "updated": "2026-07-16T18:19:12",
@@ -9237,6 +9402,39 @@
       ],
       "schools": [
         "Biggersville"
+      ],
+      "sequence": 0
+    },
+    {
+      "id": "Boys:Baseball:71c8b520-1193-4432-9d0f-19f2c7995dba",
+      "contestId": "71c8b520-1193-4432-9d0f-19f2c7995dba",
+      "updated": "2026-10-28T10:44:49",
+      "date": "2027-03-05",
+      "time": "19:00",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        },
+        {
+          "id": "1ee95b1a-ce4b-4a89-8d1c-f6478cda0cfa",
+          "name": "Belmont",
+          "mascot": "Cardinals"
+        }
+      ],
+      "title": "Kossuth at Belmont",
+      "location": "Belmont, Belmont, MS",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/baseball/game/belmont-vs-kossuth/3-5-2027/?c=71c8b520-1193-4432-9d0f-19f2c7995dba",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
       ],
       "sequence": 0
     },
@@ -9410,6 +9608,72 @@
       "sequence": 0
     },
     {
+      "id": "Boys:Baseball:4f2a8c5d-f893-4e14-bd15-5033e86cdab5",
+      "contestId": "4f2a8c5d-f893-4e14-bd15-5033e86cdab5",
+      "updated": "2026-10-28T10:45:21",
+      "date": "2027-03-09",
+      "time": null,
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        },
+        {
+          "id": null,
+          "name": "Opponent TBD",
+          "mascot": ""
+        }
+      ],
+      "title": "Kossuth vs. Opponent TBD",
+      "location": "Neutral site — see source",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/baseball/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "sequence": 0
+    },
+    {
+      "id": "Boys:Baseball:1a06258f-6905-4efc-8789-1c948db3717e",
+      "contestId": "1a06258f-6905-4efc-8789-1c948db3717e",
+      "updated": "2026-10-28T10:45:55",
+      "date": "2027-03-10",
+      "time": null,
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": null,
+          "name": "Opponent TBD",
+          "mascot": ""
+        },
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        }
+      ],
+      "title": "Opponent TBD at Kossuth",
+      "location": "Kossuth, Kossuth, MS",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/baseball/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "sequence": 0
+    },
+    {
       "id": "Boys:Baseball:a90d8c09-f310-49e2-85aa-b2b9894cef3c",
       "contestId": "a90d8c09-f310-49e2-85aa-b2b9894cef3c",
       "updated": "2026-09-16T11:24:16",
@@ -9439,6 +9703,39 @@
       ],
       "schools": [
         "Biggersville"
+      ],
+      "sequence": 0
+    },
+    {
+      "id": "Boys:Baseball:bf822d92-cfb9-48cc-b764-cdda48612d86",
+      "contestId": "bf822d92-cfb9-48cc-b764-cdda48612d86",
+      "updated": "2026-10-28T10:46:09",
+      "date": "2027-03-11",
+      "time": null,
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        },
+        {
+          "id": null,
+          "name": "Opponent TBD",
+          "mascot": ""
+        }
+      ],
+      "title": "Kossuth vs. Opponent TBD",
+      "location": "Neutral site — see source",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/baseball/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
       ],
       "sequence": 0
     },
@@ -9641,6 +9938,39 @@
       ],
       "schools": [
         "Corinth"
+      ],
+      "sequence": 0
+    },
+    {
+      "id": "Boys:Baseball:588ac656-8dfb-470d-8e72-f5061546bd07",
+      "contestId": "588ac656-8dfb-470d-8e72-f5061546bd07",
+      "updated": "2026-10-28T10:46:38",
+      "date": "2027-03-16",
+      "time": "19:00",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "368a8699-09cc-47e8-bb60-80a6bc43fdb4",
+          "name": "Booneville",
+          "mascot": "Blue Devils"
+        },
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        }
+      ],
+      "title": "Booneville at Kossuth",
+      "location": "Kossuth, Kossuth, MS",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/baseball/game/booneville-vs-kossuth/3-16-2027/?c=588ac656-8dfb-470d-8e72-f5061546bd07",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
       ],
       "sequence": 0
     },
@@ -10274,6 +10604,72 @@
       "sequence": 0
     },
     {
+      "id": "Boys:Baseball:c92510e9-2cae-4829-aac8-e8f0daf15905",
+      "contestId": "c92510e9-2cae-4829-aac8-e8f0daf15905",
+      "updated": "2026-10-28T10:47:13",
+      "date": "2027-03-25",
+      "time": "19:00",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "53ee3c41-468b-4497-88ba-e274a7e6c957",
+          "name": "Mantachie",
+          "mascot": "Mustangs"
+        },
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        }
+      ],
+      "title": "Mantachie at Kossuth",
+      "location": "Kossuth, Kossuth, MS",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/baseball/game/kossuth-vs-mantachie/3-25-2027/?c=c92510e9-2cae-4829-aac8-e8f0daf15905",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "sequence": 0
+    },
+    {
+      "id": "Boys:Baseball:6bba96d3-cd50-43c9-90c0-bf2380e0e64b",
+      "contestId": "6bba96d3-cd50-43c9-90c0-bf2380e0e64b",
+      "updated": "2026-10-28T10:47:41",
+      "date": "2027-03-26",
+      "time": "13:00",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        },
+        {
+          "id": "245f1463-3aed-41d1-89b7-9cdef961d52e",
+          "name": "Tupelo",
+          "mascot": "Golden Wave"
+        }
+      ],
+      "title": "Kossuth at Tupelo",
+      "location": "Tupelo, Tupelo, MS",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/baseball/game/kossuth-vs-tupelo/3-26-2027/?c=6bba96d3-cd50-43c9-90c0-bf2380e0e64b",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "sequence": 0
+    },
+    {
       "id": "Boys:Baseball:3fa4d13c-7e89-4aa4-a3da-4544a0720e29",
       "contestId": "3fa4d13c-7e89-4aa4-a3da-4544a0720e29",
       "updated": "2026-09-16T11:24:33",
@@ -10371,6 +10767,39 @@
       ],
       "schools": [
         "Alcorn Central"
+      ],
+      "sequence": 0
+    },
+    {
+      "id": "Boys:Baseball:4f437ae1-ec01-4310-97ed-d6d353416da6",
+      "contestId": "4f437ae1-ec01-4310-97ed-d6d353416da6",
+      "updated": "2026-10-28T10:48:18",
+      "date": "2027-03-29",
+      "time": null,
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        },
+        {
+          "id": null,
+          "name": "Opponent TBD",
+          "mascot": ""
+        }
+      ],
+      "title": "Kossuth vs. Opponent TBD",
+      "location": "Neutral site — see source",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/baseball/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
       ],
       "sequence": 0
     },
@@ -10639,6 +11068,39 @@
       "sequence": 0
     },
     {
+      "id": "Boys:Baseball:b7e72131-0789-4213-8519-b2e9b82d71f1",
+      "contestId": "b7e72131-0789-4213-8519-b2e9b82d71f1",
+      "updated": "2026-10-28T10:48:30",
+      "date": "2027-03-30",
+      "time": null,
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        },
+        {
+          "id": null,
+          "name": "Opponent TBD",
+          "mascot": ""
+        }
+      ],
+      "title": "Kossuth vs. Opponent TBD",
+      "location": "Neutral site — see source",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/baseball/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "sequence": 0
+    },
+    {
       "id": "Girls:Softball:df5e0129-2faa-4a8c-9d56-8439a70cf55d",
       "contestId": "df5e0129-2faa-4a8c-9d56-8439a70cf55d",
       "updated": "2026-07-16T18:21:58",
@@ -10668,6 +11130,39 @@
       ],
       "schools": [
         "Corinth"
+      ],
+      "sequence": 0
+    },
+    {
+      "id": "Boys:Baseball:cdf893f8-76fa-459f-93dc-e8e8e0ea519b",
+      "contestId": "cdf893f8-76fa-459f-93dc-e8e8e0ea519b",
+      "updated": "2026-10-28T10:48:52",
+      "date": "2027-04-01",
+      "time": "19:00",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "c627de47-f6c2-42c7-b02a-07b2e7a38234",
+          "name": "Lewisburg",
+          "mascot": "Patriots"
+        },
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        }
+      ],
+      "title": "Lewisburg at Kossuth",
+      "location": "Kossuth, Kossuth, MS",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/baseball/game/kossuth-vs-lewisburg-olive-branch/4-1-2027/?c=cdf893f8-76fa-459f-93dc-e8e8e0ea519b",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
       ],
       "sequence": 0
     },
@@ -10837,6 +11332,39 @@
       "sequence": 0
     },
     {
+      "id": "Boys:Baseball:0458c63c-2074-48b9-927b-07d19fe0af2e",
+      "contestId": "0458c63c-2074-48b9-927b-07d19fe0af2e",
+      "updated": "2026-10-28T10:49:12",
+      "date": "2027-04-03",
+      "time": "13:00",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "7c1d9c53-f907-42da-bd64-502a02b66609",
+          "name": "Ripley",
+          "mascot": "Tigers"
+        },
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        }
+      ],
+      "title": "Ripley at Kossuth",
+      "location": "Kossuth, Kossuth, MS",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/baseball/game/kossuth-vs-ripley/4-3-2027/?c=0458c63c-2074-48b9-927b-07d19fe0af2e",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "sequence": 0
+    },
+    {
       "id": "Boys:Baseball:952f379d-bed7-4165-8651-34e10375499c",
       "contestId": "952f379d-bed7-4165-8651-34e10375499c",
       "updated": "2026-10-09T11:18:41",
@@ -10866,6 +11394,39 @@
       ],
       "schools": [
         "Corinth"
+      ],
+      "sequence": 0
+    },
+    {
+      "id": "Boys:Baseball:c07d2ac1-3090-44ad-a15b-2c2b866d2e13",
+      "contestId": "c07d2ac1-3090-44ad-a15b-2c2b866d2e13",
+      "updated": "2026-10-28T10:49:32",
+      "date": "2027-04-03",
+      "time": "16:00",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "1e9377f4-ca10-48ba-a444-857d928ed0fb",
+          "name": "East Union",
+          "mascot": "Urchins"
+        },
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        }
+      ],
+      "title": "East Union at Kossuth",
+      "location": "Kossuth, Kossuth, MS",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/baseball/game/east-union-blue-springs-vs-kossuth/4-3-2027/?c=c07d2ac1-3090-44ad-a15b-2c2b866d2e13",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
       ],
       "sequence": 0
     },
@@ -11169,6 +11730,41 @@
       "sequence": 0
     },
     {
+      "id": "Boys:Baseball:298e6ed9-e40d-46a9-9d75-521ac81390f1",
+      "contestId": "298e6ed9-e40d-46a9-9d75-521ac81390f1",
+      "updated": "2026-10-28T10:49:59",
+      "date": "2027-04-09",
+      "time": "19:00",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89",
+          "name": "Alcorn Central",
+          "mascot": "Golden Bears"
+        },
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        }
+      ],
+      "title": "Alcorn Central at Kossuth",
+      "location": "Kossuth, Kossuth, MS",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/baseball/game/alcorn-central-glen-vs-kossuth/4-9-2027/?c=298e6ed9-e40d-46a9-9d75-521ac81390f1",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27",
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth",
+        "Alcorn Central"
+      ],
+      "sequence": 0
+    },
+    {
       "id": "Boys:Baseball:069a2e33-8cda-4b55-8842-eb64132564e4",
       "contestId": "069a2e33-8cda-4b55-8842-eb64132564e4",
       "updated": "2026-09-16T11:24:39",
@@ -11400,6 +11996,39 @@
       "sequence": 0
     },
     {
+      "id": "Boys:Baseball:f0acd823-0f61-44eb-9fd7-e3b69d00f385",
+      "contestId": "f0acd823-0f61-44eb-9fd7-e3b69d00f385",
+      "updated": "2026-10-28T10:50:23",
+      "date": "2027-04-12",
+      "time": "19:00",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        },
+        {
+          "id": "bd637b55-96a9-4c46-9f90-a1b9601f1e5d",
+          "name": "Tishomingo County",
+          "mascot": "Braves"
+        }
+      ],
+      "title": "Kossuth at Tishomingo County",
+      "location": "Tishomingo County, Iuka, MS",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/baseball/game/kossuth-vs-tishomingo-county-iuka/4-12-2027/?c=f0acd823-0f61-44eb-9fd7-e3b69d00f385",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "sequence": 0
+    },
+    {
       "id": "Girls:Softball:48c3df8b-7100-4e2c-ad37-bd9949c95d5b",
       "contestId": "48c3df8b-7100-4e2c-ad37-bd9949c95d5b",
       "updated": "2026-09-30T09:03:00",
@@ -11497,6 +12126,39 @@
         "Kossuth"
       ],
       "sequence": 0
+    },
+    {
+      "id": "Boys:Baseball:e0e29627-a610-41e8-9e71-9c3a3f1351aa",
+      "contestId": "e0e29627-a610-41e8-9e71-9c3a3f1351aa",
+      "updated": "2026-10-28T10:50:43",
+      "date": "2027-04-13",
+      "time": "19:00",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "level": "Varsity",
+      "participants": [
+        {
+          "id": "020429d7-96e3-4dde-84e2-e4cb4bece818",
+          "name": "Hickory Flat",
+          "mascot": "Rebels"
+        },
+        {
+          "id": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4",
+          "name": "Kossuth",
+          "mascot": "Aggies"
+        }
+      ],
+      "title": "Hickory Flat at Kossuth",
+      "location": "Kossuth, Kossuth, MS",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/baseball/game/hickory-flat-vs-kossuth/4-13-2027/?c=e0e29627-a610-41e8-9e71-9c3a3f1351aa",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "sequence": 0
     }
   ],
   "coverage": [
@@ -11509,7 +12171,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Baseball:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/baseball/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 15
     },
@@ -11522,7 +12184,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Golf:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/golf/spring/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11535,7 +12197,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Tennis:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/tennis/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11548,7 +12210,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Golf:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/golf/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11561,7 +12223,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Softball:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/softball/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 24
     },
@@ -11574,7 +12236,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Tennis:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/tennis/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11587,7 +12249,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Basketball:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/basketball/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 26
     },
@@ -11613,7 +12275,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Soccer:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/soccer/winter/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 22
     },
@@ -11626,7 +12288,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Basketball:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/basketball/girls/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 26
     },
@@ -11652,7 +12314,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Soccer:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/soccer/girls/winter/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 22
     },
@@ -11665,7 +12327,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Cross Country:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/cross-country/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11678,7 +12340,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Football:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/football/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 1
     },
@@ -11691,7 +12353,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Golf:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/golf/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11704,7 +12366,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Golf:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/golf/girls/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11717,7 +12379,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Volleyball:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/volleyball/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11730,9 +12392,9 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/baseball/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
-      "upcoming": 6
+      "upcoming": 27
     },
     {
       "school": "Kossuth",
@@ -11756,7 +12418,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Tennis:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/tennis/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11782,7 +12444,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Golf:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/golf/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11795,7 +12457,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Softball:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/softball/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 13
     },
@@ -11808,7 +12470,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Tennis:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/tennis/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11821,7 +12483,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Basketball:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/basketball/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 19
     },
@@ -11834,7 +12496,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Bowling:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/winter/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11847,7 +12509,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Basketball:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/basketball/girls/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 23
     },
@@ -11860,7 +12522,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Bowling:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/winter/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11873,7 +12535,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Cross Country:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/cross-country/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11886,7 +12548,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Football:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/football/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 1
     },
@@ -11899,7 +12561,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Golf:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/golf/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11912,7 +12574,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Cross Country:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/cross-country/girls/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11925,7 +12587,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Golf:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/golf/girls/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11938,7 +12600,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Volleyball:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/volleyball/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11951,7 +12613,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Baseball:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/baseball/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 15
     },
@@ -11964,7 +12626,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Tennis:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/tennis/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11977,7 +12639,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Weight Lifting:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/weight-lifting/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -11990,7 +12652,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Softball:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/softball/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 15
     },
@@ -12003,7 +12665,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Tennis:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/tennis/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12016,7 +12678,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Basketball:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/basketball/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 18
     },
@@ -12042,7 +12704,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Basketball:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/basketball/girls/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 31
     },
@@ -12068,7 +12730,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Cross Country:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/cross-country/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12081,7 +12743,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Football:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/football/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12094,7 +12756,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Golf:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/golf/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12107,7 +12769,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Cross Country:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/cross-country/girls/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12120,7 +12782,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Golf:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/golf/girls/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12133,7 +12795,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Volleyball:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/volleyball/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12146,9 +12808,9 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Baseball:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/baseball/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
-      "upcoming": 19
+      "upcoming": 20
     },
     {
       "school": "Alcorn Central",
@@ -12159,7 +12821,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Tennis:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/tennis/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12172,7 +12834,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Softball:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/softball/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 17
     },
@@ -12185,7 +12847,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Tennis:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/tennis/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12198,7 +12860,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Weight Lifting:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/weight-lifting/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12211,7 +12873,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Basketball:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/basketball/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 27
     },
@@ -12224,7 +12886,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Bowling:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12237,7 +12899,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Soccer:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/soccer/winter/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12250,7 +12912,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Basketball:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/basketball/girls/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 23
     },
@@ -12263,7 +12925,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Cross Country:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/cross-country/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12276,7 +12938,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Football:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/football/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 1
     },
@@ -12289,7 +12951,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Golf:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/golf/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12302,7 +12964,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Cross Country:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/cross-country/girls/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12315,7 +12977,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Golf:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/golf/girls/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12328,7 +12990,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Volleyball:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/volleyball/schedule/",
       "note": "",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "upcoming": 0
     },
@@ -12342,7 +13004,7 @@
       "provider": "MileSplit",
       "key": "milesplit:7669:cc:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/7669/schedules?season=cc&year=2026",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "note": "",
       "upcoming": 1
@@ -12357,7 +13019,7 @@
       "provider": "MileSplit",
       "key": "milesplit:7669:indoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/7669/schedules?season=indoor&year=2026",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12372,7 +13034,7 @@
       "provider": "MileSplit",
       "key": "milesplit:7669:outdoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/7669/schedules?season=outdoor&year=2026",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12387,7 +13049,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8518:cc:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8518/schedules?season=cc&year=2026",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "note": "",
       "upcoming": 1
@@ -12402,7 +13064,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8518:indoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8518/schedules?season=indoor&year=2026",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12417,7 +13079,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8518:outdoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8518/schedules?season=outdoor&year=2026",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12432,7 +13094,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8517:cc:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8517/schedules?season=cc&year=2026",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "note": "",
       "upcoming": 1
@@ -12447,7 +13109,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8517:indoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8517/schedules?season=indoor&year=2026",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12462,7 +13124,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8517:outdoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8517/schedules?season=outdoor&year=2026",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12477,7 +13139,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8516:cc:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8516/schedules?season=cc&year=2026",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "note": "",
       "upcoming": 1
@@ -12492,7 +13154,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8516:indoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8516/schedules?season=indoor&year=2026",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12507,7 +13169,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8516:outdoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8516/schedules?season=outdoor&year=2026",
-      "lastSuccess": "2026-10-28T17:20:51.707Z",
+      "lastSuccess": "2026-10-28T18:25:50.320Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
