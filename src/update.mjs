@@ -40,7 +40,7 @@ for (const school of config.schools) {
   for (const source of discovered) {
     console.log(`  ${source.gender} ${source.sport} (${source.year})`);
     try {
-      const parsed = parseSchedule(await get(source.url), source);
+      const parsed = parseSchedule(await get(source.url), source, config.schools);
       sources[source.key] = { ...source, ...parsed, lastSuccess: now.toISOString(), error: null };
       successful++;
     } catch (err) {

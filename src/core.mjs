@@ -1,4 +1,5 @@
 import { createHash } from 'node:crypto';
+import { bowlingSchedule } from './bowling.mjs';
 
 export function centralDate(now = new Date()) {
   return new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Chicago', year: 'numeric', month: '2-digit', day: '2-digit' }).format(now);
@@ -60,13 +61,14 @@ export function parseContest(c, source) {
   };
 }
 
-export function parseSchedule(html, source) {
+export function parseSchedule(html, source, schools = []) {
   const data = nextData(html);
   if (!data) {
     // MaxPreps still serves older HTML for some individual sports. Only accept
     // its explicit empty state; unknown layouts must not erase stored games.
     const visible = html.replace(/<script\b[\s\S]*?<\/script>/gi, '').replace(/<[^>]+>/g, ' ');
     if (/No Schedule Available/i.test(visible)) return { events: [], note: 'No schedule published on MaxPreps' };
+    if (source.sport === 'Bowling') return bowlingSchedule(html, source, schools);
     throw new Error('Schedule format unavailable; previous events retained');
   }
   const context = data.teamContext?.data;
@@ -89,7 +91,7 @@ export function deduplicate(events, schoolNames = []) {
   // Include time to preserve genuine doubleheaders and gender to preserve both teams.
   const matchups = new Map();
   for (const event of map.values()) {
-    const key = [event.gender, event.sport, event.date, event.time, ...event.participants.map(p => p.id || p.name).sort()].join('|');
+    const key = [event.gender, event.sport, event.date, event.time, event.matchupHint || '', ...event.participants.map(p => p.id || p.name).sort()].join('|');
     const old = matchups.get(key);
     if (!old) matchups.set(key, event);
     else matchups.set(key, { ...event, id: [old.id, event.id].sort()[0], schools: [...new Set([...old.schools, ...event.schools])], sourceKeys: [...new Set([...old.sourceKeys, ...event.sourceKeys])] });

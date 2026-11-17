@@ -4,10 +4,15 @@
   "private": true,
   "type": "module",
   "description": "Automatically updated Alcorn County varsity sports calendar",
-  "engines": { "node": ">=22" },
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "test": "node --test test/*.test.mjs",
     "update": "node src/update.mjs",
     "build": "node src/build.mjs"
+  },
+  "dependencies": {
+    "node-html-parser": "9.0.7"
   }
 }

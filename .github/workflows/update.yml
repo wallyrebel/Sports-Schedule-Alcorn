@@ -10,6 +10,7 @@ on:
       - 'test/**'
       - 'config.json'
       - 'package.json'
+      - 'package-lock.json'
       - 'wordpress/**'
       - '.github/workflows/update.yml'
 permissions:
@@ -26,7 +27,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Test parser and calendar
+      - name: Install locked parser dependencies
+        run: npm ci --ignore-scripts
+      - name: Run schedule tests
         run: npm test
       - name: Validate WordPress importer
         run: |
