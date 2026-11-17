@@ -1,8 +1,8 @@
 {
   "name": "Alcorn County Varsity Sports",
   "timezone": "America/Chicago",
-  "lastChecked": "2026-11-17T18:22:50.055Z",
-  "lastCompleteUpdate": "2026-10-21T13:28:30.012Z",
+  "lastChecked": "2026-11-17T19:06:26.188Z",
+  "lastCompleteUpdate": "2026-11-17T19:06:26.188Z",
   "schools": [
     {
       "name": "Corinth",
@@ -165,6 +165,228 @@
         "Kossuth"
       ],
       "sequence": 1
+    },
+    {
+      "id": "bowling-d9bcaa803634017b3be7dda9",
+      "contestId": "e589a986-7682-4254-ab54-7ecd1f6c0b78",
+      "date": "2026-11-04",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Biggersville vs. Corinth",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville",
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-49268fddfbd6a92c1af6ed94",
+      "contestId": "a107e727-03c2-44ea-a05c-f3860fc690ad",
+      "date": "2026-11-04",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Biggersville vs. Corinth",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville",
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-b80d2b3fb24eb2dad33eb1fe",
+      "contestId": "bowling-b80d2b3fb24eb2dad33eb1fe",
+      "date": "2026-11-04",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Kossuth vs. Biggersville vs. Corinth",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/spring/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Bowling:Winter:26-27",
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Corinth",
+        "Biggersville",
+        "Kossuth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-f90f9c9ccd53cc83f99c342c",
+      "contestId": "bowling-f90f9c9ccd53cc83f99c342c",
+      "date": "2026-11-04",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Kossuth vs. Biggersville vs. Corinth",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/spring/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Bowling:Winter:26-27",
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Corinth",
+        "Biggersville",
+        "Kossuth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-cc77361892813b85ae1d0d68",
+      "contestId": "bowling-cc77361892813b85ae1d0d68",
+      "date": "2026-11-05",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. Mantachie",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "mantachie",
+          "name": "Mantachie",
+          "mascot": ""
+        }
+      ],
+      "location": "Alcorn Central High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-84844504b73511888b2399f1",
+      "contestId": "17e1817d-3ed4-417f-bf04-970c562a0c07",
+      "date": "2026-11-05",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. Mantachie",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "mantachie",
+          "name": "Mantachie",
+          "mascot": ""
+        }
+      ],
+      "location": "Alcorn Central High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
     },
     {
       "id": "Boys:Football:4d5f6a8d-f99c-47af-888f-1b244995275d",
@@ -464,6 +686,106 @@
       "sequence": 1
     },
     {
+      "id": "bowling-84d28e3974e450a9163c276d",
+      "contestId": "8e9099f1-66ee-4064-9325-712d1202401c",
+      "date": "2026-11-09",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. Biggersville",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        }
+      ],
+      "location": "Alcorn Central High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27",
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville",
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-c86cb46ba5a7f5835d6c82cd",
+      "contestId": "d067f83d-9f00-49a7-b940-7968dd3e9100",
+      "date": "2026-11-09",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. Biggersville",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Alcorn Central High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central",
+        "Biggersville"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-0fbcbe4cdeffe60d3b2ec3c1",
+      "contestId": "bowling-0fbcbe4cdeffe60d3b2ec3c1",
+      "date": "2026-11-09",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Biggersville bowling meet (opponent unconfirmed)",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "alcorn central golden bears|3:30p",
+      "sequence": 0
+    },
+    {
       "id": "Girls:Basketball:25946a75-8034-4987-9a2f-a1e0ee76a684",
       "contestId": "25946a75-8034-4987-9a2f-a1e0ee76a684",
       "updated": "2026-08-13T10:48:31",
@@ -728,6 +1050,146 @@
       "sequence": 0
     },
     {
+      "id": "bowling-6192886b7fb4dabaa62d393e",
+      "contestId": "bowling-6192886b7fb4dabaa62d393e",
+      "date": "2026-11-10",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Alcorn Central at Tishomingo County",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "tishomingo county",
+          "name": "Tishomingo County",
+          "mascot": ""
+        }
+      ],
+      "location": "Tishomingo County (Iuka, MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-518b372af34cf9a697718821",
+      "contestId": "bowling-518b372af34cf9a697718821",
+      "date": "2026-11-10",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Alcorn Central at Tishomingo County",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "tishomingo county",
+          "name": "Tishomingo County",
+          "mascot": ""
+        }
+      ],
+      "location": "Tishomingo County (Iuka, MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-f81c8d308f172ba140cea20a",
+      "contestId": "0298c2ea-6b21-432d-a3c6-684f872d30d0",
+      "date": "2026-11-11",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Kossuth vs. Corinth",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/spring/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Bowling:Winter:26-27",
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Corinth",
+        "Kossuth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-fe06146da0bb3403bb15dab4",
+      "contestId": "5a2f80ba-07f6-4a2a-b308-29eb2dc42de0",
+      "date": "2026-11-11",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Kossuth vs. Corinth",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/spring/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Bowling:Winter:26-27",
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Corinth",
+        "Kossuth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
       "id": "Girls:Soccer:eabab456-941c-44b0-b516-31ed7782b35e",
       "contestId": "eabab456-941c-44b0-b516-31ed7782b35e",
       "updated": "2026-10-20T20:08:12",
@@ -890,6 +1352,155 @@
       "schools": [
         "Kossuth"
       ],
+      "sequence": 0
+    },
+    {
+      "id": "bowling-70e436c6f8f4974bf4c90a9c",
+      "contestId": "a3d8db6f-675a-46f7-9e25-e7f3b9d0078f",
+      "date": "2026-11-12",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Biggersville vs. Corinth",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville",
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-033dd5c2b643ef5311347114",
+      "contestId": "d412e1aa-b2d5-4641-85df-cca804ffe0e9",
+      "date": "2026-11-12",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Biggersville vs. East Union",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "east union",
+          "name": "East Union",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-e76e6ecbcd026b5571e0bd4b",
+      "contestId": "2b6a3fa9-1dc1-4060-bce0-e392cc50b615",
+      "date": "2026-11-12",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Corinth vs. Biggersville vs. East Union",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "east union",
+          "name": "East Union",
+          "mascot": ""
+        }
+      ],
+      "location": "Plaza Lanes",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth",
+        "Biggersville"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-57adedb3e594b0585fd9e18a",
+      "contestId": "2e5dc719-3d36-4a50-b34e-7faf41fb9c7e",
+      "date": "2026-11-12",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Corinth vs. Biggersville vs. East Union",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "east union",
+          "name": "East Union",
+          "mascot": ""
+        }
+      ],
+      "location": "Plaza Lanes",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth",
+        "Biggersville"
+      ],
+      "matchupHint": "|3:30p",
       "sequence": 0
     },
     {
@@ -1190,6 +1801,214 @@
       "sequence": 0
     },
     {
+      "id": "bowling-2da35471147973b486c84e16",
+      "contestId": "bowling-2da35471147973b486c84e16",
+      "date": "2026-11-16",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. Kossuth",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central",
+        "Kossuth"
+      ],
+      "matchupHint": "|tba",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-8fc738550c1edbde221a2b1c",
+      "contestId": "bowling-8fc738550c1edbde221a2b1c",
+      "date": "2026-11-16",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. Kossuth",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central",
+        "Kossuth"
+      ],
+      "matchupHint": "|tba",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-991a1a4fea510c7cb2b5a80e",
+      "contestId": "6969bcb1-1118-4618-97f2-6fc8634d56d7",
+      "date": "2026-11-16",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Corinth at Lafayette",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "lafayette",
+          "name": "Lafayette",
+          "mascot": ""
+        }
+      ],
+      "location": "Lafayette (Oxford, MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-b88316551a629c080c19a1d8",
+      "contestId": "02fe3f1a-ab58-48fc-b493-a7bca7e86bfc",
+      "date": "2026-11-16",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Corinth at Lafayette",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "lafayette",
+          "name": "Lafayette",
+          "mascot": ""
+        }
+      ],
+      "location": "Lafayette (Oxford, MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-a936ab647204a8364fca0400",
+      "contestId": "569da441-c2dd-4b47-8003-be5f300c1cfc",
+      "date": "2026-11-16",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Kossuth vs. Alcorn Central",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth",
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-c57736185e2a4d0b924dbfda",
+      "contestId": "334b81f5-081c-4734-8aac-190ed0499fcd",
+      "date": "2026-11-16",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Kossuth vs. Alcorn Central",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth",
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
       "id": "Girls:Basketball:91267cda-6ac0-46e2-976d-295c61c8b8ff",
       "contestId": "91267cda-6ac0-46e2-976d-295c61c8b8ff",
       "updated": "2026-08-05T07:44:35",
@@ -1322,6 +2141,211 @@
       "sequence": 0
     },
     {
+      "id": "bowling-a244fe888e287417ba4393cc",
+      "contestId": "bowling-a244fe888e287417ba4393cc",
+      "date": "2026-11-17",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Kossuth vs. Tishomingo County",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "tishomingo county",
+          "name": "Tishomingo County",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-724a1a792108f2e740d9db37",
+      "contestId": "bowling-724a1a792108f2e740d9db37",
+      "date": "2026-11-17",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Kossuth vs. Tishomingo County",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "tishomingo county",
+          "name": "Tishomingo County",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-b91f6f0e92f008b1adb49f8b",
+      "contestId": "bowling-b91f6f0e92f008b1adb49f8b",
+      "date": "2026-11-18",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Biggersville vs. Corinth",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville",
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-2746a45189e73348df153dd1",
+      "contestId": "bowling-2746a45189e73348df153dd1",
+      "date": "2026-11-18",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Biggersville vs. Mantachie",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "mantachie",
+          "name": "Mantachie",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-c913192f40349ea88901f0eb",
+      "contestId": "bowling-c913192f40349ea88901f0eb",
+      "date": "2026-11-18",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Corinth vs. Tishomingo County",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "tishomingo county",
+          "name": "Tishomingo County",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-ec3aea5dd23ef50e03f1e653",
+      "contestId": "bowling-ec3aea5dd23ef50e03f1e653",
+      "date": "2026-11-18",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Corinth vs. Tishomingo County",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "tishomingo county",
+          "name": "Tishomingo County",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
       "id": "Girls:Soccer:9ef30e03-7173-480a-add2-194e97378630",
       "contestId": "9ef30e03-7173-480a-add2-194e97378630",
       "updated": "2026-11-10T20:44:24",
@@ -1385,6 +2409,74 @@
       "schools": [
         "Corinth"
       ],
+      "sequence": 0
+    },
+    {
+      "id": "bowling-4769580e5dd3145bb585741a",
+      "contestId": "bowling-4769580e5dd3145bb585741a",
+      "date": "2026-11-19",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. Itawamba Agricultural",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "itawamba agricultural",
+          "name": "Itawamba Agricultural",
+          "mascot": ""
+        }
+      ],
+      "location": "Alcorn Central High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-1e1a46e4dd0dc54d454d600a",
+      "contestId": "bowling-1e1a46e4dd0dc54d454d600a",
+      "date": "2026-11-19",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. Itawamba Agricultural",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "itawamba agricultural",
+          "name": "Itawamba Agricultural",
+          "mascot": ""
+        }
+      ],
+      "location": "Alcorn Central High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
       "sequence": 0
     },
     {
@@ -2279,6 +3371,223 @@
       "sequence": 0
     },
     {
+      "id": "bowling-19fb81383aa921b7b735c715",
+      "contestId": "bowling-19fb81383aa921b7b735c715",
+      "date": "2026-12-01",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Corinth vs. Tupelo",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "tupelo",
+          "name": "Tupelo",
+          "mascot": ""
+        }
+      ],
+      "location": "Corinth High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-23ff1aaa3747d64554ba028a",
+      "contestId": "bowling-23ff1aaa3747d64554ba028a",
+      "date": "2026-12-01",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Corinth vs. Tupelo",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "tupelo",
+          "name": "Tupelo",
+          "mascot": ""
+        }
+      ],
+      "location": "Corinth High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-7442b656906ec850fa5e29ad",
+      "contestId": "bowling-7442b656906ec850fa5e29ad",
+      "date": "2026-12-01",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Kossuth vs. Corinth vs. Tupelo",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "tupelo",
+          "name": "Tupelo",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth",
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-d3fe7381311478c8c5580b38",
+      "contestId": "bowling-d3fe7381311478c8c5580b38",
+      "date": "2026-12-01",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Kossuth vs. Corinth vs. Tupelo",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "tupelo",
+          "name": "Tupelo",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth",
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-0788359e4c550ed1a9bfee32",
+      "contestId": "bowling-0788359e4c550ed1a9bfee32",
+      "date": "2026-12-02",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Biggersville vs. Corinth",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville",
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-582908ca74a26cbf987b0df9",
+      "contestId": "bowling-582908ca74a26cbf987b0df9",
+      "date": "2026-12-02",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Biggersville vs. Itawamba Agricultural",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "itawamba agricultural",
+          "name": "Itawamba Agricultural",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
       "id": "Girls:Soccer:c670999f-5241-477f-b8dd-7074c6f88c68",
       "contestId": "c670999f-5241-477f-b8dd-7074c6f88c68",
       "updated": "2026-07-06T08:31:58",
@@ -2342,6 +3651,212 @@
       "schools": [
         "Corinth"
       ],
+      "sequence": 0
+    },
+    {
+      "id": "bowling-676c43b6767c0b7ec30b860a",
+      "contestId": "bowling-676c43b6767c0b7ec30b860a",
+      "date": "2026-12-03",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Alcorn Central at TCHS and Kossuth",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "tchs and kossuth|tba",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-8760df6c7b9ffb7bb485a1a0",
+      "contestId": "bowling-8760df6c7b9ffb7bb485a1a0",
+      "date": "2026-12-03",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Alcorn Central at TCHS and Kossuth",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "tchs and kossuth|tba",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-4e952fd8872270cd471098c4",
+      "contestId": "bowling-4e952fd8872270cd471098c4",
+      "date": "2026-12-03",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Corinth at East Union",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "east union",
+          "name": "East Union",
+          "mascot": ""
+        }
+      ],
+      "location": "East Union (Blue Springs, MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-1a42ba62685d1d2f5344e58c",
+      "contestId": "bowling-1a42ba62685d1d2f5344e58c",
+      "date": "2026-12-03",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Corinth at East Union",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "east union",
+          "name": "East Union",
+          "mascot": ""
+        }
+      ],
+      "location": "East Union (Blue Springs, MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-0091d2a53bdd614d1eaa90b7",
+      "contestId": "bowling-0091d2a53bdd614d1eaa90b7",
+      "date": "2026-12-03",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Kossuth vs. Alcorn Central vs. Tish. County",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "tish. county",
+          "name": "Tish. County",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth",
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-d3c2ad4e1386372d083c7998",
+      "contestId": "bowling-d3c2ad4e1386372d083c7998",
+      "date": "2026-12-03",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Kossuth vs. Alcorn Central vs. Tish. County",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "tish. county",
+          "name": "Tish. County",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth",
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
       "sequence": 0
     },
     {
@@ -2745,6 +4260,214 @@
       "sequence": 0
     },
     {
+      "id": "bowling-7ceec4db300a0fd33dad808c",
+      "contestId": "bowling-7ceec4db300a0fd33dad808c",
+      "date": "2026-12-07",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. Myrtle",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "myrtle",
+          "name": "Myrtle",
+          "mascot": ""
+        }
+      ],
+      "location": "Alcorn Central High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-c45dd2e852230e090c80deb2",
+      "contestId": "bowling-c45dd2e852230e090c80deb2",
+      "date": "2026-12-07",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. Myrtle",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "myrtle",
+          "name": "Myrtle",
+          "mascot": ""
+        }
+      ],
+      "location": "Alcorn Central High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-45036cad48d8233313c55883",
+      "contestId": "bowling-45036cad48d8233313c55883",
+      "date": "2026-12-07",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Biggersville vs. Corinth",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Bowling:Winter:26-27",
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth",
+        "Biggersville"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-0c4aad758a12c157fbe8812b",
+      "contestId": "bowling-0c4aad758a12c157fbe8812b",
+      "date": "2026-12-07",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Biggersville vs. Corinth",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Bowling:Winter:26-27",
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth",
+        "Biggersville"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-396619a8f32e741c78426659",
+      "contestId": "bowling-396619a8f32e741c78426659",
+      "date": "2026-12-07",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Kossuth at Lafayette",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "lafayette",
+          "name": "Lafayette",
+          "mascot": ""
+        }
+      ],
+      "location": "Lafayette (Oxford, MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-ccf62c70b436d81590013302",
+      "contestId": "bowling-ccf62c70b436d81590013302",
+      "date": "2026-12-07",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Kossuth at Lafayette",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "lafayette",
+          "name": "Lafayette",
+          "mascot": ""
+        }
+      ],
+      "location": "Lafayette (Oxford, MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
       "id": "Girls:Basketball:2fe0045a-05bf-4c6d-9906-e97812c8f939",
       "contestId": "2fe0045a-05bf-4c6d-9906-e97812c8f939",
       "updated": "2026-07-30T09:21:04",
@@ -3009,6 +4732,174 @@
       "sequence": 0
     },
     {
+      "id": "bowling-4180510335e6cdaaa6137148",
+      "contestId": "bowling-4180510335e6cdaaa6137148",
+      "date": "2026-12-09",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Biggersville bowling meet (opponent unconfirmed)",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "kossuth aggies|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-3aa85b2626a991787576eaf6",
+      "contestId": "bowling-3aa85b2626a991787576eaf6",
+      "date": "2026-12-09",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Biggersville vs. Kossuth",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Bowling:Spring:26-27",
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Kossuth",
+        "Biggersville"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-e4a094f15f13f4d2c51dc252",
+      "contestId": "bowling-e4a094f15f13f4d2c51dc252",
+      "date": "2026-12-09",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Corinth vs. Mantachie",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "mantachie",
+          "name": "Mantachie",
+          "mascot": ""
+        }
+      ],
+      "location": "Corinth High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-81df00250f5bdf2b6a92abdb",
+      "contestId": "bowling-81df00250f5bdf2b6a92abdb",
+      "date": "2026-12-09",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Corinth vs. Mantachie",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "mantachie",
+          "name": "Mantachie",
+          "mascot": ""
+        }
+      ],
+      "location": "Corinth High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-8b23b5831240407ee2ed83dd",
+      "contestId": "bowling-8b23b5831240407ee2ed83dd",
+      "date": "2026-12-09",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Kossuth vs. Biggersville",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth",
+        "Biggersville"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
       "id": "Girls:Soccer:5e063426-f100-4018-bd70-1c060adcdc49",
       "contestId": "5e063426-f100-4018-bd70-1c060adcdc49",
       "updated": "2026-10-08T08:16:14",
@@ -3138,6 +5029,74 @@
       "schools": [
         "Kossuth"
       ],
+      "sequence": 0
+    },
+    {
+      "id": "bowling-40d2b7687808214a736008ca",
+      "contestId": "bowling-40d2b7687808214a736008ca",
+      "date": "2026-12-10",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. North Pontotoc",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "north pontotoc",
+          "name": "North Pontotoc",
+          "mascot": ""
+        }
+      ],
+      "location": "Alcorn Central High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-1deea86f089f9ef303dbf0ea",
+      "contestId": "bowling-1deea86f089f9ef303dbf0ea",
+      "date": "2026-12-10",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. North Pontotoc",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "north pontotoc",
+          "name": "North Pontotoc",
+          "mascot": ""
+        }
+      ],
+      "location": "Alcorn Central High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
       "sequence": 0
     },
     {
@@ -3438,6 +5397,215 @@
       "sequence": 0
     },
     {
+      "id": "bowling-938ac96196eef2fbca39de1f",
+      "contestId": "bowling-938ac96196eef2fbca39de1f",
+      "date": "2026-12-14",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. Corinth",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Bowling:Winter:26-27",
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth",
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-2bedc044c05d24f45c989ed0",
+      "contestId": "bowling-2bedc044c05d24f45c989ed0",
+      "date": "2026-12-14",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. Corinth",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Bowling:Winter:26-27",
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth",
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-0a31a1d1fd49195c7937729c",
+      "contestId": "bowling-0a31a1d1fd49195c7937729c",
+      "date": "2026-12-14",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Biggersville vs. Corinth",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville",
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-d1f116c496bfc74815afc7c6",
+      "contestId": "bowling-d1f116c496bfc74815afc7c6",
+      "date": "2026-12-14",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Biggersville vs. Tishomingo County",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "tishomingo county",
+          "name": "Tishomingo County",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-29efd9988414e9b2f08678b8",
+      "contestId": "bowling-29efd9988414e9b2f08678b8",
+      "date": "2026-12-14",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Kossuth at Mantachie",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "mantachie",
+          "name": "Mantachie",
+          "mascot": ""
+        }
+      ],
+      "location": "Mantachie (MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-04673bf17c05528b157460ce",
+      "contestId": "bowling-04673bf17c05528b157460ce",
+      "date": "2026-12-14",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Kossuth at Mantachie",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "mantachie",
+          "name": "Mantachie",
+          "mascot": ""
+        }
+      ],
+      "location": "Mantachie (MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
       "id": "Girls:Soccer:b3f10a0e-93a2-4602-9e10-0af32933360a",
       "contestId": "b3f10a0e-93a2-4602-9e10-0af32933360a",
       "updated": "2026-09-10T09:14:29",
@@ -3702,6 +5870,142 @@
       "sequence": 0
     },
     {
+      "id": "bowling-1047f91b7d53a440803453df",
+      "contestId": "bowling-1047f91b7d53a440803453df",
+      "date": "2026-12-16",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Biggersville at Mantachie",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "mantachie",
+          "name": "Mantachie",
+          "mascot": ""
+        }
+      ],
+      "location": "Mantachie (MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "|3:00p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-fcd37c18f851c6e5a947b507",
+      "contestId": "bowling-fcd37c18f851c6e5a947b507",
+      "date": "2026-12-16",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Biggersville at Mantachie",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "mantachie",
+          "name": "Mantachie",
+          "mascot": ""
+        }
+      ],
+      "location": "Mantachie (MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "|3:00p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-794de35ae1d3eb0534ecc54d",
+      "contestId": "bowling-794de35ae1d3eb0534ecc54d",
+      "date": "2026-12-16",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Kossuth vs. Itawamba Agricultural",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "itawamba agricultural",
+          "name": "Itawamba Agricultural",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-c84322c239ab3a9a70885bbe",
+      "contestId": "bowling-c84322c239ab3a9a70885bbe",
+      "date": "2026-12-16",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Kossuth vs. Itawamba Agricultural",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "itawamba agricultural",
+          "name": "Itawamba Agricultural",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
       "id": "Girls:Soccer:6fdb1577-0adb-4f32-b615-713ab9676c31",
       "contestId": "6fdb1577-0adb-4f32-b615-713ab9676c31",
       "updated": "2026-10-20T20:08:13",
@@ -3901,6 +6205,74 @@
         "Kossuth",
         "Alcorn Central"
       ],
+      "sequence": 0
+    },
+    {
+      "id": "bowling-f3ee2ac7da8a8083a876d85a",
+      "contestId": "bowling-f3ee2ac7da8a8083a876d85a",
+      "date": "2026-12-17",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. Myrtle",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "myrtle",
+          "name": "Myrtle",
+          "mascot": ""
+        }
+      ],
+      "location": "Alcorn Central High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "|tba",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-e1fa00139b962bb7a41fc158",
+      "contestId": "bowling-e1fa00139b962bb7a41fc158",
+      "date": "2026-12-17",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. Myrtle",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "myrtle",
+          "name": "Myrtle",
+          "mascot": ""
+        }
+      ],
+      "location": "Alcorn Central High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "|tba",
       "sequence": 0
     },
     {
@@ -4762,6 +7134,276 @@
       "sequence": 0
     },
     {
+      "id": "bowling-ab3e134ff0efd96e17cf3dc3",
+      "contestId": "bowling-ab3e134ff0efd96e17cf3dc3",
+      "date": "2027-01-05",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. Biggersville",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central",
+        "Biggersville"
+      ],
+      "matchupHint": "|tba",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-0171de3c54c6c6762602265b",
+      "contestId": "bowling-0171de3c54c6c6762602265b",
+      "date": "2027-01-05",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. Biggersville",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central",
+        "Biggersville"
+      ],
+      "matchupHint": "|tba",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-98c89e3e9871ff222c31450b",
+      "contestId": "bowling-98c89e3e9871ff222c31450b",
+      "date": "2027-01-05",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Biggersville bowling meet (opponent unconfirmed)",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "alcorn central golden bears|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-e63befa1cda49f49e4d4a478",
+      "contestId": "bowling-e63befa1cda49f49e4d4a478",
+      "date": "2027-01-05",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Biggersville vs. Alcorn Central",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville",
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-5988f273d232162ffc57f5b5",
+      "contestId": "bowling-5988f273d232162ffc57f5b5",
+      "date": "2027-01-06",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Biggersville at Itawamba Agricultural",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "itawamba agricultural",
+          "name": "Itawamba Agricultural",
+          "mascot": ""
+        }
+      ],
+      "location": "Itawamba Agricultural (Fulton, MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "|3:00p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-575e443ee77e7b3620722844",
+      "contestId": "bowling-575e443ee77e7b3620722844",
+      "date": "2027-01-06",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Biggersville at Itawamba Agricultural",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "itawamba agricultural",
+          "name": "Itawamba Agricultural",
+          "mascot": ""
+        }
+      ],
+      "location": "Itawamba Agricultural (Fulton, MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "|3:00p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-baf18f24fcbaf4b3c735184b",
+      "contestId": "bowling-baf18f24fcbaf4b3c735184b",
+      "date": "2027-01-06",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Corinth at Tupelo",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "tupelo",
+          "name": "Tupelo",
+          "mascot": ""
+        }
+      ],
+      "location": "Tupelo (MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-f0a0c300fea307014cf6ded5",
+      "contestId": "bowling-f0a0c300fea307014cf6ded5",
+      "date": "2027-01-06",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Corinth at Tupelo",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "tupelo",
+          "name": "Tupelo",
+          "mascot": ""
+        }
+      ],
+      "location": "Tupelo (MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
       "id": "Girls:Soccer:3e15c599-e556-4e08-bc22-5e021a9b1c02",
       "contestId": "3e15c599-e556-4e08-bc22-5e021a9b1c02",
       "updated": "2026-07-06T08:36:34",
@@ -4858,6 +7500,74 @@
       "schools": [
         "Corinth"
       ],
+      "sequence": 0
+    },
+    {
+      "id": "bowling-b1c273cf46a3b96fc2e2248a",
+      "contestId": "bowling-b1c273cf46a3b96fc2e2248a",
+      "date": "2027-01-08",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Corinth at DeSoto Central",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "desoto central",
+          "name": "DeSoto Central",
+          "mascot": ""
+        }
+      ],
+      "location": "DeSoto Central (Southaven, MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "|4:15p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-4e3c9c1c80df3c7bdf108dd4",
+      "contestId": "bowling-4e3c9c1c80df3c7bdf108dd4",
+      "date": "2027-01-08",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Corinth at DeSoto Central",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "desoto central",
+          "name": "DeSoto Central",
+          "mascot": ""
+        }
+      ],
+      "location": "DeSoto Central (Southaven, MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "|4:15p",
       "sequence": 0
     },
     {
@@ -4990,6 +7700,238 @@
       "schools": [
         "Corinth"
       ],
+      "sequence": 0
+    },
+    {
+      "id": "bowling-b78e21fdb784f0f78f50bf93",
+      "contestId": "bowling-b78e21fdb784f0f78f50bf93",
+      "date": "2027-01-11",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Alcorn Central at Bi- County Tournament",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "bi- county tournament|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-34eb0e7432289c01c3c59bf8",
+      "contestId": "bowling-34eb0e7432289c01c3c59bf8",
+      "date": "2027-01-11",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Alcorn Central at Bi- County Tournament",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "bi- county tournament|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-95c8c89ccf59c907f1452825",
+      "contestId": "bowling-95c8c89ccf59c907f1452825",
+      "date": "2027-01-11",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Biggersville at Bi-County Tournament",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "bi-county tournament|2:00p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-c85da0a51c9cf8032d9bd625",
+      "contestId": "bowling-c85da0a51c9cf8032d9bd625",
+      "date": "2027-01-11",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Biggersville at Bi-County Tournament",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Biggersville High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "bi-county tournament|2:00p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-bfe65168aaa566b28b417784",
+      "contestId": "bowling-bfe65168aaa566b28b417784",
+      "date": "2027-01-11",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Corinth at Bi-County Bowl Tournament",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "bi-county bowl tournament|tba",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-c88efe079eba3d7a743e3385",
+      "contestId": "bowling-c88efe079eba3d7a743e3385",
+      "date": "2027-01-11",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Corinth at Bi-County Bowl Tournament",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "bi-county bowl tournament|tba",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-2a26c98d3617caba85e05867",
+      "contestId": "bowling-2a26c98d3617caba85e05867",
+      "date": "2027-01-11",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Kossuth at Bi-County Bowl",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "matchupHint": "bi-county bowl|2:00p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-b3c55858ea3640a4062e497e",
+      "contestId": "bowling-b3c55858ea3640a4062e497e",
+      "date": "2027-01-11",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Kossuth at Bi-County Bowl",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "matchupHint": "bi-county bowl|2:00p",
       "sequence": 0
     },
     {
@@ -5323,6 +8265,74 @@
       "sequence": 0
     },
     {
+      "id": "bowling-07f55c5123b1cbfa9b5a78db",
+      "contestId": "bowling-07f55c5123b1cbfa9b5a78db",
+      "date": "2027-01-12",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Biggersville at Tupelo",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "tupelo",
+          "name": "Tupelo",
+          "mascot": ""
+        }
+      ],
+      "location": "Tupelo (MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "|3:00p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-d4d94f06970ea17b75f947ca",
+      "contestId": "bowling-d4d94f06970ea17b75f947ca",
+      "date": "2027-01-12",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Biggersville at Tupelo",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        },
+        {
+          "id": "tupelo",
+          "name": "Tupelo",
+          "mascot": ""
+        }
+      ],
+      "location": "Tupelo (MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "|3:00p",
+      "sequence": 0
+    },
+    {
       "id": "Girls:Basketball:c8e9ab89-813f-4757-baee-afb5ae175e3c",
       "contestId": "c8e9ab89-813f-4757-baee-afb5ae175e3c",
       "updated": "2026-09-25T08:41:00",
@@ -5419,6 +8429,210 @@
       "schools": [
         "Biggersville"
       ],
+      "sequence": 0
+    },
+    {
+      "id": "bowling-d97ff898e15d711cee6ece16",
+      "contestId": "bowling-d97ff898e15d711cee6ece16",
+      "date": "2027-01-14",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. New Albany",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "new albany",
+          "name": "New Albany",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-a0086cddf95dcb6b5f9ef5ee",
+      "contestId": "bowling-a0086cddf95dcb6b5f9ef5ee",
+      "date": "2027-01-14",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Alcorn Central vs. New Albany",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        },
+        {
+          "id": "new albany",
+          "name": "New Albany",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-64432ad4e42a63e4e065136b",
+      "contestId": "bowling-64432ad4e42a63e4e065136b",
+      "date": "2027-01-14",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Corinth at Lafayette",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "lafayette",
+          "name": "Lafayette",
+          "mascot": ""
+        }
+      ],
+      "location": "Lafayette (Oxford, MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-05f83b1121e5a54366c0b3c8",
+      "contestId": "bowling-05f83b1121e5a54366c0b3c8",
+      "date": "2027-01-14",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Corinth at Lafayette",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        },
+        {
+          "id": "lafayette",
+          "name": "Lafayette",
+          "mascot": ""
+        }
+      ],
+      "location": "Lafayette (Oxford, MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-2e979f6743276f5daff86949",
+      "contestId": "bowling-2e979f6743276f5daff86949",
+      "date": "2027-01-14",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Kossuth at East Union",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "east union",
+          "name": "East Union",
+          "mascot": ""
+        }
+      ],
+      "location": "East Union (Blue Springs, MS) High School",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "matchupHint": "|3:30p",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-4bd88cb5309d9a74b26f194e",
+      "contestId": "bowling-4bd88cb5309d9a74b26f194e",
+      "date": "2027-01-14",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Kossuth vs. East Union",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        },
+        {
+          "id": "east union",
+          "name": "East Union",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "matchupHint": "|3:30p",
       "sequence": 0
     },
     {
@@ -6016,6 +9230,151 @@
       "sequence": 0
     },
     {
+      "id": "bowling-29fca2dba4d2f287ac6b7811",
+      "contestId": "bowling-29fca2dba4d2f287ac6b7811",
+      "date": "2027-01-20",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Alcorn Central at Class I North regionals Girls",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "class i north regionals girls|tba",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-3f167e3bcf1d61cd330ecfd9",
+      "contestId": "bowling-3f167e3bcf1d61cd330ecfd9",
+      "date": "2027-01-20",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Biggersville at Class 1 North Regionals (Girls)",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "class 1 north regionals (girls)|9:00a",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-265ec76f0770fc4035fd9256",
+      "contestId": "bowling-265ec76f0770fc4035fd9256",
+      "date": "2027-01-20",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Biggersville at Class 1 North Regionals (Girls)",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "class 1 north regionals (girls)|9:00a",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-3260cd82a53f530e198b6568",
+      "contestId": "bowling-3260cd82a53f530e198b6568",
+      "date": "2027-01-20",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Corinth at Class I Regional - Girls Tournament",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "class i regional - girls tournament|tba",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-272ef30c5ed6e768e3d558e2",
+      "contestId": "bowling-272ef30c5ed6e768e3d558e2",
+      "date": "2027-01-20",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Kossuth at Girls Regionals",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "matchupHint": "girls regionals|tba",
+      "sequence": 0
+    },
+    {
       "id": "Girls:Soccer:15a38860-5960-49a3-ae7a-89b4b9f119ac",
       "contestId": "15a38860-5960-49a3-ae7a-89b4b9f119ac",
       "updated": "2026-10-16T09:32:50",
@@ -6313,6 +9672,151 @@
       "sequence": 0
     },
     {
+      "id": "bowling-0e5204dc90c9a9412e7caae2",
+      "contestId": "bowling-0e5204dc90c9a9412e7caae2",
+      "date": "2027-01-22",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Alcorn Central at Class I North regionals Boys",
+      "participants": [
+        {
+          "id": "alcorn central",
+          "name": "Alcorn Central",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
+      "sourceKeys": [
+        "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Alcorn Central"
+      ],
+      "matchupHint": "class i north regionals boys|tba",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-4b5ab8408d9ff830eefeeb28",
+      "contestId": "bowling-4b5ab8408d9ff830eefeeb28",
+      "date": "2027-01-22",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Biggersville at Class 1 North Regionals (Boys)",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "class 1 north regionals (boys)|9:00a",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-f6a08aaaddc7f7d4b08ceb2c",
+      "contestId": "bowling-f6a08aaaddc7f7d4b08ceb2c",
+      "date": "2027-01-22",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Biggersville at Class 1 North Regionals (Boys)",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "class 1 north regionals (boys)|9:00a",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-2cb79a8069e049228a26e53f",
+      "contestId": "bowling-2cb79a8069e049228a26e53f",
+      "date": "2027-01-22",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Corinth at Class I Regional - Boys Tournament",
+      "participants": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/winter/schedule/",
+      "sourceKeys": [
+        "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Corinth"
+      ],
+      "matchupHint": "class i regional - boys tournament|tba",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-5816c429670e4f9067ce450f",
+      "contestId": "bowling-5816c429670e4f9067ce450f",
+      "date": "2027-01-22",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Kossuth at Boys Regionals",
+      "participants": [
+        {
+          "id": "kossuth",
+          "name": "Kossuth",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/spring/schedule/",
+      "sourceKeys": [
+        "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Bowling:Spring:26-27"
+      ],
+      "schools": [
+        "Kossuth"
+      ],
+      "matchupHint": "boys regionals|tba",
+      "sequence": 0
+    },
+    {
       "id": "Girls:Soccer:dc0a7a6c-f052-4536-9c2d-bf1b3ed29dc3",
       "contestId": "dc0a7a6c-f052-4536-9c2d-bf1b3ed29dc3",
       "updated": "2026-10-13T09:23:59",
@@ -6578,6 +10082,64 @@
       "schools": [
         "Biggersville"
       ],
+      "sequence": 0
+    },
+    {
+      "id": "bowling-7504ad589c0e64393251d1a4",
+      "contestId": "bowling-7504ad589c0e64393251d1a4",
+      "date": "2027-01-27",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Boys",
+      "level": "Varsity",
+      "title": "Biggersville at Class 1 State Championship",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "class 1 state championship|8:00a",
+      "sequence": 0
+    },
+    {
+      "id": "bowling-0b6df2ebe425dc8d0e91da00",
+      "contestId": "bowling-0b6df2ebe425dc8d0e91da00",
+      "date": "2027-01-27",
+      "time": null,
+      "updated": "",
+      "sport": "Bowling",
+      "gender": "Girls",
+      "level": "Varsity",
+      "title": "Biggersville at Class 1 State Tournament",
+      "participants": [
+        {
+          "id": "biggersville",
+          "name": "Biggersville",
+          "mascot": ""
+        }
+      ],
+      "location": "Location TBD",
+      "status": "scheduled",
+      "sourceUrl": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
+      "sourceKeys": [
+        "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27"
+      ],
+      "schools": [
+        "Biggersville"
+      ],
+      "matchupHint": "class 1 state tournament|8:00a",
       "sequence": 0
     },
     {
@@ -12039,7 +15601,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Baseball:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/baseball/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 18
     },
@@ -12052,7 +15614,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Golf:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/golf/spring/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12065,7 +15627,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Tennis:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/tennis/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12078,7 +15640,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Golf:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/golf/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12091,7 +15653,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Softball:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/softball/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 24
     },
@@ -12104,7 +15666,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Tennis:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/tennis/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12117,7 +15679,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Basketball:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/basketball/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 25
     },
@@ -12129,10 +15691,10 @@
       "year": "26-27",
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Bowling:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/winter/schedule/",
-      "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-21T21:26:55.005Z",
-      "error": "Schedule format unavailable; previous events retained",
-      "upcoming": 0
+      "note": "MaxPreps bowling schedule. Confirm local start times with the school.",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
+      "error": null,
+      "upcoming": 11
     },
     {
       "school": "Corinth",
@@ -12143,7 +15705,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Soccer:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/soccer/winter/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 17
     },
@@ -12156,7 +15718,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Basketball:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/basketball/girls/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 20
     },
@@ -12168,10 +15730,10 @@
       "year": "26-27",
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Bowling:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/bowling/girls/winter/schedule/",
-      "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-21T22:26:32.536Z",
-      "error": "Schedule format unavailable; previous events retained",
-      "upcoming": 0
+      "note": "MaxPreps bowling schedule. Confirm local start times with the school.",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
+      "error": null,
+      "upcoming": 11
     },
     {
       "school": "Corinth",
@@ -12182,7 +15744,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Soccer:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/soccer/girls/winter/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 18
     },
@@ -12195,7 +15757,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Cross Country:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/cross-country/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12208,7 +15770,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Football:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/football/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12221,7 +15783,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Golf:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/golf/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12234,7 +15796,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Boys:Soccer:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/soccer/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12247,7 +15809,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Golf:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/golf/girls/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12260,7 +15822,7 @@
       "key": "1fa76ee8-530b-4bda-bab6-81b2f4d2a0aa:Girls:Volleyball:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/volleyball/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12273,7 +15835,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Baseball:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/baseball/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 27
     },
@@ -12285,10 +15847,10 @@
       "year": "26-27",
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Bowling:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/spring/schedule/",
-      "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T14:23:24.007Z",
-      "error": "Schedule format unavailable; previous events retained",
-      "upcoming": 0
+      "note": "MaxPreps bowling schedule. Confirm local start times with the school.",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
+      "error": null,
+      "upcoming": 10
     },
     {
       "school": "Kossuth",
@@ -12299,7 +15861,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Tennis:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/tennis/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12311,10 +15873,10 @@
       "year": "26-27",
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Bowling:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/spring/schedule/",
-      "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-27T21:20:20.873Z",
-      "error": "Schedule format unavailable; previous events retained",
-      "upcoming": 0
+      "note": "MaxPreps bowling schedule. Confirm local start times with the school.",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
+      "error": null,
+      "upcoming": 10
     },
     {
       "school": "Kossuth",
@@ -12325,7 +15887,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Golf:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/golf/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12338,7 +15900,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Softball:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/softball/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 14
     },
@@ -12351,7 +15913,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Tennis:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/tennis/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12364,7 +15926,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Basketball:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/basketball/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 16
     },
@@ -12377,7 +15939,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Bowling:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/winter/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12390,7 +15952,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Basketball:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/basketball/girls/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 19
     },
@@ -12403,7 +15965,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Bowling:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/bowling/girls/winter/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12416,7 +15978,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Cross Country:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/cross-country/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12429,7 +15991,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Football:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/football/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12442,7 +16004,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Boys:Golf:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/golf/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12455,7 +16017,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Cross Country:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/cross-country/girls/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12468,7 +16030,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Golf:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/golf/girls/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12481,7 +16043,7 @@
       "key": "d0fd53e0-3bdd-4062-9626-a62e4ea854d4:Girls:Volleyball:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/volleyball/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12494,7 +16056,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Baseball:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/baseball/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 18
     },
@@ -12507,7 +16069,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Tennis:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/tennis/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12520,7 +16082,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Weight Lifting:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/weight-lifting/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12533,7 +16095,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Softball:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/softball/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 15
     },
@@ -12546,7 +16108,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Tennis:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/tennis/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12559,7 +16121,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Basketball:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/basketball/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 19
     },
@@ -12571,10 +16133,10 @@
       "year": "26-27",
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Bowling:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/winter/schedule/",
-      "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-21T13:28:30.012Z",
-      "error": "Schedule format unavailable; previous events retained",
-      "upcoming": 0
+      "note": "MaxPreps bowling schedule. Confirm local start times with the school.",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
+      "error": null,
+      "upcoming": 13
     },
     {
       "school": "Biggersville",
@@ -12585,7 +16147,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Basketball:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/basketball/girls/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 22
     },
@@ -12597,10 +16159,10 @@
       "year": "26-27",
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Bowling:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/bowling/girls/winter/schedule/",
-      "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-10-28T13:22:11.236Z",
-      "error": "Schedule format unavailable; previous events retained",
-      "upcoming": 0
+      "note": "MaxPreps bowling schedule. Confirm local start times with the school.",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
+      "error": null,
+      "upcoming": 13
     },
     {
       "school": "Biggersville",
@@ -12611,7 +16173,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Cross Country:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/cross-country/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12624,7 +16186,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Football:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/football/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12637,7 +16199,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Boys:Golf:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/golf/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12650,7 +16212,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Cross Country:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/cross-country/girls/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12663,7 +16225,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Golf:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/golf/girls/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12676,7 +16238,7 @@
       "key": "517d1cbd-cc8f-47b1-b89d-84fe62aef16d:Girls:Volleyball:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/volleyball/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12689,7 +16251,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Baseball:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/baseball/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 27
     },
@@ -12702,7 +16264,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Tennis:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/tennis/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12715,7 +16277,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Softball:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/softball/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 16
     },
@@ -12728,7 +16290,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Tennis:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/tennis/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12741,7 +16303,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Weight Lifting:Spring:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/weight-lifting/girls/spring/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12754,7 +16316,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Basketball:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/basketball/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 22
     },
@@ -12766,10 +16328,10 @@
       "year": "26-27",
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Bowling:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/winter/schedule/",
-      "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-03T14:20:38.220Z",
-      "error": "Schedule format unavailable; previous events retained",
-      "upcoming": 0
+      "note": "MaxPreps bowling schedule. Confirm local start times with the school.",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
+      "error": null,
+      "upcoming": 10
     },
     {
       "school": "Alcorn Central",
@@ -12780,7 +16342,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Soccer:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/soccer/winter/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12793,7 +16355,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Basketball:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/basketball/girls/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 19
     },
@@ -12805,10 +16367,10 @@
       "year": "26-27",
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Bowling:Winter:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/bowling/girls/winter/schedule/",
-      "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-04T01:19:32.263Z",
-      "error": "Schedule format unavailable; previous events retained",
-      "upcoming": 0
+      "note": "MaxPreps bowling schedule. Confirm local start times with the school.",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
+      "error": null,
+      "upcoming": 10
     },
     {
       "school": "Alcorn Central",
@@ -12819,7 +16381,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Cross Country:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/cross-country/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12832,7 +16394,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Football:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/football/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12845,7 +16407,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Boys:Golf:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/golf/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12858,7 +16420,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Cross Country:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/cross-country/girls/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12871,7 +16433,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Golf:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/golf/girls/schedule/",
       "note": "No schedule published on MaxPreps",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12884,7 +16446,7 @@
       "key": "c8cbbea0-c3c0-4ee1-a042-3d74c72e5c89:Girls:Volleyball:Fall:26-27",
       "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/volleyball/schedule/",
       "note": "",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "upcoming": 0
     },
@@ -12898,7 +16460,7 @@
       "provider": "MileSplit",
       "key": "milesplit:7669:cc:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/7669/schedules?season=cc&year=2026",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "note": "",
       "upcoming": 0
@@ -12913,7 +16475,7 @@
       "provider": "MileSplit",
       "key": "milesplit:7669:indoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/7669/schedules?season=indoor&year=2026",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12928,7 +16490,7 @@
       "provider": "MileSplit",
       "key": "milesplit:7669:outdoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/7669/schedules?season=outdoor&year=2026",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12943,7 +16505,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8518:cc:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8518/schedules?season=cc&year=2026",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "note": "",
       "upcoming": 0
@@ -12958,7 +16520,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8518:indoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8518/schedules?season=indoor&year=2026",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12973,7 +16535,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8518:outdoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8518/schedules?season=outdoor&year=2026",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -12988,7 +16550,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8517:cc:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8517/schedules?season=cc&year=2026",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "note": "",
       "upcoming": 0
@@ -13003,7 +16565,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8517:indoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8517/schedules?season=indoor&year=2026",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -13018,7 +16580,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8517:outdoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8517/schedules?season=outdoor&year=2026",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -13033,7 +16595,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8516:cc:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8516/schedules?season=cc&year=2026",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "note": "",
       "upcoming": 0
@@ -13048,7 +16610,7 @@
       "provider": "MileSplit",
       "key": "milesplit:8516:indoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8516/schedules?season=indoor&year=2026",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
@@ -13063,20 +16625,11 @@
       "provider": "MileSplit",
       "key": "milesplit:8516:outdoor:2026",
       "url": "https://ms.milesplit.com/api/v1/teams/8516/schedules?season=outdoor&year=2026",
-      "lastSuccess": "2026-11-17T18:22:50.055Z",
+      "lastSuccess": "2026-11-17T19:06:26.188Z",
       "error": null,
       "note": "No varsity meets published on MileSplit",
       "upcoming": 0
     }
   ],
-  "issues": [
-    "Corinth Boys Bowling: Schedule format unavailable; previous events retained",
-    "Corinth Girls Bowling: Schedule format unavailable; previous events retained",
-    "Kossuth Boys Bowling: Schedule format unavailable; previous events retained",
-    "Kossuth Girls Bowling: Schedule format unavailable; previous events retained",
-    "Biggersville Boys Bowling: Schedule format unavailable; previous events retained",
-    "Biggersville Girls Bowling: Schedule format unavailable; previous events retained",
-    "Alcorn Central Boys Bowling: Schedule format unavailable; previous events retained",
-    "Alcorn Central Girls Bowling: Schedule format unavailable; previous events retained"
-  ]
+  "issues": []
 }
